@@ -1,7 +1,7 @@
 certifi==2021.5.30
 cffi==1.14.5
 chardet==4.0.0
-click @ file:///tmp/build/80754af9/click_1621604852318/work
+click==8.0.1
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 cryptography==3.4.7
 cycler==0.10.0
