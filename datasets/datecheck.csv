@@ -1,0 +1,1003 @@
+CUSTOMER ID,CUSTOMER NAME,PHONE NO,PRODUCT CATEGORY,PRODUCT NAME,ISSUES,,SEVERITY,CREATED BY,OPENED,CLOSED,DATE-OPENED,DATECLOSED,s,d,Hours,Days
+57082,Sam,324-4473-99,Laptop,Ace TouchPad 2000,Power Button not working,,High,Rohan,11:00 AM,4:00 PM,04-11-2020,05-11-2020,04-11-2020 11:00,05-11-2020 16:00,29,2
+44986,Preston,290-1272-86,Laptop,Ace Notebook 2.0,Battery does not charge upto 100%,3,Medium,Ahmed,12:00 PM,1:00 PM,11-14-2020,11-16-2020,14-11-2020 00:00,16-11-2020 00:00,48,2
+25380,Arnold,077-9303-75,Laptop,Ace Notebook 1.0,Battery replacement,3,Low,Raj,7:00 AM,6:00 PM,12-26-2020,12-29-2020,26-12-2020 00:00,29-12-2020 00:00,72,3
+60230,Vanessa,560-0342-45,Laptop,Ace Notebook 1.0,Screen Flickering when connected to charger,,Medium,Surya,5:00 PM,7:00 PM,12-17-2020,12-19-2020,17-12-2020 00:00,19-12-2020 00:00,48,2
+76732,Haris,055-3441-13,Laptop,Ace Notebook 1.0,"Battery not charging, laptop works with charger",3,Low,Abhishek,7:00 PM,8:00 AM,12-13-2020,12-16-2020,13-12-2020 00:00,16-12-2020 00:00,72,3
+39639,Briony,905-9502-65,Laptop,Ace TouchPad 2000,Charging port is loose,,High,Rohan,8:00 AM,2:00 PM,12-08-2020,12-09-2020,12-08-2020 08:00,12-09-2020 14:00,750,32
+90365,Honey,284-3288-30,Laptop,Ace Lappy 1126,Keyboard not working,,Medium,Rohan,2:00 PM,1:00 PM,12-12-2020,12-13-2020,12-12-2020 14:00,13-12-2020 00:00,10,1
+46833,Paige,175-8420-30,Laptop,Ace TouchPad 2000,Touchscreen not working,,Medium,Rohan,1:00 PM,10:00 AM,10-12-2020,10-14-2020,10-12-2020 13:00,14-10-2020 00:00,1381,58
+18891,Aldus,621-8812-40,Laptop,Ace Notebook 2.0 Lite,Display cracked,,High,Rohan,10:00 AM,9:00 PM,12-17-2020,12-18-2020,17-12-2020 00:00,18-12-2020 00:00,24,1
+81800,Agata,418-5508-62,Tablet,Ace NotePad 4,Screen borken,,High,Rohan,9:00 AM,4:00 PM,10-12-2020,10-13-2020,10-12-2020 09:00,13-10-2020 00:00,1401,59
+6703,Charlie,909-8751-07,Tablet,Ace Tablet 500 Mini,Touchpad not working,,High,Rohan,4:00 PM,12:00 PM,11-07-2020,11-08-2020,11-07-2020 16:00,11-08-2020 12:00,740,31
+55414,Alford,903-1656-20,Tablet,Ace Swift F20 Lite,Not charging,,High,Rohan,12:00 PM,7:00 PM,11-03-2020,11-04-2020,11-03-2020 12:00,11-04-2020 19:00,751,32
+56011,Steven,767-2428-13,Tablet,Ace NotePad 4,Overheating very often,,Medium,Rohan,7:00 PM,9:00 AM,10-16-2020,10-17-2020,16-10-2020 00:00,17-10-2020 00:00,24,1
+64000,Amber,526-8035-16,Tablet,Ace Tab E750 Pro,Not charging,,High,Rohan,9:00 AM,11:00 AM,10-26-2020,10-27-2020,26-10-2020 00:00,27-10-2020 00:00,24,1
+7242,Eddy,981-8587-51,Tablet,Ace Tablet 500 Mini,Issue connecting to networks,,Low,Rohan,11:00 AM,12:00 PM,12-31-2020,01-03-2021,31-12-2020 00:00,01-03-2021 12:00,1452,61
+79859,Evelyn,120-7642-46,Phone,Ace M31 Prime,Phone lags and freezes,,Medium,Rohan,12:00 PM,2:00 PM,11-14-2020,11-15-2020,14-11-2020 00:00,15-11-2020 00:00,24,1
+18746,Haris,775-0490-78,Phone,Ace 6,Overheating,,Low,Abhishek,2:00 PM,3:00 PM,12-25-2020,12-29-2020,25-12-2020 00:00,29-12-2020 00:00,96,4
+94304,Sophia,081-2247-63,Phone,Ace 5s,"Water damage, phone dead",,High,Abhishek,3:00 PM,8:00 PM,10-14-2020,10-15-2020,14-10-2020 00:00,15-10-2020 00:00,24,1
+1715,Thomas,386-8463-51,Phone,Ace X3,Display cracked completely,,High,Abhishek,8:00 PM,3:00 PM,11-14-2020,11-15-2020,14-11-2020 00:00,15-11-2020 00:00,24,1
+77604,Emily,788-2643-06,Phone,Ace Galaxy S9,Ace pen not recognized,1,Low,Abhishek,3:00 PM,5:00 PM,11-07-2020,11-09-2020,11-07-2020 15:00,11-09-2020 17:00,1490,63
+93818,Garry,415-1734-93,Phone,Ace 6s+,Damaged charging port,,High,Abhishek,5:00 PM,6:00 PM,12-30-2020,12-31-2020,30-12-2020 00:00,31-12-2020 00:00,24,1
+26590,Caroline,489-0765-10,Phone,Ace Galaxy S10,Ace pen not recognized,1,Low,Abhishek,6:00 PM,7:00 PM,10-27-2020,10-30-2020,27-10-2020 00:00,30-10-2020 00:00,72,3
+72993,Penelope,690-8435-34,Phone,Ace 5s,Phone dead,,High,Abhishek,7:00 PM,6:00 PM,10-02-2020,10-03-2021,10-02-2020 19:00,10-03-2021 18:00,9455,394
+7721,Edgar,822-3699-15,Phone,Ace Galaxy S6,Cannot download apps,,Medium,Abhishek,10:00 PM,11:00 AM,12-27-2020,12-28-2020,27-12-2020 00:00,28-12-2020 00:00,24,1
+61956,Fiona,988-3514-00,Phone,Ace 5,Cannot connect to wifi,,Low,Abhishek,11:00 AM,12:00 PM,12-02-2020,11-05-2020,12-02-2020 11:00,11-05-2020 12:00,2137,90
+20067,William,498-4717-77,Phone,Ace 5,Low battery life,,Low,Abhishek,12:00 PM,7:00 AM,10-14-2020,10-16-2020,14-10-2020 00:00,16-10-2020 00:00,48,2
+10211,Kimberly,958-2476-82,Phone,Ace X3,Phone crashes and reboots often,,High,Abhishek,7:00 AM,5:00 PM,12-30-2020,12-31-2020,30-12-2020 00:00,31-12-2020 00:00,24,1
+80457,Mary,747-3287-04,Phone,Ace Galaxy S10,Charger port damaged,,High,Abhishek,5:00 PM,7:00 PM,10-12-2020,10-12-2020,10-12-2020 17:00,10-12-2020 19:00,2,1
+45839,Henry,379-7151-89,Phone,Ace X3,Screen cracked partially,,Medium,Abhishek,7:00 PM,8:00 AM,11-04-2020,11-05-2020,11-04-2020 19:00,11-05-2020 08:00,709,30
+99650,Byron,891-5040-15,Phone,Ace Galaxy S9,Touchpad not working,,High,Abhishek,5:00 PM,2:00 PM,11-26-2020,11-27-2021,26-11-2020 00:00,27-11-2021 00:00,8784,366
+8553,Violet,954-9195-33,Phone,Ace M31 Prime,Unresponsive power button,,Medium,Surya,2:00 PM,1:00 PM,11-19-2020,11-21-0202,19-11-2020 00:00,21-11-2102 00:00,718824,29951
+86139,Briony,893-4091-40,Phone,Ace X3,Low battery life,,Low,Surya,1:00 PM,10:00 AM,11-17-2020,11-20-0202,17-11-2020 00:00,20-11-2102 00:00,718848,29952
+6334,Alexia,997-0999-25,Phone,Ace 6s+,Phone lagging,,Low,Surya,10:00 AM,9:00 AM,10-14-2020,10-16-2020,14-10-2020 00:00,16-10-2020 00:00,48,2
+24728,Lily,344-9224-62,Desktop,Ace A700,Overheating,,Medium,Surya,9:00 AM,4:00 PM,11-12-2020,11-13-2020,11-12-2020 09:00,13-11-2020 00:00,681,29
+16578,Lilianna,494-9108-97,Desktop,Ace Quantum Core 5278,Blue screen,4,High,Surya,4:00 PM,6:00 PM,11-22-2020,11-23-2020,22-11-2020 00:00,23-11-2020 00:00,24,1
+62881,Victor,503-4092-44,Desktop,Ace PC 3699,Display broken,,High,Surya,12:00 PM,12:00 AM,11-11-2020,11-12-2020,11-11-2020 12:00,11-12-2020 00:00,708,30
+74644,Alisa,277-3679-69,Desktop,Ace Zeus V01,Fans not working,,High,Surya,7:00 PM,9:00 AM,12-15-2020,12-16-2020,15-12-2020 00:00,16-12-2020 00:00,24,1
+60554,Kimberly,099-1157-02,Desktop,Ace Zeus V01,Keyboard not responding,,Medium,Surya,9:00 AM,11:00 AM,10-25-2020,10-26-2020,25-10-2020 00:00,26-10-2020 00:00,24,1
+28396,Garry,146-4948-73,Tablet,Ace Tablet 500 Mini,Low battery life,,Low,Surya,11:00 AM,12:00 PM,12-29-2020,12-31-2020,29-12-2020 00:00,31-12-2020 00:00,48,2
+25901,Carl,040-3864-24,Tablet,Ace Tablet 500 Mini,Display cracked completely,,High,Surya,12:00 PM,2:00 PM,10-20-2020,10-21-2020,20-10-2020 00:00,21-10-2020 00:00,24,1
+22125,Fenton,198-3413-15,Tablet,Ace NotePad 2,Pen not working,,Medium,Surya,2:00 PM,3:00 PM,12-31-2020,01-02-2021,31-12-2020 00:00,01-02-2021 15:00,783,33
+6143,Sydney,529-2346-56,Tablet,Ace Tab E750,Keypad not working,,Medium,Surya,3:00 PM,2:00 PM,11-09-2020,11-11-2020,11-09-2020 15:00,11-11-2020 14:00,1463,61
+55598,Annabella,937-2320-66,Tablet,Ace NotePad 4,Touchpad not working,,High,Surya,8:00 PM,3:00 PM,10-14-2020,10-15-2020,14-10-2020 00:00,15-10-2020 00:00,24,1
+26822,Garry,189-5763-59,Tablet,Ace Swift F20,Water damage,,High,Surya,3:00 PM,8:00 PM,10-27-2020,10-27-2020,27-10-2020 00:00,27-10-2020 00:00,0,0
+96568,Caroline,811-0710-50,Tablet,Ace Tab E750 Pro,Volume buttons unresponsive,,Medium,Surya,7:00 PM,6:00 PM,10-24-2020,10-25-2020,24-10-2020 00:00,25-10-2020 00:00,24,1
+13412,David,783-5749-91,Tablet,Ace Swift F20 Lite,Touchpad not working,,High,Surya,6:00 PM,3:00 PM,11-22-2020,11-23-2020,22-11-2020 00:00,23-11-2020 00:00,24,1
+84961,Tess,228-8522-27,Tablet,Ace Swift F20,Extremely sLow and lagging,,Medium,Ahmed,7:00 PM,10:00 PM,10-14-2020,10-15-2020,14-10-2020 00:00,15-10-2020 00:00,24,1
+70109,Chloe,921-9520-39,Phone,Ace 6s+,Battery not charging,3,High,Ahmed,10:00 PM,9:00 AM,12-27-2020,12-28-2020,27-12-2020 00:00,28-12-2020 00:00,24,1
+96331,Dainton,942-0989-89,Phone,Ace M31 Prime,Power Button not working,,Medium,Ahmed,8:00 AM,2:00 PM,10-01-2020,10-02-2020,10-01-2020 08:00,10-02-2020 14:00,750,32
+88135,Preston,678-1395-27,Phone,Ace X3,Display damaged,,High,Ahmed,2:00 PM,11:00 AM,11-23-2020,11-24-2020,23-11-2020 00:00,24-11-2020 00:00,24,1
+25690,Ted,919-3379-61,Phone,Ace 6s+,Headphone port not working,,Medium,Ahmed,1:00 PM,12:30 AM,12-18-2020,12-19-2020,18-12-2020 00:00,19-12-2020 00:00,24,1
+12745,Blake,079-8678-85,Phone,Ace 5s,Phone lagging,,Low,Ahmed,10:00 AM,3:00 PM,11-24-2020,11-27-2020,24-11-2020 00:00,27-11-2020 00:00,72,3
+28741,Brooke,648-8058-08,Phone,Ace Galaxy S6,Screen buring,,Medium,Ahmed,11:00 AM,9:45 AM,12-13-2020,12-14-2020,13-12-2020 00:00,14-12-2020 00:00,24,1
+66061,Jenna,317-9952-66,Phone,Ace M31 Prime,Speakers not working,,High,Ahmed,4:00 PM,8:00 PM,10-07-2020,10-07-2020,10-07-2020 16:00,10-07-2020 20:00,4,1
+31032,Jessica,908-8062-73,Phone,Ace M31 Prime,Calling feature unresponsive,11,High,Ahmed,12:00 PM,10:00 AM,10-15-2020,10-16-2020,15-10-2020 00:00,16-10-2020 00:00,24,1
+97622,Natalie,411-5902-30,Phone,Ace 6,Speakers damaged,,Medium,Ahmed,7:00 PM,10:00 PM,11-09-2020,11-10-2020,11-09-2020 19:00,11-10-2020 22:00,723,31
+6018,Wilson,322-8190-15,Phone,Ace 5,Phone reebots often,,High,Ahmed,8:00 AM,7:00 AM,12-30-2020,12-31-2020,30-12-2020 00:00,31-12-2020 00:00,24,1
+60249,Adrian,602-7402-11,Phone,Ace 5,Not charging,,High,Ahmed,11:00 AM,9:00 AM,11-01-2020,11-02-2020,11-01-2020 11:00,11-02-2020 09:00,742,31
+54940,Maria,997-6826-21,Phone,Ace X3,Touchpad unresponsive,,High,Ahmed,12:00 PM,8:00 AM,10-23-2020,10-24-2020,23-10-2020 00:00,24-10-2020 00:00,24,1
+82014,Naomi,887-3614-34,Phone,Ace 5s,Water damage,,High,Ahmed,2:00 PM,2:00 PM,12-24-2020,12-25-2020,24-12-2020 00:00,25-12-2020 00:00,24,1
+23331,Madaline,164-2807-68,Phone,Ace X3,Low battery life,,Low,Ahmed,3:00 PM,1:00 PM,12-22-2020,12-25-2020,22-12-2020 00:00,25-12-2020 00:00,72,3
+84061,Jenna,782-3599-55,Phone,Ace 5,Doesnot charge upto 100%,,Medium,Raj,8:00 PM,10:00 AM,10-28-2020,10-29-2020,28-10-2020 00:00,29-10-2020 00:00,24,1
+73279,Savana,634-0081-36,Phone,Ace Galaxy S4,Can't connect to wifi,,Medium,Raj,3:00 PM,9:00 AM,10-07-2020,10-09-2020,10-07-2020 15:00,10-09-2020 09:00,1482,62
+78510,Adele,719-3254-35,Phone,Ace 6s+,SLow Phone,,Low,Raj,5:00 PM,4:00 PM,12-10-2020,12-13-2020,12-10-2020 17:00,13-12-2020 00:00,1471,62
+13418,Kevin,380-2343-16,Laptop,Ace Swift F20 Lite,Speakers not working,,Medium,Raj,6:00 PM,12:00 PM,11-03-2020,11-08-2020,11-03-2020 18:00,11-08-2020 12:00,3666,153
+8614,Penelope,112-6455-75,Laptop,Ace Swift F20 Lite,Low battery life,,Low,Raj,7:00 PM,3:00 PM,11-24-2020,11-26-2020,24-11-2020 00:00,26-11-2020 00:00,48,2
+65382,Ryan,419-9684-57,Laptop,Ace SparX,Cannot install apps,,Medium,Raj,10:00 PM,9:00 AM,12-31-2020,01-02-2021,31-12-2020 00:00,01-02-2021 09:00,777,33
+21467,Paige,578-5707-31,Laptop,Ace Notebook 2.0 Lite,RAM not accessible,,High,Raj,5:00 PM,11:00 AM,10-30-2020,10-31-2020,30-10-2020 00:00,31-10-2020 00:00,24,1
+60540,Ryan,689-5683-99,Laptop,Ace Lappy 1126,Cannot install updates,,Low,Raj,7:00 PM,12:00 PM,12-10-2020,12-13-2020,12-10-2020 19:00,13-12-2020 00:00,1469,62
+6285,Sawyer,899-4560-35,Laptop,Ace SparX Pro,Display damaged,,High,Raj,11:32 AM,10:00 AM,11-16-2020,11-17-2020,16-11-2020 00:00,17-11-2020 00:00,24,1
+10755,Kellan,249-6204-63,Laptop,Ace Infinite,Touchscreen unresponsive sometimes,,Low,Raj,2:00 PM,3:00 PM,12-26-2020,12-29-2020,26-12-2020 00:00,29-12-2020 00:00,72,3
+68576,Marcus,937-4026-99,Laptop,Ace TouchPad 2000,Keyboard damaged,,Medium,Raj,1:00 PM,8:00 AM,10-03-2020,10-05-2020,10-03-2020 13:00,10-05-2020 08:00,1459,61
+26856,Henry,492-0374-00,Laptop,Ace Flare S6,Touchscreen unresponsive,,Medium,Raj,10:00 AM,3:00 PM,10-03-2020,10-04-2020,10-03-2020 10:00,10-04-2020 15:00,749,32
+80868,Jenna,854-7567-33,Laptop,Ace Lappy 1126,Water damage,,High,Raj,9:00 AM,5:00 PM,10-13-2020,10-13-2020,13-10-2020 00:00,13-10-2020 00:00,0,0
+45755,Eddy,211-1370-56,Desktop,Ace Quantum Core 5278,Processor burning,,High,Raj,4:00 PM,1:30 PM,11-12-2020,11-13-2020,11-12-2020 16:00,13-11-2020 00:00,688,29
+1847,Isabella,374-2492-21,Desktop,Ace Pro 2000,Keyboard unresponsive,,Medium,Rohan,12:00 PM,7:00 PM,12-15-2020,12-17-2020,15-12-2020 00:00,17-12-2020 00:00,48,2
+75512,Anna,127-6684-17,Desktop,Ace Zeus V01,Fans not working sometimes,,Medium,Rohan,7:00 PM,10:00 PM,10-29-2020,10-30-2020,29-10-2020 00:00,30-10-2020 00:00,24,1
+61596,James,699-2467-75,Desktop,Ace Pro 1000,Cannot install updates,,Low,Rohan,9:00 AM,11:00 AM,12-10-2020,12-12-2020,12-10-2020 09:00,12-12-2020 11:00,1466,62
+68921,Arthur,012-9363-31,Desktop,Ace PC 3699,Cannot install updates,,Low,Rohan,11:00 AM,5:00 PM,11-09-2020,11-12-2020,11-09-2020 11:00,11-12-2020 17:00,2190,92
+72766,Bruce,007-8361-77,Desktop,Ace AZ Desktop,Screen blackout when turning on,,Medium,Rohan,12:00 PM,7:00 PM,11-30-2020,12-01-2020,30-11-2020 00:00,12-01-2020 19:00,7733,323
+23457,Owen,364-0857-39,Desktop,Ace A700,Minor monitor issues,,Medium,Surya,7:00 PM,8:00 AM,10-15-2020,10-17-2020,15-10-2020 00:00,17-10-2020 00:00,48,2
+14713,Daisy,001-0230-79,Desktop,Ace AZ Desktop,Monitor ghosting,,Medium,Surya,8:00 AM,2:00 PM,12-29-2020,12-30-2020,29-12-2020 00:00,30-12-2020 00:00,24,1
+97072,Tara,998-5159-83,Desktop,Ace Quantum Core 5278,Blue Screen,4,High,Surya,2:00 PM,1:00 PM,11-19-2020,11-20-2020,19-11-2020 00:00,20-11-2020 00:00,24,1
+30582,Dale,004-3703-59,Desktop,Ace Pro 2000,Failing power supply,,High,Surya,1:00 PM,10:00 AM,12-07-2020,11-09-2020,12-07-2020 13:00,11-09-2020 10:00,1461,61
+38005,Naomi,335-5814-72,Phone,Ace M31 Prime,Screen frozen,,High,Surya,10:00 AM,9:00 AM,12-22-2020,12-23-2020,22-12-2020 00:00,23-12-2020 00:00,24,1
+64304,Chester,900-9555-97,Phone,Ace X3,Unresponsive power button,,Medium,Surya,9:00 AM,8:00 PM,11-01-2020,11-03-2020,11-01-2020 09:00,11-03-2020 20:00,1451,61
+70503,Richard,111-0829-64,Phone,Ace X3,Cannot install apps,,Low,Ahmed,4:00 PM,12:00 PM,10-07-2020,10-10-2020,10-07-2020 16:00,10-10-2020 12:00,2204,92
+33739,Aida,290-7826-89,Phone,Ace Galaxy S4,Wifi connection issues,,Low,Ahmed,12:00 PM,7:00 PM,12-03-2020,11-05-2020,12-03-2020 12:00,11-05-2020 19:00,1447,61
+50085,Paige,040-7949-82,Phone,Ace 6s+,Speakers damaged,,Medium,Ahmed,11:00 AM,9:00 AM,10-13-2020,10-15-2020,13-10-2020 00:00,15-10-2020 00:00,48,2
+65733,Annabella,359-8023-66,Phone,Ace Galaxy S6,Calling feature unresponsive,11,High,Ahmed,12:00 PM,11:00 AM,12-23-2020,12-24-2020,23-12-2020 00:00,24-12-2020 00:00,24,1
+46594,Edward,133-1665-75,Phone,Ace M31 Prime,Broken Camera,7,Medium,Ahmed,7:00 AM,12:00 PM,12-26-2020,12-25-2020,26-12-2020 00:00,25-12-2020 00:00,24,1
+81556,Lily,528-1680-77,Phone,Ace Galaxy S9,cannot connect to the network,,Medium,Ahmed,5:00 PM,2:00 PM,11-29-2020,12-01-2020,29-11-2020 00:00,12-01-2020 14:00,7714,322
+55686,Harold,325-1669-29,Phone,Ace Galaxy S4,Camera not working,7,Medium,Ahmed,7:00 PM,3:00 PM,12-10-2020,12-12-2020,12-10-2020 19:00,12-12-2020 15:00,1460,61
+32849,William,160-1712-66,Phone,Ace Galaxy S6,IR blaster unresponsive sometimes,,Low,Ahmed,8:00 AM,2:00 PM,10-05-2020,10-08-2020,10-05-2020 08:00,10-08-2020 14:00,2214,93
+44952,Freddie,752-5065-24,Phone,Ace 5,Cannot connect to Playstore,,Low,Rohan,2:00 PM,1:00 PM,11-05-2020,12-07-2020,11-05-2020 14:00,12-07-2020 13:00,1487,62
+37172,Dexter,481-4071-19,Phone,Ace 5,Phone crashes occasionally,,Low,Rohan,1:00 PM,10:00 AM,10-12-2020,10-13-2020,10-12-2020 13:00,13-10-2020 00:00,1405,59
+85593,Victor,459-5186-28,Phone,Ace 6s+,SLow charging battery,,Medium,Rohan,10:00 AM,9:00 AM,12-26-2020,12-28-2020,26-12-2020 00:00,28-12-2020 00:00,48,2
+45116,Sam,105-8093-06,Phone,Ace Galaxy S4,Overall performance is sLow,,Medium,Rohan,6:00 PM,4:00 PM,12-15-2020,12-17-2020,15-12-2020 00:00,17-12-2020 00:00,48,2
+64933,Vanessa,998-8501-85,Phone,Ace 6s+,Camera broken,7,Medium,Rohan,4:00 PM,12:00 PM,12-15-2020,12-17-2020,15-12-2020 00:00,17-12-2020 00:00,48,2
+63308,Edward,828-2092-66,Tablet,Ace NotePad 4,Touchscreen unresponsive,,High,Rohan,12:00 PM,7:00 PM,02-12-2021,02-12-2021,02-12-2021 12:00,02-12-2021 19:00,7,1
+62416,Kevin,493-3428-82,Tablet,Ace Swift F20 Lite,Cannot connect to wifi,,Low,Rohan,7:00 PM,9:00 AM,2-23-2021,2-26-2021,23-02-2021 00:00,26-02-2021 00:00,72,3
+85580,Chloe,245-8711-99,Tablet,Ace Tablet 500 Mini,Charging port damaged,,High,Abhishek,9:00 AM,11:00 AM,01-02-2021,01-03-2021,01-02-2021 09:00,01-03-2021 11:00,674,29
+67091,Abraham,019-1970-16,Tablet,Ace Swift F20 Lite,Water damage,,High,Abhishek,11:00 AM,12:00 PM,2-22-2021,2-23-2021,22-02-2021 00:00,23-02-2021 00:00,24,1
+9626,Edward,310-3577-33,Tablet,Ace NotePad 2,Display lagging,,Low,Abhishek,12:00 PM,2:00 PM,2-18-2021,2-21-2021,18-02-2021 00:00,21-02-2021 00:00,72,3
+33484,Darcy,970-1101-84,Tablet,Ace Tablet 500 Mini,Overheaing,,Medium,Abhishek,2:00 PM,10:00 AM,1-16-2021,1-17-2021,16-01-2021 00:00,17-01-2021 00:00,24,1
+30875,Michael,213-5912-24,Tablet,Ace NotePad 4,Unable to turn on,,High,Abhishek,3:00 PM,9:00 AM,02-09-2021,02-10-2021,02-09-2021 15:00,02-10-2021 09:00,714,30
+6943,Caroline,411-0503-76,Tablet,Ace Swift F20 Lite,Touchscreen doesn't work,,High,Surya,8:00 PM,4:00 PM,01-08-2021,01-09-2021,01-08-2021 20:00,01-09-2021 16:00,740,31
+67101,Arianna,691-1558-57,Tablet,Ace Tab E750,Volume buttons unresponsive,,High,Surya,3:00 PM,12:00 PM,2-16-2021,2-17-2021,16-02-2021 00:00,17-02-2021 00:00,24,1
+91822,Lily,755-1544-42,Tablet,Ace Tab E750 Pro,Brightness controls unresponsive,6,Low,Surya,5:00 PM,7:00 PM,02-04-2021,02-07-2021,02-04-2021 17:00,02-07-2021 19:00,2186,92
+8453,Chloe,613-9825-63,Tablet,Ace NotePad 2,Cannot download apps,,Low,Surya,6:00 PM,9:00 AM,01-11-2021,1-14-2021,01-11-2021 18:00,14-01-2021 00:00,7002,292
+6594,Mary,274-4763-97,Tablet,Ace Tab E750 Pro,Forgotten Password,,Medium,Raj,7:00 PM,11:00 AM,01-11-2021,01-12-2021,01-11-2021 19:00,01-12-2021 11:00,712,30
+54533,Elise,101-7215-84,Tablet,Ace Swift F20 Lite,Charger port damaged,,High,Raj,10:00 PM,4:00 PM,2-25-2021,2-25-2021,25-02-2021 00:00,25-02-2021 00:00,0,0
+15855,Joyce,097-7412-04,Tablet,Ace Swift F20,"Plugged in, not charging",,Low,Raj,11:00 AM,1:00 PM,02-06-2021,02-09-2021,02-06-2021 11:00,02-09-2021 13:00,2210,93
+51122,William,259-0513-40,Tablet,Ace Tablet 500,Apps crashing often,2,Low,Raj,12:00 PM,6:00 PM,01-12-2021,1-15-2021,01-12-2021 12:00,15-01-2021 00:00,7692,321
+46549,Spike,592-0223-51,Tablet,Ace Tablet 500 Mini,Cracked display,,High,Raj,7:00 AM,7:00 PM,1-23-2021,1-24-2021,23-01-2021 00:00,24-01-2021 00:00,24,1
+86690,Carina,433-2355-10,Tablet,Ace Tab E750,Keypad not working,,Medium,Raj,5:00 PM,8:00 AM,01-11-2021,01-12-2021,01-11-2021 17:00,01-12-2021 08:00,711,30
+21039,Lucas,680-6466-15,Tablet,Ace Tab E750 Pro,Cracked display,,High,Rohan,7:00 PM,2:00 PM,01-03-2021,01-04-2021,01-03-2021 19:00,01-04-2021 14:00,739,31
+63520,Penelope,446-3384-31,Tablet,Ace NotePad 2,Headphone port not working,,High,Rohan,8:00 AM,1:00 PM,01-12-2021,01-12-2021,01-12-2021 08:00,01-12-2021 13:00,5,1
+61996,Edgar,021-0937-46,Tablet,Ace Tablet 500,Camera broken,7,Medium,Rohan,2:00 PM,10:00 AM,02-03-2021,02-04-2021,02-03-2021 14:00,02-04-2021 10:00,740,31
+33275,Robert,447-7073-44,Desktop,Ace Pro 1000,Dsiplay glitches,,Medium,Rohan,1:00 PM,9:00 AM,02-07-2021,02-08-2021,02-07-2021 13:00,02-08-2021 09:00,740,31
+46183,Martin,082-9817-92,Desktop,Ace Pro 1000,Keyboard unresponsive,,High,Rohan,10:00 AM,4:00 PM,01-01-2021,01-01-2021,01-01-2021 10:00,01-01-2021 16:00,6,1
+75618,Catherine,060-0834-64,Desktop,Ace Pro 2000,Cannot install updates,,Low,Abhishek,9:00 AM,12:00 PM,02-07-2021,02-10-2021,02-07-2021 09:00,02-10-2021 12:00,2211,93
+37946,Catherine,908-1804-38,Desktop,Ace A700,Cannot turn on,,High,Abhishek,4:00 PM,7:00 PM,02-12-2021,2-13-2021,02-12-2021 16:00,13-02-2021 00:00,7024,293
+16286,Heather,954-4397-43,Desktop,Ace A700,SLow PC,,Low,Abhishek,12:00 PM,9:00 AM,1-29-2021,1-31-2021,29-01-2021 00:00,31-01-2021 00:00,48,2
+85341,Lilianna,358-0327-46,Desktop,Ace Quantum Core 5278,Noisy hard drive,,Medium,Abhishek,7:00 PM,11:00 AM,2-23-2021,2-24-2021,23-02-2021 00:00,24-02-2021 00:00,24,1
+39665,Sawyer,872-4659-69,Desktop,Ace PC 3699,Dsiplay broken,,High,Abhishek,9:00 AM,12:00 PM,2-27-2021,2-27-2021,27-02-2021 00:00,27-02-2021 00:00,0,0
+11285,Camila,977-1464-34,Desktop,Ace Quantum Core 5278,Some apps are not functioning,,Low,Abhishek,11:00 AM,2:00 PM,02-05-2021,02-08-2021,02-05-2021 11:00,02-08-2021 14:00,2211,93
+46615,Honey,132-5930-68,Desktop,Ace AZ Desktop,Corrupt files,,Medium,Abhishek,12:00 PM,3:00 PM,1-30-2021,1-31-2021,30-01-2021 00:00,31-01-2021 00:00,24,1
+8163,Jessica,443-6149-77,Desktop,Ace PC 3699,Automatic reboots,3,Medium,Abhishek,2:00 PM,8:00 PM,2-17-2021,2-18-2021,17-02-2021 00:00,18-02-2021 00:00,24,1
+37997,Mary,909-0625-48,Desktop,Ace Pro 2000,Cracked display,,High,Rohan,3:00 PM,3:00 PM,01-10-2021,01-11-2021,01-10-2021 15:00,01-11-2021 15:00,744,31
+57244,Gianna,357-1449-46,Desktop,Ace AZ Desktop,Overheating,,Medium,Rohan,8:00 PM,5:00 PM,1-13-2021,1-14-2021,13-01-2021 00:00,14-01-2021 00:00,24,1
+52292,Nicholas,282-2049-54,Desktop,Ace Pro 2000,Blue screen,4,High,Rohan,3:00 PM,6:00 PM,02-07-2021,02-07-2021,02-07-2021 15:00,02-07-2021 18:00,3,1
+86626,Tyler,928-1138-72,Desktop,Ace PC 3699,Display broken,,High,Rohan,5:00 PM,7:00 PM,1-23-2021,1-23-2021,23-01-2021 00:00,23-01-2021 00:00,0,0
+31902,Clark,315-0686-16,Desktop,Ace PC 3699,Fans not working,,High,Rohan,6:00 PM,10:00 PM,02-06-2021,02-06-2021,02-06-2021 18:00,02-06-2021 22:00,4,1
+81611,George,754-4270-20,Desktop,Ace A700,Keyboard not responding,,Medium,Rohan,7:00 PM,11:00 AM,2-20-2021,2-21-2021,20-02-2021 00:00,21-02-2021 00:00,24,1
+79926,Victoria,215-2991-66,Desktop,Ace A700,Screen Is blank,,High,Rohan,10:00 PM,12:00 PM,1-18-2021,1-19-2021,18-01-2021 00:00,19-01-2021 00:00,24,1
+45329,Amelia,912-2762-81,Desktop,Ace Quantum Core 5278,Does not connect to external devices,,Medium,Surya,8:00 AM,7:00 AM,01-12-2021,1-13-2021,01-12-2021 08:00,13-01-2021 00:00,7736,323
+75374,Briony,255-4087-40,Desktop,Ace PC 3699,Forgotten password,,Low,Surya,2:00 PM,5:00 PM,02-07-2021,02-10-2021,02-07-2021 14:00,02-10-2021 17:00,2211,93
+52948,Harold,937-8524-02,Desktop,Ace Pro 1000,Screen Is blank,,High,Surya,1:00 PM,7:00 PM,2-27-2021,2-28-2021,27-02-2021 00:00,28-02-2021 00:00,24,1
+5253,Tara,713-7618-08,Desktop,Ace Zeus V01,Screen borken,,High,Surya,10:00 AM,8:00 AM,02-12-2021,2-13-2021,02-12-2021 10:00,13-02-2021 00:00,7018,293
+77585,Steven,196-1194-22,Desktop,Ace Quantum Core 5278,keypad not working,,High,Surya,9:00 AM,2:00 PM,01-09-2021,01-10-2021,01-09-2021 09:00,01-10-2021 14:00,725,31
+87512,Aiden,661-4016-43,Desktop,Ace PC 3699,Overheating very often,,Medium,Surya,4:00 PM,1:00 PM,02-06-2021,02-07-2021,02-06-2021 16:00,02-07-2021 13:00,717,30
+57887,Nicole,209-3299-54,Desktop,Ace Zeus V01,Display issues,,Medium,Surya,12:00 PM,10:00 AM,2-14-2021,2-15-2021,14-02-2021 00:00,15-02-2021 00:00,24,1
+62850,Edward,937-6457-61,Desktop,Ace PC 3699,Fans not working,,High,Surya,7:00 PM,9:00 AM,1-28-2021,1-29-2021,28-01-2021 00:00,29-01-2021 00:00,24,1
+41331,Rubie,106-4003-04,Laptop,Ace SparX,Connected to charger but not charging,,Medium,Surya,9:00 AM,4:00 PM,01-12-2021,1-15-2021,01-12-2021 09:00,15-01-2021 00:00,7689,321
+68332,Jasmine,307-6160-34,Laptop,Ace SparX Pro,Screen scratches,,Low,Surya,11:00 AM,12:00 PM,01-03-2021,01-06-2021,01-03-2021 11:00,01-06-2021 12:00,2209,93
+78963,Alisa,974-5286-61,Laptop,Ace Lappy 1126,Display glitches,,Medium,Surya,12:00 PM,7:00 PM,02-03-2021,02-04-2021,02-03-2021 12:00,02-04-2021 19:00,751,32
+25746,Thomas,787-7845-02,Laptop,Ace Flare S6,Unresponsive power button,,High,Surya,2:00 PM,9:00 AM,2-27-2021,2-28-2021,27-02-2021 00:00,28-02-2021 00:00,24,1
+59513,Owen,194-7224-88,Laptop,Ace Flare S6,Keyboard not working,,Medium,Surya,3:00 PM,11:00 AM,2-18-2021,2-19-2021,18-02-2021 00:00,19-02-2021 00:00,24,1
+18814,Freddie,215-4358-64,Laptop,Ace SparX,Cannot install updates,,Medium,Surya,8:00 PM,12:00 PM,2-15-2021,2-16-2021,15-02-2021 00:00,16-02-2021 00:00,24,1
+4797,Madaline,299-6322-76,Laptop,Ace Lappy 1126,Low battery life,,Low,Surya,3:00 PM,2:00 PM,01-05-2021,01-08-2021,01-05-2021 15:00,01-08-2021 14:00,2207,92
+77539,Camila,528-2933-16,Laptop,Ace Flare S6,Cannot establish bluetooth connection,,Low,Surya,5:00 PM,3:00 PM,2-16-2021,2-19-2021,16-02-2021 00:00,19-02-2021 00:00,72,3
+81718,Isabella,961-5026-49,Laptop,Ace Lappy 1126,Broken headphones port,8,Medium,Ahmed,6:00 PM,8:00 PM,2-23-2021,2-24-2021,23-02-2021 00:00,24-02-2021 00:00,24,1
+94923,Brooke,509-4403-13,Laptop,Ace Flare S6,USB port damaged,,Medium,Ahmed,7:00 PM,3:00 PM,2-15-2021,2-16-2021,15-02-2021 00:00,16-02-2021 00:00,24,1
+76615,Charlotte,125-5465-53,Laptop,Ace Notebook 1.0,Monitor ghosting,,Low,Ahmed,10:00 PM,5:00 PM,02-06-2021,02-09-2021,02-06-2021 22:00,02-09-2021 17:00,2203,92
+32266,Adrianna,169-8536-15,Laptop,Ace Lappy 1126,Broken screen,6,High,Ahmed,5:00 PM,6:00 PM,1-18-2021,1-19-2021,18-01-2021 00:00,19-01-2021 00:00,24,1
+50851,Vanessa,511-8278-68,Laptop,Ace Infinite,Touchscreen unresponsive,,Medium,Ahmed,7:00 PM,7:00 PM,01-12-2021,1-13-2021,01-12-2021 19:00,13-01-2021 00:00,7747,323
+26210,Brooke,130-6154-46,Laptop,Ace Notebook 2.0,Display partially damaged,,Medium,Ahmed,8:00 AM,10:00 PM,2-27-2021,2-28-2021,27-02-2021 00:00,28-02-2021 00:00,24,1
+94548,Alfred,157-8094-19,Laptop,Ace Notebook 2.0,Hard drive noises,,High,Ahmed,2:00 PM,12:00 PM,1-23-2021,1-24-2021,23-01-2021 00:00,24-01-2021 00:00,24,1
+95701,Kelsey,037-0248-62,Laptop,Ace Lappy 1126,Cannot access RAM,7,Medium,Ahmed,1:00 PM,2:00 PM,1-17-2021,1-18-2021,17-01-2021 00:00,18-01-2021 00:00,24,1
+6494,Deanna,679-3242-25,Laptop,Ace Lappy 1126,Cannot install updates,,Low,Ahmed,10:00 AM,3:00 PM,2-18-2021,2-21-2021,18-02-2021 00:00,21-02-2021 00:00,72,3
+2949,George,441-8524-55,Laptop,Ace Lappy 1126,Connection to speakers unresponsive,,Medium,Ahmed,9:00 AM,8:00 PM,1-17-2021,1-18-2021,17-01-2021 00:00,18-01-2021 00:00,24,1
+43606,Tess,604-8143-05,Laptop,Ace Lappy 1126,Fans working too fast,,High,Ahmed,4:00 PM,3:00 PM,02-11-2021,02-12-2021,02-11-2021 16:00,02-12-2021 15:00,719,30
+43225,Cherry,096-3240-49,Laptop,Ace Notebook 2.0 Lite,Processor burning,,High,Ahmed,12:00 PM,5:00 PM,02-03-2021,02-04-2021,02-03-2021 12:00,02-04-2021 17:00,749,32
+77484,Alisa,235-4499-04,Laptop,Ace Notebook 2.0 Lite,Dead laptop,,High,Rohan,7:00 PM,6:00 PM,1-26-2021,1-27-2021,26-01-2021 00:00,27-01-2021 00:00,24,1
+5452,Aida,774-6191-89,Laptop,Ace Infinite,Connected to charger but not charging,,Medium,Rohan,9:00 AM,7:00 PM,2-17-2021,2-18-2021,17-02-2021 00:00,18-02-2021 00:00,24,1
+36788,Frederick,929-1308-72,Laptop,Ace Flare S2,Battery issues,3,Low,Rohan,11:00 AM,10:00 PM,02-01-2021,02-04-2021,02-01-2021 11:00,02-04-2021 22:00,2171,91
+42354,Cadie,613-2613-33,Laptop,Ace Flare S6,Cannot ptoject to screen,,Low,Rohan,12:00 PM,7:00 PM,2-16-2021,2-19-2021,16-02-2021 00:00,19-02-2021 00:00,72,3
+99808,Valeria,081-4193-14,Laptop,Ace Infinite,Touchscreen unresponsive sometimes,,Low,Rohan,7:00 PM,10:00 PM,1-20-2021,1-23-2021,20-01-2021 00:00,23-01-2021 00:00,72,3
+48137,Sawyer,272-4573-17,Laptop,Ace Flare S2,Webcam issues,,Low,Rohan,8:00 AM,8:00 AM,01-09-2021,01-12-2021,01-09-2021 08:00,01-12-2021 08:00,2184,91
+97688,Florrie,898-1371-49,Laptop,Ace Notebook 2.0 Lite,Apps crashing often,2,Medium,Rohan,2:00 PM,2:00 PM,2-28-2021,04-01-2021,28-02-2021 00:00,04-01-2021 14:00,1306,55
+27961,Alan,157-5783-34,Laptop,Ace TouchPad 2000,Glitches on screen,,Medium,Rohan,1:00 PM,1:00 PM,02-06-2021,02-07-2021,02-06-2021 13:00,02-07-2021 13:00,720,30
+6259,Elian,709-1823-16,Laptop,Ace Flare S6,USB port damaged,,Medium,Rohan,10:00 AM,10:00 AM,1-25-2021,1-26-2021,25-01-2021 00:00,26-01-2021 00:00,24,1
+21975,Jenna,764-2791-48,Laptop,Ace Lappy 1126,Touchpad unresponsive,,High,Rohan,9:00 AM,9:00 AM,2-13-2021,2-14-2021,13-02-2021 00:00,14-02-2021 00:00,24,1
+47577,Thomas,259-5146-93,Phone,Ace M31 Prime,Calling feature unresponsive,11,High,Rohan,4:00 PM,4:00 PM,2-17-2021,2-18-2021,17-02-2021 00:00,18-02-2021 00:00,24,1
+67703,Fiona,301-2890-55,Phone,Ace 6s+,Screen burning,,Low,Rohan,12:00 PM,12:00 PM,01-12-2021,1-15-2021,01-12-2021 12:00,15-01-2021 00:00,7692,321
+88568,Connie,196-2185-68,Phone,Ace Galaxy S4,Broken display,6,High,Abhishek,12:00 PM,7:00 PM,1-19-2021,1-20-2021,19-01-2021 00:00,20-01-2021 00:00,24,1
+58365,Arthur,919-8317-94,Phone,Ace Galaxy S6,Cannot establish network connection,,Low,Abhishek,7:00 AM,9:00 AM,1-29-2021,1-31-2021,29-01-2021 00:00,31-01-2021 00:00,48,2
+50877,Byron,258-9131-36,Phone,Ace X3,Unresponsive power button,,Medium,Abhishek,5:00 PM,11:00 AM,01-03-2021,01-04-2021,01-03-2021 17:00,01-04-2021 11:00,738,31
+12617,Kellan,406-1851-82,Phone,Ace Galaxy S9,Cannot adjust brightness,6,Low,Abhishek,7:00 PM,12:00 PM,1-24-2021,1-27-2021,24-01-2021 00:00,27-01-2021 00:00,72,3
+10860,George,579-0837-96,Phone,Ace X3,Automatic reboots sometimes,3,Medium,Abhishek,8:00 AM,2:00 PM,1-31-2021,02-01-2021,31-01-2021 00:00,02-01-2021 14:00,682,29
+6839,Maya,076-2410-54,Phone,Ace 6,App crashes,2,Medium,Ahmed,2:00 PM,3:00 PM,1-19-2021,1-20-2021,19-01-2021 00:00,20-01-2021 00:00,24,1
+41982,Amber,425-9505-72,Phone,Ace 5s,Overall performance is sLow,,Medium,Ahmed,1:00 PM,8:00 PM,01-09-2021,01-10-2021,01-09-2021 13:00,01-10-2021 20:00,727,31
+51330,Adrianna,589-7147-00,Phone,Ace Galaxy S10,Ace pen not recognized,1,Medium,Ahmed,10:00 AM,3:00 PM,1-13-2021,1-14-2021,13-01-2021 00:00,14-01-2021 00:00,24,1
+45187,Fenton,077-9741-51,Phone,Ace X3,Partially screen damage,,Medium,Ahmed,9:00 AM,5:00 PM,01-05-2021,01-06-2021,01-05-2021 09:00,01-06-2021 17:00,752,32
+6063,Freddie,015-2751-80,Phone,Ace M31 Prime,Camera not working,7,Medium,Ahmed,4:00 PM,6:00 PM,2-26-2021,2-27-2021,26-02-2021 00:00,27-02-2021 00:00,24,1
+86736,Arnold,572-4715-02,Phone,Ace Galaxy S9,IR blaster unresponsive sometimes,,Low,Ahmed,12:00 PM,7:00 PM,2-22-2021,2-25-2021,22-02-2021 00:00,25-02-2021 00:00,72,3
+52623,Mike,260-3911-85,Phone,Ace Galaxy S4,Cannot connect to Playstore,,Low,Ahmed,7:00 PM,10:00 PM,2-21-2021,2-24-2021,21-02-2021 00:00,24-02-2021 00:00,72,3
+48772,Patrick,209-6492-77,Phone,Ace Galaxy S4,Phone crashes occasionally,,Low,Ahmed,9:00 AM,7:00 AM,02-02-2021,02-05-2021,02-02-2021 09:00,02-05-2021 07:00,2134,89
+89445,Kimberly,578-0554-95,Phone,Ace Galaxy S6,Partially screen damage,,Medium,Ahmed,11:00 AM,5:00 PM,02-01-2021,02-02-2021,02-01-2021 11:00,02-02-2021 17:00,750,32
+44114,Lily,404-6345-03,Phone,Ace 6,Camera not working,7,Medium,Ahmed,12:00 PM,7:00 PM,01-03-2021,01-04-2021,01-03-2021 12:00,01-04-2021 19:00,751,32
+88750,Emma,367-7106-28,Phone,Ace M31 Prime,IR blaster unresponsive sometimes,,Low,Surya,2:00 PM,8:00 AM,2-25-2021,2-28-2021,25-02-2021 00:00,28-02-2021 00:00,72,3
+30070,Byron,908-1362-23,Phone,Ace 5,Cannot connect to Playstore,,Low,Surya,3:00 PM,2:00 PM,02-11-2021,2-14-2021,02-11-2021 15:00,14-02-2021 00:00,6279,262
+22709,Stuart,632-7257-94,Phone,Ace M31 Prime,Phone crashes occasionally,,Low,Surya,8:00 PM,1:00 PM,1-14-2021,1-16-2021,14-01-2021 00:00,16-01-2021 00:00,48,2
+9636,Eddy,635-8031-91,Phone,Ace Galaxy S9,Ace pen not working often,1,Medium,Surya,3:00 PM,10:00 AM,1-19-2021,1-20-2021,19-01-2021 00:00,20-01-2021 00:00,24,1
+44669,David,153-8184-19,Phone,Ace 6,Partially screen damage,,Medium,Raj,5:00 PM,9:00 AM,02-11-2021,02-12-2021,02-11-2021 17:00,02-12-2021 09:00,712,30
+91542,Adelaide,960-3908-66,Phone,Ace Galaxy S6,Camera not working,7,Medium,Raj,6:00 PM,4:00 PM,2-25-2021,2-26-2021,25-02-2021 00:00,26-02-2021 00:00,24,1
+37936,Alfred,985-6511-05,Phone,Ace M31 Prime,IR blaster unresponsive sometimes,,Low,Raj,7:00 PM,12:00 PM,1-25-2021,1-28-2021,25-01-2021 00:00,28-01-2021 00:00,72,3
+82262,Emma,842-8607-70,Phone,Ace 5s,Cannot connect to Playstore,,Low,Raj,10:00 PM,7:00 PM,02-03-2021,02-06-2021,02-03-2021 22:00,02-06-2021 19:00,2205,92
+92916,Myra,612-4391-76,Phone,Ace 5,Phone crashes occasionally,,Low,Raj,11:00 AM,9:00 AM,2-21-2021,2-24-2021,21-02-2021 00:00,24-02-2021 00:00,72,3
+50539,Carter,334-2625-56,Phone,Ace Galaxy S4,The device is not turning on,,High,Raj,12:00 PM,11:00 AM,1-22-2021,1-23-2021,22-01-2021 00:00,23-01-2021 00:00,24,1
+49776,Montgomery,451-1195-25,Phone,Ace 6s+,Display is broken,,Medium,Raj,7:00 AM,12:00 PM,1-27-2021,1-28-2021,27-01-2021 00:00,28-01-2021 00:00,24,1
+1596,Crawford,884-8314-42,Phone,Ace M31 Prime,Does not get charged,,Medium,Raj,5:00 PM,2:00 PM,02-09-2021,02-11-2021,02-09-2021 17:00,02-11-2021 14:00,1461,61
+88437,Edwards,954-2284-47,Phone,Ace Galaxy S10,Some apps are not working,,Low,Abhishek,7:00 PM,3:00 PM,2-13-2021,2-16-2021,13-02-2021 00:00,16-02-2021 00:00,72,3
+59956,Farrell,953-3855-19,Phone,Ace 5,Forgotten password,,Medium,Abhishek,8:00 AM,2:00 PM,01-03-2021,01-04-2021,01-03-2021 08:00,01-04-2021 14:00,750,32
+12501,Andrews,882-5931-93,Phone,Ace Galaxy S6,The device is not functioning,,High,Abhishek,2:00 PM,1:00 PM,1-28-2021,1-29-2021,28-01-2021 00:00,29-01-2021 00:00,24,1
+71989,Davis,134-5609-86,Phone,Ace M31 Prime,The screen is completely blank,,High,Abhishek,1:00 PM,10:00 AM,02-12-2021,2-13-2021,02-12-2021 13:00,13-02-2021 00:00,7021,293
+99603,Davis,281-4939-45,Phone,Ace M31 Prime,Camera is blurry,7,Low,Abhishek,10:00 AM,9:00 AM,2-23-2021,2-26-2021,23-02-2021 00:00,26-02-2021 00:00,72,3
+72580,Kelley,243-5142-52,Tablet,Ace Tablet 500 Mini,Cannot connect to the app store,,Low,Abhishek,9:00 AM,4:00 PM,02-07-2021,02-10-2021,02-07-2021 09:00,02-10-2021 16:00,2215,93
+20269,Kelley,188-7837-31,Tablet,Ace NotePad 2,The device heats up occasionally,,Low,Abhishek,4:00 PM,12:00 PM,2-25-2021,2-27-2021,25-02-2021 00:00,27-02-2021 00:00,48,2
+19687,Hall,317-1180-57,Tablet,Ace Swift F20,The device needs a battery change,,Medium,Abhishek,12:00 PM,11:00 AM,01-09-2021,01-11-2021,01-09-2021 12:00,01-11-2021 11:00,1463,61
+58084,Gibson,879-5699-69,Tablet,Ace NotePad 4,Device is not receiving updates,,Low,Surya,7:00 PM,9:00 AM,02-08-2021,02-09-2021,02-08-2021 19:00,02-09-2021 09:00,734,31
+71384,Allen,133-4543-53,Tablet,Ace Tab E750,Speakers are not working,,Medium,Surya,1:00 PM,10:40 AM,1-16-2021,1-18-2021,16-01-2021 00:00,18-01-2021 00:00,48,2
+73908,Johnston,555-4088-75,Tablet,Ace NotePad 4,Some apps are not opening,,Low,Surya,11:00 AM,12:00 PM,1-31-2021,02-02-2021,31-01-2021 00:00,02-02-2021 12:00,60,3
+40313,Farrell,027-3619-14,Tablet,Ace Swift F20 Lite,Does not connect to the wifi,,Low,Surya,12:00 PM,2:00 PM,1-23-2021,1-26-2021,23-01-2021 00:00,26-01-2021 00:00,72,3
+41361,Johnston,222-2441-73,Tablet,Ace Tablet 500 Mini,The device is not charging,,Medium,Surya,11:30 AM,10:00 AM,02-09-2021,02-11-2021,02-09-2021 11:30,02-11-2021 10:00,1462.5,61
+13326,Rogers,159-3784-29,Tablet,Ace Swift F20 Lite,Device is not functioning at all,,High,Surya,5:00 PM,9:00 AM,02-02-2021,02-03-2021,02-02-2021 17:00,02-03-2021 09:00,664,28
+22042,Cameron,026-6595-79,Tablet,Ace Tablet 500 Mini,Device does not connect to the network,,Medium,Rohan,7:00 PM,4:00 PM,1-28-2021,1-29-2021,28-01-2021 00:00,29-01-2021 00:00,24,1
+28864,Crawford,480-9029-30,Tablet,Ace NotePad 4,Word and other ms apps are not opening,,Medium,Rohan,8:00 AM,12:00 PM,2-24-2021,2-25-2020,24-02-2021 00:00,25-02-2020 00:00,8760,365
+66244,Smith,003-0915-09,Tablet,Ace Tab E750 Pro,Keyboard is not working,,Medium,Rohan,2:00 PM,11:00 AM,02-01-2021,02-03-2021,02-01-2021 14:00,02-03-2021 11:00,1413,59
+59851,Perkins,320-4090-20,Tablet,Ace Tab E750 Pro,Does not connect to external devices,,Medium,Rohan,1:00 PM,9:00 AM,02-01-2021,02-02-2021,02-01-2021 13:00,02-02-2021 09:00,740,31
+82232,Cole,899-2882-77,Tablet,Ace Tab E750,Forgotten password,,Low,Rohan,10:00 AM,11:00 AM,2-25-2021,2-28-2021,25-02-2021 00:00,28-02-2021 00:00,72,3
+12451,Campbell,598-4221-23,Desktop,Ace PC 3699,Screen Is blank,,High,Rohan,6:00 PM,4:00 PM,01-09-2021,01-10-2021,01-09-2021 18:00,01-10-2021 16:00,718,30
+56420,Payne,128-9778-64,Desktop,Ace Pro 1000,Screen borken,,High,Rohan,4:00 PM,12:00 PM,01-06-2021,01-07-2021,01-06-2021 16:00,01-07-2021 12:00,716,30
+35546,Parker,887-0055-00,Desktop,Ace Pro 2000,Keyboard not working,,High,Rohan,12:00 PM,9:00 AM,2-26-2021,2-27-2021,26-02-2021 00:00,27-02-2021 00:00,24,1
+53853,Richardson,031-2279-24,Desktop,Ace A700,Fans not working,,High,Rohan,7:00 PM,9:00 AM,1-31-2021,02-01-2021,31-01-2021 00:00,02-01-2021 09:00,687,29
+91968,Cunningham,769-3879-62,Desktop,Ace PC 3699,Overheating very often,,Medium,Rohan,9:00 AM,8:00 AM,02-10-2021,02-12-2021,02-10-2021 09:00,02-12-2021 08:00,1463,61
+82676,Walker,067-4147-28,Desktop,Ace AZ Desktop,Cannot access RAM,7,High,Rohan,1:00 PM,12:00 PM,1-19-2021,1-20-2021,19-01-2021 00:00,20-01-2021 00:00,24,1
+48320,Brooks,859-8956-18,Desktop,Ace Pro 2000,Issue connecting to networks,,Low,Rohan,12:00 PM,2:00 PM,01-06-2021,01-09-2021,01-06-2021 12:00,01-09-2021 14:00,2210,93
+20088,Grant,166-8994-28,Desktop,Ace Pro 1000,Cannot connect to the app store,,Low,Rohan,2:00 PM,3:00 PM,02-04-2021,02-07-2021,02-04-2021 14:00,02-07-2021 15:00,2185,92
+54574,Brooks,256-2199-68,Desktop,Ace AZ Desktop,Low power supply,,Medium,Rohan,3:00 PM,11:00 AM,2-27-2021,###############################################################################################################################################################################################################################################################,27-02-2021 00:00,#VALUE!,#VALUE!,#VALUE!
+58819,Moore,465-1197-97,Desktop,Ace Zeus V01,Power Button not working,,High,Rohan,8:00 PM,3:00 PM,01-03-2021,01-04-2021,01-03-2021 20:00,01-04-2021 15:00,739,31
+77993,Perkins,243-7182-39,Desktop,Ace Pro 1000,Battery does not charge upto 100%,3,Medium,Rohan,3:00 PM,5:00 PM,02-06-2021,02-07-2021,02-06-2021 15:00,02-07-2021 17:00,722,31
+2900,Moore,476-8470-37,Desktop,Ace PC 3699,Battery replacement,3,Low,Rohan,5:00 PM,6:00 PM,02-12-2021,2-15-2021,02-12-2021 17:00,15-02-2021 00:00,6977,291
+77104,Wells,117-7345-38,Desktop,Ace Pro 1000,Screen Flickering when connected to charger,,Medium,Raj,6:00 PM,5:00 PM,02-04-2021,02-06-2021,02-04-2021 18:00,02-06-2021 17:00,1463,61
+55942,Bennett,121-7663-61,Desktop,Ace Zeus V01,"Battery not charging, laptop works with charger",3,Low,Raj,7:00 PM,10:00 AM,2-23-2021,2-26-2021,23-02-2021 00:00,26-02-2021 00:00,72,3
+70035,Phillips,369-5355-99,Desktop,Ace AZ Desktop,Charging port is loose,,High,Raj,10:00 PM,12:00 PM,2-18-2021,2-19-2021,18-02-2021 00:00,19-02-2021 00:00,24,1
+12630,Morgan,995-6030-41,Desktop,Ace AZ Desktop,Keyboard not working,,Medium,Raj,11:00 AM,2:00 PM,2-16-2021,2-17-2021,16-02-2021 00:00,17-02-2021 00:00,24,1
+36430,Hamilton,280-4629-30,Desktop,Ace A700,Touchscreen not working,,Medium,Raj,12:00 PM,3:00 PM,1-30-2021,1-31-2021,30-01-2021 00:00,31-01-2021 00:00,24,1
+18544,Hawkins,469-6293-20,Desktop,Ace Quantum Core 5278,Display cracked,,High,Raj,12:00 PM,8:00 AM,02-03-2021,02-04-2021,02-03-2021 12:00,02-04-2021 08:00,740,31
+44771,Elliott,749-8860-42,Desktop,Ace Pro 1000,Screen borken,,High,Raj,5:00 PM,3:00 PM,02-10-2021,02-11-2021,02-10-2021 17:00,02-11-2021 15:00,742,31
+75746,Carter,439-3511-54,Desktop,Ace Pro 2000,Touchpad not working,,High,Raj,7:00 PM,5:00 PM,01-05-2021,01-06-2021,01-05-2021 19:00,01-06-2021 17:00,742,31
+17740,Wilson,416-5946-26,Tablet,Ace Swift F20 Lite,Not charging,,High,Raj,8:00 AM,8:00 AM,02-01-2021,01-02-2021,02-01-2021 08:00,01-02-2021 08:00,720,30
+42523,Cooper,816-0709-11,Tablet,Ace NotePad 4,Overheating very often,,Medium,Raj,2:00 PM,2:00 PM,2-22-2021,2-24-2021,22-02-2021 00:00,24-02-2021 00:00,48,2
+59421,Ryan,193-1887-84,Tablet,Ace Tab E750 Pro,Not charging,,High,Raj,1:00 PM,1:00 PM,1-21-2021,1-22-2021,21-01-2021 00:00,22-01-2021 00:00,24,1
+74808,Chapman,576-3100-61,Tablet,Ace Tab E750,Issue connecting to networks,,Low,Raj,10:00 AM,10:00 AM,01-03-2021,01-06-2021,01-03-2021 10:00,01-06-2021 10:00,2208,92
+25078,Turner,187-6791-15,Tablet,Ace Swift F20 Lite,Phone lags and freezes,,Medium,Surya,9:00 AM,7:00 AM,1-23-2021,1-25-2021,23-01-2021 00:00,25-01-2021 00:00,48,2
+84639,Baker,186-6743-75,Tablet,Ace NotePad 2,Overheating,,Low,Surya,4:00 PM,4:00 PM,2-24-2021,2-26-2021,24-02-2021 00:00,26-02-2021 00:00,48,2
+48030,Martin,600-9552-21,Tablet,Ace Swift F20 Lite,"Water damage, phone dead",,High,Surya,12:00 PM,12:00 PM,01-05-2021,01-06-2021,01-05-2021 12:00,01-06-2021 12:00,744,31
+11733,Dixon,909-4247-84,Tablet,Ace Tablet 500 Mini,Display cracked completely,,High,Surya,7:00 PM,7:00 PM,04-12-2021,4-13-2021,04-12-2021 19:00,13-04-2021 00:00,5659,236
+7448,Adams,118-1745-73,Tablet,Ace Tab E750,Touchpad unresponsive,,High,Surya,9:00 AM,9:00 AM,3-29-2021,3-30-2021,29-03-2021 00:00,30-03-2021 00:00,24,1
+63183,Anderson,546-6136-08,Tablet,Ace NotePad 4,Water damage,,High,Surya,4:00 PM,11:00 AM,4-27-2021,4-28-2021,27-04-2021 00:00,28-04-2021 00:00,24,1
+29610,Harper,095-0301-67,Tablet,Ace Swift F20,Low battery life,,Low,Surya,5:00 PM,9:00 AM,4-22-2021,4-25-2021,22-04-2021 00:00,25-04-2021 00:00,72,3
+10194,Brooks,361-8463-74,Tablet,Ace Swift F20 Lite,Doesnot charge upto 100%,,Medium,Surya,2:00 PM,2:00 PM,04-08-2021,04-10-2021,04-08-2021 14:00,04-10-2021 14:00,1464,61
+38744,Mason,475-0398-93,Tablet,Ace Tab E750 Pro,Can't connect to wifi,,Medium,Surya,3:00 PM,3:00 PM,03-06-2021,03-07-2021,03-06-2021 15:00,03-07-2021 15:00,720,30
+48378,Scott,324-6164-24,Tablet,Ace Tab E750,SLow Phone,,Low,Rohan,8:00 PM,8:00 PM,04-07-2021,04-11-2021,04-07-2021 20:00,04-11-2021 20:00,2952,123
+55734,Fowler,938-8039-92,Phone,Ace Galaxy S10,Speakers not working,,Medium,Rohan,3:00 PM,3:00 PM,3-25-2021,3-27-2021,25-03-2021 00:00,27-03-2021 00:00,48,2
+85677,Richards,089-9904-60,Phone,Ace Galaxy S9,Low battery life,,Low,Rohan,5:00 PM,5:00 PM,3-26-2021,3-20-2021,26-03-2021 00:00,20-03-2021 00:00,144,6
+46776,Bailey,842-5905-55,Phone,Ace Galaxy S10,Cannot install apps,,Medium,Rohan,6:00 PM,6:00 PM,4-17-2021,4-19-2021,17-04-2021 00:00,19-04-2021 00:00,48,2
+39583,Bennett,058-4999-98,Phone,Ace 5s,RAM not accessible,,High,Rohan,7:00 PM,7:00 PM,3-16-2021,3-17-2021,16-03-2021 00:00,17-03-2021 00:00,24,1
+52701,Watson,904-6180-15,Phone,Ace M31 Prime,Cannot install updates,,Low,Rohan,10:00 PM,10:00 PM,3-30-2021,04-01-2021,30-03-2021 00:00,04-01-2021 22:00,2018,85
+25128,Carter,636-1649-76,Phone,Ace X3,Display damaged,,High,Rohan,2:00 PM,12:00 PM,03-01-2021,03-02-2021,03-01-2021 14:00,03-02-2021 12:00,742,31
+67471,Murray,718-2602-79,Phone,Ace 5s,Touchscreen unresponsive sometimes,,Low,Rohan,2:00 PM,2:00 PM,4-20-2021,4-22-2021,20-04-2021 00:00,22-04-2021 00:00,48,2
+28500,Anderson,396-6222-64,Phone,Ace 6s+,Keyboard damaged,,Medium,Rohan,1:00 PM,3:00 PM,4-20-2021,4-22-2021,20-04-2021 00:00,22-04-2021 00:00,48,2
+58977,Mason,144-0979-68,Phone,Ace X3,Touchscreen unresponsive,,Medium,Rohan,10:00 AM,8:00 PM,04-09-2021,04-10-2021,04-09-2021 10:00,04-10-2021 20:00,730,31
+49345,Richardson,082-4221-30,Phone,Ace Galaxy S9,Water damage,,High,Rohan,4:00 PM,3:00 PM,3-16-2021,3-17-2021,16-03-2021 00:00,17-03-2021 00:00,24,1
+30177,Tucker,329-3610-10,Phone,Ace 5s,Processor burning,,High,Rohan,4:00 PM,1:00 PM,3-19-2021,3-20-2021,19-03-2021 00:00,20-03-2021 00:00,24,1
+2505,Henderson,255-4501-09,Phone,Ace Galaxy S4,Keyboard unresponsive,,Medium,Rohan,12:00 PM,6:00 PM,4-23-2021,4-24-2021,23-04-2021 00:00,24-04-2021 00:00,24,1
+85000,Morrison,856-2927-68,Phone,Ace Galaxy S6,Fans not working sometimes,,Medium,Rohan,7:00 PM,7:00 PM,03-12-2021,3-14-2021,03-12-2021 19:00,14-03-2021 00:00,6355,265
+38285,Owens,412-3515-18,Phone,Ace X3,Cannot install updates,,Low,Ahmed,9:00 AM,10:00 PM,4-14-2021,4-16-2021,14-04-2021 00:00,16-04-2021 00:00,48,2
+41176,Hill,392-2559-80,Phone,Ace 6,Cannot install updates,,Low,Ahmed,11:00 AM,7:00 PM,04-11-2021,4-13-2021,04-11-2021 11:00,13-04-2021 00:00,4931,206
+69903,Alexander,548-8920-96,Phone,Ace 5s,Screen blackout when turning on,,Medium,Ahmed,12:00 PM,10:00 PM,3-21-2021,3-23-2021,21-03-2021 00:00,23-03-2021 00:00,48,2
+73305,Evans,317-6110-22,Phone,Ace M31 Prime,Minor monitor issues,,Medium,Ahmed,2:00 PM,8:00 AM,4-25-2021,4-27-2021,25-04-2021 00:00,27-04-2021 00:00,48,2
+44784,Miller,116-0074-85,Phone,Ace 5,Monitor ghosting,,Medium,Ahmed,3:00 PM,2:00 PM,04-09-2021,04-11-2021,04-09-2021 15:00,04-11-2021 14:00,1463,61
+48445,Wright,761-1523-95,Phone,Ace M31 Prime,Blue Screen,4,High,Ahmed,8:00 PM,1:00 PM,3-25-2021,3-26-2021,25-03-2021 00:00,26-03-2021 00:00,24,1
+13491,Spencer,446-2344-37,Phone,Ace 6,Failing power supply,,High,Ahmed,3:00 PM,10:00 AM,3-29-2021,3-30-2021,29-03-2021 00:00,30-03-2021 00:00,24,1
+22164,Thompson,748-5637-73,Phone,Ace 5,Screen frozen,,High,Ahmed,5:00 PM,9:00 AM,4-25-2021,4-26-2021,25-04-2021 00:00,26-04-2021 00:00,24,1
+61296,Crawford,854-8194-18,Phone,Ace X3,Camera is not working,7,Low,Ahmed,6:00 PM,10:00 PM,3-25-2021,3-28-2021,25-03-2021 00:00,28-03-2021 00:00,72,3
+97439,Walker,950-6757-47,Phone,Ace 5,Battery does not last for long,3,Medium,Ahmed,7:00 PM,7:00 PM,03-12-2021,3-14-2021,03-12-2021 19:00,14-03-2021 00:00,6355,265
+3373,Hill,636-0879-82,Laptop,Ace TouchPad 2000,The device is not turning on,,High,Ahmed,10:00 PM,10:00 PM,04-03-2021,04-04-2021,04-03-2021 22:00,04-04-2021 22:00,744,31
+95634,Cole,823-4808-08,Laptop,Ace Infinite,Display is broken,,Medium,Ahmed,5:00 PM,8:00 AM,3-30-2021,04-01-2021,30-03-2021 00:00,04-01-2021 08:00,2032,85
+17465,Nelson,628-0289-97,Laptop,Ace Flare S6,Does not get charged,,Medium,Ahmed,7:00 PM,2:00 PM,4-24-2021,4-26-2021,24-04-2021 00:00,26-04-2021 00:00,48,2
+91286,Harper,597-3460-58,Laptop,Ace Flare S6,Some apps are not working,,Low,Ahmed,8:00 AM,1:00 PM,03-11-2021,3-13-2021,03-11-2021 08:00,13-03-2021 00:00,5648,236
+15874,Martin,827-4621-59,Laptop,Ace Lappy 1126,Forgotten password,,Medium,Ahmed,2:00 PM,10:00 AM,03-07-2021,03-09-2021,03-07-2021 14:00,03-09-2021 10:00,1484,62
+12580,Warren,679-2237-74,Laptop,Ace TouchPad 2000,The device is not functioning,,High,Ahmed,1:00 PM,9:00 AM,3-30-2021,3-31-2021,30-03-2021 00:00,31-03-2021 00:00,24,1
+76894,Phillips,629-6704-98,Laptop,Ace SparX,The screen is completely blank,,High,Ahmed,4:00 PM,9:00 AM,4-19-2021,4-20-2021,19-04-2021 00:00,20-04-2021 00:00,24,1
+16598,Roberts,002-4188-54,Laptop,Ace Notebook 1.0,Camera is blurry,7,Low,Ahmed,9:00 AM,2:00 PM,4-23-2021,4-26-2021,23-04-2021 00:00,26-04-2021 00:00,72,3
+33353,Adams,735-2729-36,Laptop,Ace Flare S2,Cannot connect to the app store,,Low,Ahmed,4:00 PM,10:00 AM,03-10-2021,03-11-2021,03-10-2021 16:00,03-11-2021 10:00,738,31
+23869,Cole,918-2231-04,Laptop,Ace Flare S2,The device heats up occasionally,,Low,Abhishek,12:00 PM,9:00 AM,04-05-2021,04-06-2021,04-05-2021 12:00,04-06-2021 09:00,741,31
+93236,Cunningham,394-8600-12,Laptop,Ace Notebook 1.0,The device needs a battery change,,Medium,Abhishek,7:00 PM,4:00 PM,3-28-2021,3-30-2021,28-03-2021 00:00,30-03-2021 00:00,48,2
+7978,Perry,222-6835-60,Laptop,Ace Flare S2,Device is not receiving updates,,Low,Abhishek,9:00 AM,12:00 PM,04-08-2021,04-11-2021,04-08-2021 09:00,04-11-2021 12:00,2211,93
+10277,Howard,306-3117-63,Laptop,Ace SparX,Speakers are not working,,Medium,Abhishek,11:00 AM,7:00 PM,4-26-2021,4-27-2021,26-04-2021 00:00,27-04-2021 00:00,24,1
+61698,Kelly,281-9096-98,Laptop,Ace Flare S6,Some apps are not opening,,Low,Abhishek,12:00 PM,9:00 AM,3-16-2021,3-19-2021,16-03-2021 00:00,19-03-2021 00:00,72,3
+44633,West,868-7373-44,Laptop,Ace Flare S2,Does not connect to the wifi,,Low,Abhishek,7:00 PM,11:00 AM,3-17-2021,3-21-2021,17-03-2021 00:00,21-03-2021 00:00,96,4
+92651,Morris,462-4171-66,Laptop,Ace Lappy 1126,The device is not charging,,Medium,Abhishek,8:00 AM,4:00 PM,3-16-2021,3-17-2021,16-03-2021 00:00,17-03-2021 00:00,24,1
+29616,Riley,209-0469-34,Laptop,Ace Flare S6,Device is not functioning at all,,High,Abhishek,2:00 PM,1:00 PM,4-30-2021,01-05-2021,30-04-2021 00:00,01-05-2021 13:00,37,2
+26995,Perry,190-0490-75,Laptop,Ace Lappy 1126,Device does not connect to the network,,Medium,Abhishek,6:00 PM,1:00 PM,03-11-2021,3-14-2021,03-11-2021 18:00,14-03-2021 00:00,5634,235
+73733,Elliott,735-7843-03,Laptop,Ace Notebook 1.0,Word and other ms apps are not opening,,Medium,Abhishek,10:00 AM,7:00 PM,4-14-2021,4-15-2021,14-04-2021 00:00,15-04-2021 00:00,24,1
+24078,Thomas,099-7030-25,Laptop,Ace TouchPad 2000,Keyboard is not working,,Medium,Abhishek,9:00 AM,8:00 AM,3-28-2021,3-30-2021,28-03-2021 00:00,30-03-2021 00:00,48,2
+70185,Ferguson,139-0978-11,Laptop,Ace Flare S6,Does not connect to external devices,,Medium,Abhishek,4:00 PM,2:00 PM,4-29-2021,05-01-2021,29-04-2021 00:00,05-01-2021 14:00,2722,114
+54923,Ross,267-3203-79,Laptop,Ace TouchPad 2000,Forgotten password,,Low,Abhishek,12:00 PM,1:00 PM,04-07-2021,04-09-2021,04-07-2021 12:00,04-09-2021 13:00,1489,63
+49182,Edwards,876-6265-11,Laptop,Ace TouchPad 2000,Screen Is blank,,High,Abhishek,11:00 AM,10:00 AM,04-09-2021,04-10-2021,04-09-2021 11:00,04-10-2021 10:00,719,30
+5121,Elliott,514-9085-02,Desktop,Ace Zeus V01,partial screen damage,,Medium,Abhishek,12:00 PM,9:00 AM,04-08-2021,04-11-2021,04-08-2021 12:00,04-11-2021 09:00,2205,92
+94418,Gray,498-7772-75,Desktop,Ace Quantum Core 5278,speakers not working,,Low,Surya,7:00 AM,4:00 PM,04-04-2021,04-07-2021,04-04-2021 07:00,04-07-2021 16:00,2193,92
+84458,Farrell,944-2401-17,Desktop,Ace Zeus V01,Screen frozen,,High,Surya,5:00 PM,12:00 PM,4-15-2021,4-16-2021,15-04-2021 00:00,16-04-2021 00:00,24,1
+46632,Ryan,613-4497-22,Desktop,Ace Zeus V01,Unresponsive power button,,High,Surya,7:00 PM,7:00 PM,04-08-2021,04-09-2021,04-08-2021 19:00,04-09-2021 19:00,744,31
+7889,Harper,954-6403-27,Tablet,Ace Tab E750,Cannot install apps,,Low,Surya,8:00 AM,9:00 AM,4-20-2021,4-23-2021,20-04-2021 00:00,23-04-2021 00:00,72,3
+92875,Richards,713-3758-05,Tablet,Ace Swift F20 Lite,Wifi connection issues,,Low,Surya,2:00 PM,11:00 AM,3-22-2021,3-25-2021,22-03-2021 00:00,25-03-2021 00:00,72,3
+82863,Hall,745-4756-75,Phone,Ace 6s+,Speakers damaged,,Medium,Surya,1:00 PM,12:00 PM,4-16-2021,4-18-2021,16-04-2021 00:00,18-04-2021 00:00,48,2
+27669,Richards,000-6154-85,Phone,Ace Galaxy S4,Calling feature unresponsive,11,High,Raj,4:00 AM,2:00 PM,4-28-2021,4-29-2021,28-04-2021 00:00,29-04-2021 00:00,24,1
+11232,Robinson,115-8832-17,Phone,Ace 6s+,Broken Camera,7,Medium,Raj,9:00 AM,3:00 PM,4-18-2021,4-19-2021,18-04-2021 00:00,19-04-2021 00:00,24,1
+97023,Elliott,914-7597-80,Laptop,Ace Notebook 2.0 Lite,Partially screen damage,,Medium,Raj,4:00 PM,8:00 PM,04-09-2021,04-10-2021,04-09-2021 16:00,04-10-2021 20:00,724,31
+90286,Elliott,024-2741-71,Laptop,Ace Infinite,Camera not working,7,Medium,Raj,12:00 PM,3:00 PM,03-11-2021,03-12-2021,03-11-2021 12:00,03-12-2021 15:00,723,31
+73216,Jones,044-7723-48,Laptop,Ace Swift F20 Lite,Difficulty installing updates,,Low,Raj,7:00 PM,8:00 PM,03-06-2021,03-09-2021,03-06-2021 19:00,03-09-2021 20:00,2209,93
+67004,Howard,802-7165-72,Laptop,Ace SparX,Cannot connect to Playstore,,Low,Raj,9:00 AM,3:00 PM,3-15-2021,3-19-2021,15-03-2021 00:00,19-03-2021 00:00,96,4
+93651,Farrell,976-3304-17,Laptop,Ace Swift F20 Lite,Phone crashes occasionally,,Low,Raj,11:00 AM,5:00 PM,04-12-2021,4-15-2021,04-12-2021 11:00,15-04-2021 00:00,5603,234
+86610,Roberts,198-2846-81,Laptop,Ace Flare S6,OS issues,,Medium,Raj,12:00 PM,6:00 PM,04-09-2021,04-10-2021,04-09-2021 12:00,04-10-2021 18:00,726,31
+81590,Spencer,468-9978-19,Laptop,Ace Notebook 1.0,MS apps not functioning,,Medium,Raj,2:00 PM,9:00 AM,3-23-2021,3-25-2021,23-03-2021 00:00,25-03-2021 00:00,48,2
+85303,Owens,523-7430-67,Laptop,Ace Flare S2,Overall performance is sLow,,Medium,Raj,3:00 PM,10:00 AM,4-24-2021,4-26-2021,24-04-2021 00:00,26-04-2021 00:00,48,2
+724,Carroll,281-7433-28,Laptop,Ace TouchPad 2000,Touchscreen damaged,,High,Raj,4:00 PM,12:00 PM,4-22-2021,4-23-2021,22-04-2021 00:00,23-04-2021 00:00,24,1
+9702,Montgomery,137-8589-16,Laptop,Ace Lappy 1126,Not charging,,Low,Raj,3:00 PM,2:00 PM,4-15-2021,4-18-2021,15-04-2021 00:00,18-04-2021 00:00,72,3
+97021,Spencer,313-7732-92,Phone,Ace Galaxy S6,"Water damage, phone dead",,High,Ahmed,5:00 PM,3:00 PM,3-13-2021,3-14-2021,13-03-2021 00:00,14-03-2021 00:00,24,1
+13534,Ross,116-7979-20,Phone,Ace Galaxy S10,Display cracked completely,,High,Ahmed,6:00 PM,2:00 PM,3-19-2021,3-20-2021,19-03-2021 00:00,20-03-2021 00:00,24,1
+48693,Phillips,827-8428-97,Phone,Ace Galaxy S6,Damaged charging port,,High,Ahmed,7:00 PM,3:00 PM,3-23-2021,3-24-2021,23-03-2021 00:00,24-03-2021 00:00,24,1
+26088,Russell,316-6450-69,Phone,Ace Galaxy S9,Phone dead,,High,Ahmed,10:00 AM,5:00 PM,04-10-2021,04-10-2021,04-10-2021 10:00,04-10-2021 17:00,7,1
+30549,Lloyd,044-6217-02,Phone,Ace Galaxy S6,Cannot download apps,,Medium,Ahmed,11:00 AM,6:00 PM,04-06-2021,04-07-2021,04-06-2021 11:00,04-07-2021 18:00,727,31
+39198,Mitchell,223-8200-30,Phone,Ace M31 Prime,Cannot connect to wifi,,Low,Ahmed,12:00 PM,7:00 PM,04-04-2021,04-07-2021,04-04-2021 12:00,04-07-2021 19:00,2191,92
+7004,Carroll,041-2888-30,Phone,Ace Galaxy S4,Low battery life,,Low,Ahmed,7:00 AM,10:00 PM,03-06-2021,02-07-2021,03-06-2021 07:00,02-07-2021 22:00,711,30
+49194,Murphy,236-8125-04,Desktop,Ace PC 3699,Unresponsive power button,,Medium,Ahmed,5:00 PM,5:00 PM,03-12-2021,3-13-2021,03-12-2021 17:00,13-03-2021 00:00,6377,266
+30674,Nelson,906-0942-79,Desktop,Ace Pro 1000,Overheating,,Medium,Ahmed,7:00 PM,10:00 PM,4-21-2021,4-22-2021,21-04-2021 00:00,22-04-2021 00:00,24,1
+8793,Hunt,192-2316-64,Desktop,Ace A700,Blue screen,4,High,Ahmed,8:00 AM,8:00 AM,03-06-2021,03-07-2021,03-06-2021 08:00,03-07-2021 08:00,720,30
+91992,Dixon,360-5453-42,Desktop,Ace Pro 2000,Display broken,,High,Ahmed,2:00 PM,2:00 PM,03-07-2021,03-08-2021,03-07-2021 14:00,03-08-2021 14:00,744,31
+44176,Turner,289-6617-22,Tablet,Ace NotePad 2,Keypad not responding,,Medium,Ahmed,1:00 PM,1:00 PM,3-31-2021,04-02-2021,31-03-2021 00:00,04-02-2021 13:00,1307,55
+55926,Walker,492-4893-06,Tablet,Ace NotePad 2,Display cracked completely,,High,Ahmed,10:00 AM,10:00 AM,04-12-2021,4-13-2021,04-12-2021 10:00,13-04-2021 00:00,5650,236
+90941,Fowler,467-8054-70,Tablet,Ace NotePad 4,Volume cannot be adjusted,,Medium,Ahmed,9:00 AM,9:00 AM,03-07-2021,03-09-2021,03-07-2021 09:00,03-09-2021 09:00,1488,62
+61670,Elliott,158-8501-33,Tablet,Ace Swift F20,Cannot establish bluetooth connection,,Low,Ahmed,4:00 PM,10:00 PM,03-10-2021,3-14-2021,03-10-2021 16:00,14-03-2021 00:00,4888,204
+86544,Bailey,181-0732-15,Phone,Ace M31 Prime,Low battery life,,Low,Ahmed,12:00 PM,7:00 PM,3-14-2021,3-16-2021,14-03-2021 00:00,16-03-2021 00:00,48,2
+19562,Wright,487-1149-43,Tablet,Ace NotePad 4,Apps crashing often,2,Medium,Surya,7:00 PM,8:00 AM,4-14-2021,4-16-2021,14-04-2021 00:00,16-04-2021 00:00,48,2
+51388,Turner,792-3512-25,Laptop,Ace Flare S2,Overheating often,,Medium,Surya,9:00 AM,2:00 PM,3-31-2021,04-01-2021,31-03-2021 00:00,04-01-2021 14:00,2050,86
+62668,Montgomery,839-2577-34,Laptop,Ace SparX,USB port broken,,Medium,Surya,4:00 PM,1:00 PM,4-29-2021,01-05-2021,29-04-2021 00:00,01-05-2021 13:00,61,3
+82899,Dixon,630-4498-57,Laptop,Ace Notebook 2.0,Connected to charger not charging,,Low,Surya,12:00 PM,10:00 AM,04-03-2021,04-06-2021,04-03-2021 12:00,04-06-2021 10:00,2206,92
+21395,Clark,280-8108-12,Tablet,Ace Tablet 500 Mini,Not charging,,High,Surya,2:00 PM,9:00 AM,3-20-2021,3-21-2021,20-03-2021 00:00,21-03-2021 00:00,24,1
+21745,Owens,703-1004-78,Phone,Ace M31 Prime,Low battery life,,Low,Surya,3:00 PM,4:00 PM,4-29-2021,4-30-2021,29-04-2021 00:00,30-04-2021 00:00,24,1
+16042,Cameron,924-5927-27,Phone,Ace 5s,Low battery life,,Low,Surya,8:00 PM,12:00 PM,03-09-2021,03-10-2021,03-09-2021 20:00,03-10-2021 12:00,712,30
+91521,Robinson,988-0600-08,Desktop,Ace AZ Desktop,Power supply is Low,,Medium,Rohan,3:00 PM,7:00 PM,4-23-2021,4-24-2021,23-04-2021 00:00,24-04-2021 00:00,24,1
+62080,Montgomery,697-2190-93,Desktop,Ace Zeus V01,Minor software issues,,Low,Rohan,5:00 PM,9:00 AM,3-21-2021,3-23-2021,21-03-2021 00:00,23-03-2021 00:00,48,2
+53699,Taylor,028-4001-00,Desktop,Ace AZ Desktop,Screen glitches,,Medium,Rohan,6:00 PM,11:00 AM,3-29-2021,3-30-2021,29-03-2021 00:00,30-03-2021 00:00,24,1
+5754,Crawford,179-8879-11,Phone,Ace Galaxy S9,Cannot download apps,,Medium,Rohan,7:00 PM,12:00 PM,04-08-2021,04-10-2021,04-08-2021 19:00,04-10-2021 12:00,1457,61
+29030,Martin,619-6803-46,Phone,Ace X3,Cannot connect to wifi,,Low,Rohan,10:00 PM,5:00 PM,3-28-2021,3-31-2021,28-03-2021 00:00,31-03-2021 00:00,72,3
+65902,Lloyd,871-5202-72,Laptop,Ace Notebook 1.0,Low battery life,,Low,Rohan,8:00 AM,6:00 PM,4-26-2021,4-29-2021,26-04-2021 00:00,29-04-2021 00:00,72,3
+69660,Myers,217-1510-17,Tablet,Ace Tablet 500,Charging port is loose,,Medium,Rohan,2:00 PM,7:00 PM,03-08-2021,03-09-2021,03-08-2021 14:00,03-09-2021 19:00,749,32
+46214,Douglas,796-4318-98,Laptop,Ace Notebook 1.0,Touchscreen unresponsive,,Medium,Rohan,1:00 PM,10:00 AM,3-18-2021,3-20-2021,18-03-2021 00:00,20-03-2021 00:00,48,2
+20500,Cole,919-1356-08,Tablet,Ace Tablet 500,Touchscreen unresponsive,,High,Rohan,3:00 AM,12:00 PM,4-23-2021,4-24-2021,23-04-2021 00:00,24-04-2021 00:00,24,1
+10258,Cameron,704-0606-68,Phone,Ace Galaxy S10,Cannot download apps,,Medium,Rohan,9:00 AM,2:00 PM,3-21-2021,3-22-2021,21-03-2021 00:00,22-03-2021 00:00,24,1
+12438,Mason,979-0495-74,Desktop,Ace PC 3699,Monitor ghosting,,Medium,Rohan,4:00 PM,3:00 PM,3-19-2021,3-21-2021,19-03-2021 00:00,21-03-2021 00:00,48,2
+16486,Wilson,059-7475-96,Laptop,Ace Notebook 1.0,Volume cannot be adjusted,,Medium,Rohan,12:00 PM,8:00 PM,04-07-2021,04-08-2021,04-07-2021 12:00,04-08-2021 20:00,752,32
+57869,Thompson,989-7762-36,Tablet,Ace Tab E750 Pro,Reboots often,,High,Rohan,7:00 PM,3:00 PM,4-20-2021,4-21-2021,20-04-2021 00:00,21-04-2021 00:00,24,1
+98092,Ross,993-9558-24,Phone,Ace Galaxy S10,Cannot download apps,,Medium,Rohan,9:00 AM,5:00 PM,4-20-2021,4-21-2021,20-04-2021 00:00,21-04-2021 00:00,24,1
+33230,Davis,111-5750-92,Phone,Ace 6s+,Speakers damaged,,High,Rohan,11:00 AM,6:00 AM,4-16-2021,4-17-2021,16-04-2021 00:00,17-04-2021 00:00,24,1
+61545,Wells,581-4465-44,Phone,Ace X3,Camera blurry,7,Low,Rohan,12:00 PM,7:00 PM,03-12-2021,3-14-2021,03-12-2021 12:00,14-03-2021 00:00,6348,265
+16932,Reed,308-6644-60,Tablet,Ace Tab E750,Cannot connect to wifi,,Low,Rohan,2:00 PM,10:00 PM,3-29-2021,04-01-2021,29-03-2021 00:00,04-01-2021 22:00,1994,84
+83047,Payne,485-4604-03,Laptop,Ace TouchPad 2000,Forgotten PIN,,High,Rohan,3:00 PM,1:00 PM,03-09-2021,03-10-2021,03-09-2021 15:00,03-10-2021 13:00,718,30
+76200,Warren,474-3800-16,Laptop,Ace Notebook 2.0 Lite,Touchscreen doesnot work sometimes,,Low,Rohan,8:00 PM,10:00 PM,3-21-2021,3-23-2021,21-03-2021 00:00,23-03-2021 00:00,48,2
+82433,Farrell,562-0847-22,Desktop,Ace Quantum Core 5278,Unresponsie mouse controlls,,Medium,Surya,3:00 PM,8:00 AM,4-25-2021,4-26-2021,25-04-2021 00:00,26-04-2021 00:00,24,1
+81712,Scott,243-0641-27,Desktop,Ace Quantum Core 5278,Cannot connect to network,,Low,Surya,5:00 PM,2:00 PM,3-17-2021,3-19-2021,17-03-2021 00:00,19-03-2021 00:00,48,2
+5072,Montgomery,985-1235-02,Phone,Ace Galaxy S4,Phone dead,,High,Surya,6:00 PM,9:00 AM,04-08-2021,04-09-2021,04-08-2021 18:00,04-09-2021 09:00,735,31
+25910,Carroll,945-1132-80,Phone,Ace X3,Cannot adjust brightness,6,Low,Surya,7:00 PM,4:00 PM,4-24-2021,4-27-2021,24-04-2021 00:00,27-04-2021 00:00,72,3
+85985,Douglas,306-1063-75,Phone,Ace 5,Screen scratches,,Low,Surya,10:00 PM,12:00 PM,03-06-2021,03-07-2021,03-06-2021 22:00,03-07-2021 12:00,710,30
+56669,Phillips,554-2178-33,Phone,Ace M31 Prime,Battery life is Low,3,Low,Surya,5:00 PM,7:00 PM,04-07-2021,04-10-2021,04-07-2021 17:00,04-10-2021 19:00,2210,93
+44636,Turner,483-7990-77,Phone,Ace 6s+,Cannot charge fully,,Medium,Surya,7:00 PM,1:00 PM,4-26-2021,4-28-2021,26-04-2021 00:00,28-04-2021 00:00,48,2
+62161,Gray,932-1076-44,Phone,Ace 6s+,Cannot install new apps,,Low,Surya,8:00 AM,11:00 AM,04-07-2021,04-10-2021,04-07-2021 08:00,04-10-2021 11:00,2211,93
+13688,Gibson,533-5936-90,Phone,Ace Galaxy S9,Calling feature unresponsive,11,High,Surya,2:00 PM,12:00 PM,03-08-2021,03-09-2021,03-08-2021 14:00,03-09-2021 12:00,742,31
+7520,Farrell,565-0677-28,Phone,Ace 6,Low battery life,,Low,Surya,1:00 PM,5:00 PM,03-05-2021,03-07-2021,03-05-2021 13:00,03-07-2021 17:00,1468,62
+54217,Kelley,733-6304-36,Desktop,Ace PC 3699,Cannot install updates,,Low,Surya,10:00 AM,6:00 PM,4-19-2021,4-22-2021,19-04-2021 00:00,22-04-2021 00:00,72,3
+12354,Watson,961-8743-43,Desktop,Ace Pro 2000,Screen blackout when turning on,,Medium,Surya,9:00 AM,7:00 PM,3-24-2021,3-25-2021,24-03-2021 00:00,25-03-2021 00:00,24,1
+79899,Hall,239-8596-55,Tablet,Ace NotePad 4,Bluetooth issues,5,Low,Surya,4:00 PM,10:00 PM,03-04-2021,03-06-2021,03-04-2021 16:00,03-06-2021 22:00,1470,62
+60801,Wells,264-8052-66,Tablet,Ace NotePad 2,Water damage,,High,Surya,12:00 PM,12:00 PM,4-15-2021,4-16-2021,15-04-2021 00:00,16-04-2021 00:00,24,1
+70278,Brooks,066-1115-77,Laptop,Ace SparX,Water damage,,High,Surya,7:00 PM,2:00 PM,3-15-2021,3-16-2021,15-03-2021 00:00,16-03-2021 00:00,24,1
+64115,Perry,824-6663-99,Phone,Ace X3,SLow Phone,,Low,Ahmed,9:00 AM,3:00 PM,3-30-2021,04-01-2021,30-03-2021 00:00,04-01-2021 15:00,2025,85
+83409,Barnes,157-1500-79,Laptop,Ace TouchPad 2000,Touch screen damaged,,Medium,Ahmed,11:00 AM,8:00 PM,4-21-2021,4-22-2021,21-04-2021 00:00,22-04-2021 00:00,24,1
+5066,Howard,936-0830-90,Tablet,Ace NotePad 4,Cannot adjust brightness,6,Low,Ahmed,12:00 PM,3:00 PM,3-25-2021,3-28-2021,25-03-2021 00:00,28-03-2021 00:00,72,3
+1130,Thomas,379-6162-49,Desktop,Ace AZ Desktop,Cannot install updates,,Low,Ahmed,7:00 PM,5:00 PM,3-21-2021,3-23-2021,21-03-2021 00:00,23-03-2021 00:00,48,2
+55364,Phillips,283-1815-56,Desktop,Ace A700,Screen blackout when turning on,,Medium,Ahmed,8:00 AM,6:00 AM,3-30-2021,01-04-2021,30-03-2021 00:00,01-04-2021 06:00,54,3
+78420,Hawkins,567-9146-19,Desktop,Ace Pro 1000,Cannot install updates,,Low,Ahmed,2:00 PM,7:00 PM,04-06-2021,04-08-2021,04-06-2021 14:00,04-08-2021 19:00,1469,62
+18756,Bailey,936-8761-06,Phone,Ace Galaxy S9,Screen blackout when turning on,,Medium,Ahmed,1:00 PM,10:00 PM,03-03-2021,03-05-2021,03-03-2021 13:00,03-05-2021 22:00,1473,62
+9945,Harris,369-1156-92,Phone,Ace 5s,SLow charging,,Low,Ahmed,10:00 AM,7:00 PM,4-27-2021,4-30-2021,27-04-2021 00:00,30-04-2021 00:00,72,3
+64914,Murray,926-3806-73,Tablet,Ace NotePad 4,SLow charging,,Low,Ahmed,9:00 AM,10:00 PM,03-04-2021,03-06-2021,03-04-2021 09:00,03-06-2021 22:00,1477,62
+13843,Sullivan,595-4474-84,Phone,Ace 5,Phone dead,,High,Ahmed,4:00 PM,8:00 AM,3-17-2021,3-18-2021,17-03-2021 00:00,18-03-2021 00:00,24,1
+95034,Watson,372-2717-50,Laptop,Ace Lappy 1126,Touchpad unresponsive,,High,Abhishek,12:00 PM,2:00 PM,04-09-2021,04-10-2021,04-09-2021 12:00,04-10-2021 14:00,722,31
+22242,Gray,366-4288-65,Desktop,Ace PC 3699,Cannot install updates,,Low,Abhishek,12:00 PM,3:00 PM,04-02-2021,04-04-2021,04-02-2021 12:00,04-04-2021 15:00,1419,60
+25465,Taylor,159-3650-74,Phone,Ace 6,Screen blackout when turning on,,Medium,Abhishek,7:00 AM,8:00 PM,3-15-2021,3-16-2021,15-03-2021 00:00,16-03-2021 00:00,24,1
+20132,Anderson,059-7447-35,Laptop,Ace Notebook 2.0 Lite,Screen damaged,,High,Abhishek,5:00 PM,3:00 PM,4-30-2021,01-05-2021,30-04-2021 00:00,01-05-2021 15:00,39,2
+80634,Thomas,554-0285-54,Desktop,Ace AZ Desktop,Cannot install updates,,Low,Abhishek,7:00 PM,5:00 PM,03-04-2021,03-07-2021,03-04-2021 19:00,03-07-2021 17:00,2182,91
+52365,Roberts,116-5963-45,Tablet,Ace NotePad 4,Cannot connect to wifi,,Low,Abhishek,8:00 AM,6:00 PM,03-11-2021,3-13-2021,03-11-2021 08:00,13-03-2021 00:00,5648,236
+53776,Morgan,308-5330-33,Tablet,Ace NotePad 2,Cannot connectto bluetooth,,Low,Abhishek,2:00 PM,7:00 PM,03-09-2021,3-13-2021,03-09-2021 14:00,13-03-2021 00:00,4190,175
+74599,Reed,375-9027-44,Phone,Ace 6,Calling feature unresponsive,11,High,Abhishek,1:00 PM,10:00 AM,03-09-2021,03-10-2021,03-09-2021 13:00,03-10-2021 10:00,717,30
+92915,Thompson,302-8289-82,Phone,Ace 6s+,Apps crashing,2,Medium,Abhishek,10:00 AM,7:00 PM,04-04-2021,04-05-2021,04-04-2021 10:00,04-05-2021 19:00,729,31
+85338,Richardson,033-4249-27,Laptop,Ace Notebook 2.0 Lite,Touchpad lagging,,Medium,Abhishek,9:00 AM,8:00 AM,4-16-2021,4-18-2021,16-04-2021 00:00,18-04-2021 00:00,48,2
+72506,Robinson,876-7969-54,Desktop,Ace AZ Desktop,Cannot install updates,,Low,Abhishek,4:00 PM,8:00 AM,4-27-2021,4-30-2021,27-04-2021 00:00,30-04-2021 00:00,72,3
+95201,Perry,386-1629-97,Laptop,Ace Infinite,Screen blackout when turning on,,Medium,Abhishek,5:00 PM,2:00 PM,3-24-2021,3-26-2021,24-03-2021 00:00,26-03-2021 00:00,48,2
+71665,Murray,360-9481-84,Desktop,Ace Zeus V01,Minor software issues,,Low,Abhishek,7:00 PM,1:00 PM,3-26-2021,3-27-2021,26-03-2021 00:00,27-03-2021 00:00,24,1
+73021,Brooks,118-2964-47,Phone,Ace X3,Phone lags and freezes,,Medium,Abhishek,9:00 AM,10:00 AM,3-30-2021,3-31-2021,30-03-2021 00:00,31-03-2021 00:00,24,1
+87626,Davis,648-7831-57,Phone,Ace Galaxy S10,Overheating sometimes,,Low,Raj,11:00 AM,9:00 AM,03-02-2021,03-05-2021,03-02-2021 11:00,03-05-2021 09:00,2134,89
+3131,Higgins,057-5721-37,Phone,Ace 5s,"Water damage, phone dead",,High,Raj,12:00 PM,10:00 AM,3-14-2021,3-15-2021,14-03-2021 00:00,15-03-2021 00:00,24,1
+66253,Cameron,047-8030-77,Phone,Ace 5,Display cracked completely,,High,Raj,2:00 PM,8:00 AM,4-29-2021,4-30-2021,29-04-2021 00:00,30-04-2021 00:00,24,1
+32161,Armstrong,726-7060-38,Phone,Ace 5s,Cannot connect to wifi,,Low,Raj,3:00 PM,8:00 AM,3-23-2021,3-26-2021,23-03-2021 00:00,26-03-2021 00:00,72,3
+16935,Murray,733-1822-78,Phone,Ace 6s+,Low battery life,,Low,Raj,8:00 PM,2:00 PM,4-21-2021,4-23-2021,21-04-2021 00:00,23-04-2021 00:00,48,2
+50576,Anderson,632-4409-04,Phone,Ace 6s+,Phone crashes and reboots often,,High,Raj,3:00 PM,3:00 PM,3-17-2021,3-18-2021,17-03-2021 00:00,18-03-2021 00:00,24,1
+89250,Russell,082-6228-73,Phone,Ace Galaxy S4,Screen cracked partially,,Medium,Raj,5:00 PM,8:00 PM,04-03-2021,04-04-2021,04-03-2021 17:00,04-04-2021 20:00,747,32
+64399,Henderson,718-0464-11,Phone,Ace 6,Low battery life,,Low,Raj,6:00 PM,3:00 PM,04-05-2021,04-07-2021,04-05-2021 18:00,04-07-2021 15:00,1461,61
+41659,Owens,571-4072-06,Phone,Ace Galaxy S10,Phone lagging,,Low,Raj,7:00 PM,5:00 PM,03-11-2021,3-13-2021,03-11-2021 19:00,13-03-2021 00:00,5659,236
+76332,Thompson,420-5258-35,Phone,Ace M31 Prime,Overheating,,Medium,Raj,10:00 PM,6:00 PM,3-21-2021,3-23-2021,21-03-2021 00:00,23-03-2021 00:00,48,2
+11365,Thomas,896-1740-14,Phone,Ace M31 Prime,Low battery life,,Low,Raj,11:00 AM,7:00 PM,3-28-2021,3-30-2021,28-03-2021 00:00,30-03-2021 00:00,48,2
+63983,Warren,469-2312-71,Tablet,Ace Swift F20,Low battery life,,Low,Raj,12:00 PM,10:00 PM,03-12-2021,3-13-2021,03-12-2021 12:00,13-03-2021 00:00,6372,266
+33756,Robinson,846-2791-51,Tablet,Ace Tablet 500 Mini,Display cracked completely,,High,Raj,7:00 PM,7:00 PM,04-01-2021,04-02-2021,04-01-2021 19:00,04-02-2021 19:00,744,31
+57167,Douglas,625-0057-22,Tablet,Ace Tab E750,Pen not working,,Medium,Raj,5:00 PM,4:00 PM,03-05-2021,03-06-2021,03-05-2021 17:00,03-06-2021 16:00,743,31
+89507,Harrison,007-7395-40,Tablet,Ace Tablet 500 Mini,Keypad not working,,Medium,Raj,7:00 PM,8:00 AM,4-29-2021,01-05-2021,29-04-2021 00:00,01-05-2021 08:00,56,3
+50101,Hunt,790-3722-84,Tablet,Ace Swift F20,Touchpad not working,,High,Raj,4:00 PM,2:00 PM,4-29-2021,4-30-2021,29-04-2021 00:00,30-04-2021 00:00,24,1
+43764,Morris,834-4547-46,Tablet,Ace NotePad 4,Water damage,,High,Surya,2:00 PM,1:00 PM,4-14-2021,4-15-2021,14-04-2021 00:00,15-04-2021 00:00,24,1
+80056,Jones,569-1735-51,Tablet,Ace Swift F20,Touchpad not working,,High,Surya,1:00 PM,10:00 AM,3-30-2021,3-31-2021,30-03-2021 00:00,31-03-2021 00:00,24,1
+56623,Moore,683-7446-92,Tablet,Ace Tab E750,Extremely sLow and lagging,,Medium,Surya,10:00 AM,9:00 AM,03-12-2021,3-14-2021,03-12-2021 10:00,14-03-2021 00:00,6346,265
+74728,Sullivan,745-1655-44,Tablet,Ace Tab E750,Battery not charging,3,High,Surya,9:00 AM,7:00 AM,04-01-2021,04-02-2021,04-01-2021 09:00,04-02-2021 07:00,742,31
+58851,Russell,103-0620-62,Tablet,Ace NotePad 2,SLow,,Low,Surya,4:00 PM,7:00 PM,04-11-2021,4-13-2021,04-11-2021 16:00,13-04-2021 00:00,4936,206
+18541,Ryan,244-5317-85,Phone,Ace 5s,Cannot charge fully,,Medium,Surya,12:00 PM,8:00 AM,4-30-2021,01-05-2021,30-04-2021 00:00,01-05-2021 08:00,32,2
+54663,Perkins,958-3779-13,Desktop,Ace Zeus V01,Cannot install updates,,Low,Surya,7:00 PM,2:00 PM,3-23-2021,3-25-2021,23-03-2021 00:00,25-03-2021 00:00,48,2
+13679,Farrell,474-0034-13,Desktop,Ace AZ Desktop,Screen blackout when turning on,,Medium,Surya,9:00 AM,1:00 PM,4-14-2021,4-15-2021,14-04-2021 00:00,15-04-2021 00:00,24,1
+46146,Parker,697-0106-87,Laptop,Ace Flare S2,Cannot establish bluetooth connection,,Low,Surya,11:00 AM,2:00 PM,04-01-2021,04-03-2021,04-01-2021 11:00,04-03-2021 14:00,1419,60
+42164,Adams,102-8011-25,Laptop,Ace SparX Pro,Broken headphones port,8,Medium,Rohan,12:00 PM,3:00 PM,3-23-2021,3-24-2021,23-03-2021 00:00,24-03-2021 00:00,24,1
+16299,Montgomery,948-6358-70,Laptop,Ace Flare S6,USB port damaged,,Medium,Rohan,7:00 AM,8:00 PM,4-24-2021,4-25-2021,24-04-2021 00:00,25-04-2021 00:00,24,1
+97258,Hunt,416-2056-87,Phone,Ace Galaxy S10,Monitor ghosting,,Low,Rohan,5:00 PM,3:00 PM,3-15-2021,3-18-2021,15-03-2021 00:00,18-03-2021 00:00,72,3
+24388,Gray,931-8890-62,Laptop,Ace Flare S2,Hard drive noises,,High,Rohan,7:00 PM,5:00 PM,04-06-2021,04-07-2021,04-06-2021 19:00,04-07-2021 17:00,718,30
+32819,Wright,854-6342-78,Phone,Ace M31 Prime,Cannot adjust volume,11,Medium,Rohan,11:00 AM,9:00 AM,03-02-2021,03-04-2021,03-02-2021 11:00,03-04-2021 09:00,1414,59
+25444,Douglas,302-7377-85,Phone,Ace 5,Headphones port loosened,,Medium,Rohan,2:00 PM,1:00 PM,04-04-2021,04-06-2021,04-04-2021 14:00,04-06-2021 13:00,1463,61
+21557,Henderson,924-9825-38,Tablet,Ace Tablet 500 Mini,Screen glitches,,Medium,Rohan,1:00 PM,10:00 PM,03-04-2021,03-05-2021,03-04-2021 13:00,03-05-2021 22:00,729,31
+12980,Watson,778-9409-76,Tablet,Ace Tablet 500 Mini,Unresponsive power button,,High,Rohan,2:00 PM,12:00 PM,4-13-2021,4-14-2021,13-04-2021 00:00,14-04-2021 00:00,24,1
+99135,Hunt,911-4158-76,Tablet,Ace Tablet 500 Mini,SLow,,Low,Abhishek,9:00 AM,2:00 PM,4-21-2021,4-23-2021,21-04-2021 00:00,23-04-2021 00:00,48,2
+49551,Spencer,049-1133-77,Laptop,Ace Flare S6,Cannot access RAM,7,Medium,Abhishek,4:00 PM,3:00 PM,04-03-2021,04-05-2021,04-03-2021 16:00,04-05-2021 15:00,1463,61
+18742,Campbell,927-2157-57,Laptop,Ace Swift F20 Lite,Power Button not working,,High,Abhishek,12:00 PM,8:00 AM,04-06-2021,04-07-2021,04-06-2021 12:00,04-07-2021 08:00,716,30
+14431,Ellis,177-1638-21,Laptop,Ace Flare S6,Battery does not charge upto 100%,3,Medium,Abhishek,7:00 PM,3:00 PM,4-29-2021,05-01-2021,29-04-2021 00:00,05-01-2021 15:00,2721,114
+84207,Douglas,883-5806-41,Laptop,Ace Notebook 2.0,Battery replacement,3,Low,Abhishek,9:00 AM,5:00 PM,3-20-2021,3-22-2021,20-03-2021 00:00,22-03-2021 00:00,48,2
+49591,Warren,761-5125-30,Laptop,Ace SparX Pro,Screen Flickering when connected to charger,,Medium,Abhishek,11:00 AM,8:00 AM,3-17-2021,3-18-2021,17-03-2021 00:00,18-03-2021 00:00,24,1
+49569,Anderson,384-3667-94,Laptop,Ace Lappy 1126,"Battery not charging, laptop works with charger",3,Low,Abhishek,12:00 PM,2:00 PM,3-22-2021,3-23-2021,22-03-2021 00:00,23-03-2021 00:00,24,1
+54305,Payne,173-6692-67,Laptop,Ace Notebook 2.0 Lite,Charging port is loose,,High,Abhishek,2:00 PM,1:00 PM,3-27-2021,3-28-2021,27-03-2021 00:00,28-03-2021 00:00,24,1
+96333,Barnes,024-5940-66,Laptop,Ace Swift F20 Lite,Keyboard not working,,Medium,Abhishek,3:00 PM,10:00 AM,04-01-2021,04-03-2021,04-01-2021 15:00,04-03-2021 10:00,1411,59
+73806,Holmes,407-3725-60,Laptop,Ace Notebook 1.0,Touchpad sLow,,Medium,Abhishek,8:00 PM,9:00 AM,03-08-2021,03-10-2021,03-08-2021 20:00,03-10-2021 09:00,1453,61
+89014,Owens,167-2836-01,Laptop,Ace SparX,Cannot adjust volume,11,Medium,Abhishek,3:00 PM,4:00 PM,4-19-2021,4-20-2021,19-04-2021 00:00,20-04-2021 00:00,24,1
+47135,Hamilton,931-3333-13,Laptop,Ace Flare S2,USB port issues,,Low,Abhishek,5:00 PM,12:00 PM,3-13-2021,3-15-2021,13-03-2021 00:00,15-03-2021 00:00,48,2
+30547,Stewart,706-2610-34,Laptop,Ace SparX,Connected not charging,,Low,Ahmed,6:00 PM,7:00 PM,4-20-2021,4-22-2021,20-04-2021 00:00,22-04-2021 00:00,48,2
+50517,Murphy,282-4390-51,Desktop,Ace Zeus V01,Processor burning,,High,Ahmed,7:00 PM,9:00 AM,4-25-2021,4-26-2021,25-04-2021 00:00,26-04-2021 00:00,24,1
+31555,Perry,494-3220-09,Desktop,Ace Quantum Core 5278,Keyboard unresponsive,,Medium,Ahmed,10:00 PM,2:00 PM,04-08-2021,4-29-2021,04-08-2021 22:00,29-04-2021 00:00,2350,98
+61971,Owens,911-0836-60,Desktop,Ace Pro 2000,Fans not working sometimes,,Medium,Ahmed,11:00 AM,3:00 PM,4-16-2021,4-18-2021,16-04-2021 00:00,18-04-2021 00:00,48,2
+39185,Turner,217-4685-97,Desktop,Ace A700,Cannot install updates,,Low,Ahmed,12:00 PM,8:00 PM,5-26-2021,5-29-2021,26-05-2021 00:00,29-05-2021 00:00,72,3
+54797,Baker,158-6423-63,Desktop,Ace Pro 2000,Cannot install updates,,Low,Ahmed,7:00 AM,3:00 PM,04-03-2021,04-07-2021,04-03-2021 07:00,04-07-2021 15:00,2936,123
+72727,Hamilton,836-6669-23,Desktop,Ace Zeus V01,Screen blackout when turning on,,Medium,Ahmed,5:00 PM,5:00 PM,4-30-2021,05-01-2021,30-04-2021 00:00,05-01-2021 17:00,2743,115
+43479,Ferguson,497-0742-60,Desktop,Ace PC 3699,Minor monitor issues,,Medium,Ahmed,7:00 PM,6:00 PM,4-19-2021,4-21-2021,19-04-2021 00:00,21-04-2021 00:00,48,2
+89546,Sullivan,099-2421-89,Desktop,Ace Quantum Core 5278,Monitor ghosting,,Medium,Ahmed,8:00 AM,7:00 PM,04-03-2021,04-05-2021,04-03-2021 08:00,04-05-2021 19:00,1475,62
+4366,Morrison,117-1740-22,Desktop,Ace PC 3699,Blue Screen,4,High,Ahmed,2:00 PM,10:00 PM,04-10-2021,04-10-2021,04-10-2021 14:00,04-10-2021 22:00,8,1
+5149,Casey,248-8806-48,Desktop,Ace AZ Desktop,Failing power supply,,High,Ahmed,1:00 PM,7:00 PM,05-05-2021,05-05-2021,05-05-2021 13:00,05-05-2021 19:00,6,1
+86809,Hill,595-1631-92,Desktop,Ace PC 3699,Screen frozen,,High,Ahmed,10:00 AM,10:00 PM,5-20-2021,5-20-2021,20-05-2021 00:00,20-05-2021 00:00,0,0
+78048,Gray,106-6572-24,Desktop,Ace Pro 2000,Processor burning,,High,Ahmed,9:00 AM,8:00 AM,5-29-2021,5-30-2021,29-05-2021 00:00,30-05-2021 00:00,24,1
+73697,Cole,197-5686-32,Desktop,Ace Zeus V01,Keyboard unresponsive,,Medium,Surya,4:00 PM,2:00 PM,4-27-2021,4-28-2021,27-04-2021 00:00,28-04-2021 00:00,24,1
+86816,Hawkins,801-7863-79,Desktop,Ace AZ Desktop,Fans not working sometimes,,Medium,Surya,12:00 PM,1:00 PM,05-03-2021,05-04-2021,05-03-2021 12:00,05-04-2021 13:00,745,32
+26643,Evans,772-9447-44,Desktop,Ace Quantum Core 5278,Cannot install updates,,Low,Surya,7:00 PM,10:00 AM,04-04-2021,04-07-2021,04-04-2021 19:00,04-07-2021 10:00,2175,91
+89947,Edwards,411-7814-10,Desktop,Ace PC 3699,Cannot install updates,,Low,Surya,9:00 AM,9:00 AM,4-25-2021,4-27-2021,25-04-2021 00:00,27-04-2021 00:00,48,2
+9538,Richardson,645-2791-18,Desktop,Ace Zeus V01,Screen blackout when turning on,,Medium,Surya,11:00 AM,10:00 PM,5-26-2021,5-27-2021,26-05-2021 00:00,27-05-2021 00:00,24,1
+60645,Richardson,252-3788-42,Desktop,Ace AZ Desktop,Minor monitor issues,,Medium,Raj,12:00 PM,7:00 PM,04-07-2021,04-08-2021,04-07-2021 12:00,04-08-2021 19:00,751,32
+26156,Phillips,142-4962-59,Phone,Ace Galaxy S9,Screen burning,,Medium,Raj,2:00 PM,8:00 AM,4-24-2021,4-25-2021,24-04-2021 00:00,25-04-2021 00:00,24,1
+68218,Tucker,366-7448-47,Phone,Ace Galaxy S4,Blue Screen,4,High,Raj,3:00 PM,10:00 PM,4-25-2021,4-25-2021,25-04-2021 00:00,25-04-2021 00:00,0,0
+60711,Ellis,850-3402-64,Phone,Ace Galaxy S4,SLow charging,,Low,Raj,8:00 PM,7:00 PM,5-24-2021,5-28-2021,24-05-2021 00:00,28-05-2021 00:00,96,4
+67678,Thomas,774-4463-29,Phone,Ace M31 Prime,Screen frozen,,High,Raj,3:00 PM,10:00 PM,04-02-2021,04-02-2021,04-02-2021 15:00,04-02-2021 22:00,7,1
+30628,Chapman,019-6437-86,Phone,Ace X3,Touchscreen unresponsive,,High,Raj,5:00 PM,8:00 AM,5-31-2021,5-31-2021,31-05-2021 00:00,31-05-2021 00:00,0,0
+22067,Edwards,348-4451-65,Phone,Ace 6s+,Touchscreen not working,,High,Abhishek,6:00 PM,2:00 PM,05-06-2021,05-06-2021,05-06-2021 18:00,05-06-2021 14:00,4,1
+84837,Farrell,146-2171-59,Phone,Ace Galaxy S10,Not charging,,High,Abhishek,7:00 PM,3:00 PM,5-23-2021,5-23-2021,23-05-2021 00:00,23-05-2021 00:00,0,0
+51143,Stewart,586-6290-37,Phone,Ace X3,water damage,,High,Abhishek,10:00 PM,8:00 AM,04-02-2021,04-03-2021,04-02-2021 22:00,04-03-2021 08:00,658,28
+38764,Williams,694-2750-65,Phone,Ace Galaxy S9,some apps are not functioning,,Medium,Abhishek,8:00 AM,2:00 PM,4-14-2021,4-15-2021,14-04-2021 00:00,15-04-2021 00:00,24,1
+28909,Henderson,875-5275-03,Phone,Ace 5s,keypad not working,,Medium,Abhishek,2:00 PM,1:00 PM,05-12-2021,5-13-2021,05-12-2021 14:00,13-05-2021 00:00,4958,207
+16821,Morrison,299-6701-53,Phone,Ace Galaxy S6,cam is not turning on,7,Medium,Abhishek,1:00 PM,10:00 AM,04-01-2021,04-02-2021,04-01-2021 13:00,04-02-2021 10:00,741,31
+16916,Perkins,896-0362-27,Phone,Ace Galaxy S10,cannot use bluetooth and external devices,,Medium,Rohan,10:00 AM,9:00 AM,4-17-2021,4-18-2021,17-04-2021 00:00,18-04-2021 00:00,24,1
+40940,Martin,374-8868-61,Phone,Ace 5s,battery drains quickly,3,Medium,Rohan,9:00 AM,10:00 PM,04-11-2021,04-02-2021,04-11-2021 09:00,04-02-2021 22:00,6539,273
+21965,Cameron,016-6609-06,Phone,Ace Galaxy S10,Low battery life,,Low,Rohan,4:00 PM,7:00 PM,5-13-2021,5-16-2021,13-05-2021 00:00,16-05-2021 00:00,72,3
+65933,Montgomery,315-6806-70,Phone,Ace Galaxy S4,Doesnot charge upto 100%,,Low,Rohan,12:00 PM,8:00 AM,5-15-2021,5-18-2021,15-05-2021 00:00,18-05-2021 00:00,72,3
+38501,Harper,182-0296-15,Phone,Ace 5,Can't connect to wifi,,Low,Rohan,7:00 PM,2:00 PM,5-20-2021,5-25-2021,20-05-2021 00:00,25-05-2021 00:00,120,5
+39490,Parker,836-1764-37,Phone,Ace Galaxy S10,SLow Phone,,Medium,Rohan,9:00 AM,1:00 PM,05-09-2021,05-10-2021,05-09-2021 09:00,05-10-2021 13:00,724,31
+13486,Sullivan,434-7634-00,Phone,Ace 6,Speakers not working,,Low,Rohan,11:00 AM,10:00 AM,4-13-2021,4-16-2021,13-04-2021 00:00,16-04-2021 00:00,72,3
+67404,Hall,814-4576-27,Phone,Ace Galaxy S9,Storage gets full often,,Medium,Rohan,12:00 PM,9:00 AM,04-09-2021,04-10-2021,04-09-2021 12:00,04-10-2021 09:00,717,30
+49882,Clark,473-3331-80,Phone,Ace Galaxy S6,Pop up ads often disturbing,,Low,Surya,7:00 AM,4:00 PM,5-30-2021,06-03-2021,30-05-2021 00:00,06-03-2021 16:00,2024,85
+91337,Reed,511-6322-47,Phone,Ace Galaxy S4,Game glitches,,Low,Surya,5:00 PM,12:00 PM,4-20-2021,4-24-2021,20-04-2021 00:00,24-04-2021 00:00,96,4
+29301,Ferguson,045-5289-50,Phone,Ace X3,cannot connect to the wifi,,Medium,Surya,7:00 PM,7:00 PM,04-11-2021,4-13-2021,04-11-2021 19:00,13-04-2021 00:00,4939,206
+76200,Jones,324-9038-39,Phone,Ace Galaxy S4,Microphone not working sometimes,,High,Surya,8:00 AM,9:00 AM,04-03-2021,04-03-2021,04-03-2021 08:00,04-03-2021 09:00,1,1
+56067,Johnston,944-9203-05,Phone,Ace Galaxy S9,Bluetooth disconnects on its own,5,Medium,Surya,2:00 PM,11:00 AM,04-11-2021,4-13-2021,04-11-2021 14:00,13-04-2021 00:00,4934,206
+62035,Wright,009-2354-73,Phone,Ace Galaxy S10,Updates are not keeping up,,Medium,Surya,1:00 PM,12:00 PM,4-19-2021,4-20-202-,19-04-2021 00:00,#VALUE!,#VALUE!,#VALUE!
+59352,Thompson,719-4178-76,Phone,Ace Galaxy S6,Lags when Youtube opens,,Medium,Ahmed,10:00 AM,5:00 PM,04-08-2021,04-09-2021,04-08-2021 10:00,04-09-2021 17:00,751,32
+97832,Adams,873-2539-94,Phone,Ace 6,Hotspot not connecting to some devices,,Medium,Ahmed,9:00 AM,6:00 PM,04-05-2021,04-06-2021,04-05-2021 09:00,04-06-2021 18:00,753,32
+86994,Stewart,245-6885-70,Phone,Ace M31 Prime,Keyboard lag,,Low,Ahmed,4:00 PM,7:00 PM,4-14-2021,4-18-2021,14-04-2021 00:00,18-04-2021 00:00,96,4
+52782,Montgomery,246-5029-16,Phone,Ace M31 Prime,Apps not responding at times,2,High,Ahmed,8:00 AM,7:00 PM,04-12-2021,04-12-2021,04-12-2021 08:00,04-12-2021 19:00,11,1
+88052,Owens,521-9764-49,Phone,Ace 5s,Screen freezes when charging,,High,Ahmed,2:00 PM,8:00 AM,5-24-2021,5-25-2021,24-05-2021 00:00,25-05-2021 00:00,24,1
+59258,Turner,325-4879-13,Tablet,Ace Tab E750 Pro,Music glitches,,Low,Rohan,1:00 PM,10:00 PM,5-26-2021,5-26-2021,26-05-2021 00:00,26-05-2021 00:00,0,0
+17375,Rogers,798-5336-65,Tablet,Ace NotePad 2,Data Low mode is disabled,,High,Rohan,1:00 PM,7:00 PM,05-06-2021,05-06-2021,05-06-2021 13:00,05-06-2021 19:00,6,1
+64163,Davis,308-8584-56,Tablet,Ace NotePad 2,Calculator showing error often,10,Low,Rohan,10:00 AM,10:00 PM,4-28-2021,05-02-2021,28-04-2021 00:00,05-02-2021 22:00,1946,82
+98843,Tucker,704-8025-48,Tablet,Ace NotePad 4,Camera is not working,7,Low,Rohan,11:00 PM,8:00 AM,04-11-2021,4-13-2021,04-11-2021 23:00,13-04-2021 00:00,4943,206
+67712,Stevens,762-8122-71,Tablet,Ace Tablet 500 Mini,Battery does not last for long,3,Medium,Ahmed,12:00 PM,1:00 PM,4-16-2021,4-17-2021,16-04-2021 00:00,17-04-2021 00:00,24,1
+26344,Henderson,500-5313-13,Tablet,Ace NotePad 2,The device is not turning on,,High,Raj,7:00 AM,6:00 PM,5-18-2021,5-18-2021,18-05-2021 00:00,18-05-2021 00:00,0,0
+1391,Hunt,268-4049-39,Tablet,Ace Swift F20,Display is broken,,Medium,Surya,5:00 PM,7:00 PM,5-14-2021,5-15-2021,14-05-2021 00:00,15-05-2021 00:00,24,1
+58045,Montgomery,212-6502-07,Tablet,Ace Tablet 500,Does not get charged,,Medium,Abhishek,7:00 PM,8:00 AM,05-12-2021,5-13-2021,05-12-2021 19:00,13-05-2021 00:00,4963,207
+94251,Cole,920-8962-58,Tablet,Ace NotePad 4,Some apps are not working,,Low,Raj,8:00 AM,2:00 PM,4-16-2021,4-18-2021,16-04-2021 00:00,18-04-2021 00:00,48,2
+95071,Mitchell,085-4180-55,Tablet,Ace NotePad 2,Forgotten password,,Medium,Surya,2:00 PM,1:00 PM,5-25-2021,5-28-2021,25-05-2021 00:00,28-05-2021 00:00,72,3
+54592,Cameron,584-7430-04,Tablet,Ace Tab E750 Pro,The device is not functioning,,High,Abhishek,1:00 PM,10:00 AM,05-11-2021,05-12-2021,05-11-2021 13:00,05-12-2021 10:00,717,30
+14378,Henderson,714-5415-58,Tablet,Ace Tab E750,The screen is completely blank,,High,Rohan,10:00 AM,9:00 PM,5-26-2021,5-26-2021,26-05-2021 00:00,26-05-2021 00:00,0,0
+82048,Montgomery,374-8496-43,Tablet,Ace Swift F20,Camera is blurry,7,Low,Ahmed,9:00 AM,4:00 PM,4-21-2021,4-23-2021,21-04-2021 00:00,23-04-2021 00:00,48,2
+3886,Carter,938-5542-24,Tablet,Ace Swift F20 Lite,Cannot connect to the app store,,Low,Raj,4:00 PM,12:00 PM,5-26-2021,5-29-2021,26-05-2021 00:00,29-05-2021 00:00,72,3
+35228,Kelley,422-3163-05,Tablet,Ace Tab E750,The device heats up occasionally,,Low,Surya,12:00 PM,7:00 PM,04-04-2021,04-06-2021,04-04-2021 12:00,04-06-2021 19:00,1471,62
+46437,Cooper,141-8166-58,Tablet,Ace Tab E750,The device needs a battery change,,Medium,Abhishek,7:00 PM,9:00 AM,4-29-2021,4-30-2021,29-04-2021 00:00,30-04-2021 00:00,24,1
+31923,Stevens,278-0848-99,Tablet,Ace Tab E750 Pro,Device is not receiving updates,,Low,Rohan,9:00 AM,11:00 AM,4-15-2021,4-17-2021,15-04-2021 00:00,17-04-2021 00:00,48,2
+5122,Kelley,669-2973-64,Tablet,Ace NotePad 4,Speakers are not working,,Medium,Ahmed,11:00 AM,12:00 PM,05-01-2021,05-02-2021,05-01-2021 11:00,05-02-2021 12:00,745,32
+89204,Roberts,749-2175-53,Tablet,Ace Tablet 500,Some apps are not opening,,Low,Rohan,12:00 PM,2:00 PM,4-29-2021,05-01-2021,29-04-2021 00:00,05-01-2021 14:00,2722,114
+84413,Foster,331-3031-95,Laptop,Ace Flare S6,Does not connect to the wifi,,Low,Ahmed,2:00 PM,3:00 PM,05-06-2021,05-08-2021,05-06-2021 14:00,05-08-2021 15:00,1465,62
+66061,Spencer,890-8873-69,Laptop,Ace SparX Pro,The device is not charging,,Medium,Raj,3:00 PM,8:00 PM,5-17-2021,5-18-2021,17-05-2021 00:00,18-05-2021 00:00,24,1
+91737,Perry,938-6022-23,Laptop,Ace SparX Pro,Device is not functioning at all,,High,Rohan,8:00 PM,3:00 PM,05-07-2021,05-08-2021,05-07-2021 20:00,05-08-2021 15:00,739,31
+81514,Robinson,518-9768-08,Laptop,Ace TouchPad 2000,Device does not connect to the network,,Medium,Ahmed,3:00 PM,5:00 PM,05-05-2021,05-06-2021,05-05-2021 15:00,05-06-2021 17:00,746,32
+51326,Ross,958-9150-64,Laptop,Ace Notebook 2.0,Word and other ms apps are not opening,,Medium,Raj,5:00 PM,6:00 PM,05-01-2021,05-02-2021,05-01-2021 17:00,05-02-2021 18:00,745,32
+11354,Turner,199-3370-95,Laptop,Ace Lappy 1126,Keyboard is not working,,Medium,Surya,6:00 PM,7:00 PM,04-06-2021,04-07-2021,04-06-2021 18:00,04-07-2021 19:00,721,31
+96647,Carroll,253-4784-77,Desktop,Ace Quantum Core 5278,Does not connect to external devices,,Medium,Abhishek,7:00 PM,10:00 PM,5-26-2021,5-26-2021,26-05-2021 00:00,26-05-2021 00:00,0,0
+11711,Fowler,839-7568-86,Desktop,Ace A700,Forgotten password,,Low,Raj,10:00 PM,11:00 AM,04-08-2021,04-11-2021,04-08-2021 22:00,04-11-2021 11:00,2197,92
+83535,Dixon,829-4264-15,Desktop,Ace PC 3699,Screen Is blank,,High,Surya,11:00 AM,12:00 PM,05-01-2021,05-02-2021,05-01-2021 11:00,05-02-2021 12:00,745,32
+27042,Thomas,469-1756-37,Desktop,Ace Zeus V01,Screen borken,,High,Abhishek,12:00 PM,7:00 AM,5-13-2021,5-14-2021,13-05-2021 00:00,14-05-2021 00:00,24,1
+25648,Reed,006-5075-67,Desktop,Ace A700,keypad not working,,High,Rohan,7:00 AM,5:00 PM,5-29-2021,5-29-2021,29-05-2021 00:00,29-05-2021 00:00,0,0
+61499,Richards,961-3985-56,Desktop,Ace Pro 1000,Not charging,,High,Surya,5:00 PM,7:00 PM,05-04-2021,05-04-2021,05-04-2021 17:00,05-04-2021 19:00,2,1
+40664,Anderson,659-3366-16,Tablet,Ace NotePad 2,Overheating very often,,Medium,Abhishek,7:00 PM,8:00 AM,05-06-2021,05-06-2021,05-06-2021 19:00,05-06-2021 08:00,11,1
+89105,Douglas,899-8554-14,Tablet,Ace Tab E750 Pro,Not charging,,High,Raj,8:00 AM,2:00 PM,05-08-2021,05-08-2021,05-08-2021 08:00,05-08-2021 14:00,6,1
+76372,Barrett,988-8134-06,Tablet,Ace Tablet 500,Issue connecting to networks,,Low,Surya,2:00 PM,1:00 PM,5-21-2021,5-23-2021,21-05-2021 00:00,23-05-2021 00:00,48,2
+15847,Montgomery,632-0132-39,Phone,Ace 6s+,Cannot connect to the app store,,Low,Rohan,1:00 PM,10:00 AM,04-12-2021,4-14-2021,04-12-2021 13:00,14-04-2021 00:00,5629,235
+47738,Owens,591-2669-87,Tablet,Ace NotePad 4,charging port is broken,,Medium,Ahmed,10:00 AM,9:00 AM,05-02-2021,05-03-2021,05-02-2021 10:00,05-03-2021 09:00,671,28
+52499,Jones,368-1059-63,Laptop,Ace Notebook 1.0,Power Button not working,,High,Raj,9:00 AM,4:00 PM,5-17-2021,5-17-2021,17-05-2021 00:00,17-05-2021 00:00,0,0
+57205,Harrison,229-9352-05,Phone,Ace Galaxy S6,Battery does not charge upto 100%,3,Medium,Ahmed,4:00 PM,12:00 PM,4-17-2021,4-18-2021,17-04-2021 00:00,18-04-2021 00:00,24,1
+6780,Hamilton,388-4051-23,Phone,Ace Galaxy S6,Battery replacement,3,Low,Raj,12:00 PM,7:00 PM,04-03-2021,04-05-2021,04-03-2021 12:00,04-05-2021 19:00,1471,62
+48892,Rogers,764-4120-74,Laptop,Ace Swift F20 Lite,Screen Flickering when connected to charger,,Medium,Surya,7:00 PM,9:00 AM,04-07-2021,04-08-2021,04-07-2021 19:00,04-08-2021 09:00,734,31
+27065,Nelson,444-3737-14,Desktop,Ace Quantum Core 5278,"Battery not charging, laptop works with charger",3,Low,Abhishek,9:00 AM,11:00 AM,05-10-2021,05-12-2021,05-10-2021 09:00,05-12-2021 11:00,1466,62
+79843,Edwards,010-0335-47,Desktop,Ace Quantum Core 5278,Charging port is loose,,High,Raj,11:00 AM,12:00 PM,5-26-2021,5-26-2021,26-05-2021 00:00,26-05-2021 00:00,0,0
+96709,Edwards,179-9329-33,Tablet,Ace Tab E750 Pro,Keyboard not working,,Medium,Surya,12:00 PM,2:00 PM,05-08-2021,05-09-2021,05-08-2021 12:00,05-09-2021 14:00,746,32
+15558,Clark,325-9215-14,Phone,Ace Galaxy S4,Touchscreen not working,,Medium,Abhishek,2:00 PM,3:00 PM,04-02-2021,04-03-2021,04-02-2021 14:00,04-03-2021 15:00,673,29
+87961,Owens,386-5536-16,Tablet,Ace Tablet 500,Display cracked,,High,Rohan,3:00 PM,8:00 PM,04-05-2021,04-05-2021,04-05-2021 15:00,04-05-2021 20:00,5,1
+36153,Carroll,784-1455-42,Phone,Ace M31 Prime,Screen borken,,High,Rohan,8:00 PM,3:00 PM,5-19-2021,5-19-2021,19-05-2021 00:00,19-05-2021 00:00,0,0
+45530,Chapman,661-5139-53,Tablet,Ace NotePad 2,Touchpad not working,,High,Ahmed,3:00 PM,5:00 PM,04-09-2021,04-09-2021,04-09-2021 15:00,04-09-2021 17:00,2,1
+59265,Holmes,294-7437-46,Phone,Ace 5s,Not charging,,High,Raj,5:00 PM,6:00 PM,4-24-2021,4-24-2021,24-04-2021 00:00,24-04-2021 00:00,0,0
+14317,Payne,354-1322-87,Laptop,Ace SparX,Overheating very often,,Medium,Ahmed,6:00 PM,7:00 PM,5-17-2021,5-18-2021,17-05-2021 00:00,18-05-2021 00:00,24,1
+60533,Adams,589-8969-28,Laptop,Ace Flare S6,Not charging,,High,Raj,7:00 PM,10:00 PM,04-11-2021,04-11-2021,04-11-2021 19:00,04-11-2021 22:00,3,1
+69631,Murray,332-3410-65,Desktop,Ace A700,Issue connecting to networks,,Low,Surya,10:00 PM,12:00 PM,5-17-2021,5-19-2021,17-05-2021 00:00,19-05-2021 00:00,48,2
+71093,Lloyd,474-3519-69,Desktop,Ace Pro 2000,Phone lags and freezes,,Medium,Abhishek,8:00 AM,2:00 PM,05-12-2021,5-13-2021,05-12-2021 08:00,13-05-2021 00:00,4952,207
+37272,Miller,952-5317-62,Desktop,Ace PC 3699,Overheating,,Low,Raj,2:00 PM,3:00 PM,5-16-2021,5-18-2021,16-05-2021 00:00,18-05-2021 00:00,48,2
+12422,Allen,285-8575-54,Laptop,Ace Infinite,"Water damage, phone dead",,High,Raj,1:00 PM,8:00 PM,4-26-2021,4-26-2021,26-04-2021 00:00,26-04-2021 00:00,0,0
+18246,Morris,432-2441-10,Laptop,Ace SparX Pro,Display cracked completely,,High,Ahmed,10:00 AM,3:00 PM,05-05-2021,05-05-2021,05-05-2021 10:00,05-05-2021 15:00,5,1
+26203,Richardson,593-0288-24,Phone,Ace Galaxy S6,Touchpad unresponsive,,High,Raj,9:00 AM,5:00 PM,05-09-2021,05-09-2021,05-09-2021 09:00,05-09-2021 17:00,8,1
+23717,Brooks,020-6899-76,Tablet,Ace Tablet 500,Water damage,,High,Surya,4:00 PM,6:00 PM,5-19-2021,5-19-2021,19-05-2021 00:00,19-05-2021 00:00,0,0
+35941,Richardson,553-9843-50,Phone,Ace 5,Low battery life,,Low,Abhishek,12:00 PM,7:00 PM,4-20-2021,4-24-2021,20-04-2021 00:00,24-04-2021 00:00,96,4
+81321,Chapman,021-3385-63,Phone,Ace Galaxy S10,Doesnot charge upto 100%,,Medium,Abhishek,7:00 PM,10:00 PM,4-20-2021,4-21-2021,20-04-2021 00:00,21-04-2021 00:00,24,1
+86207,Chapman,895-9282-53,Phone,Ace 6s+,Can't connect to wifi,,Medium,Abhishek,9:00 AM,7:00 PM,5-15-2021,5-16-2021,15-05-2021 00:00,16-05-2021 00:00,24,1
+96547,Grant,180-2608-87,Phone,Ace Galaxy S4,SLow Phone,,Low,Abhishek,11:00 AM,10:00 PM,5-19-2021,5-21-2021,19-05-2021 00:00,21-05-2021 00:00,48,2
+84311,Russell,839-7350-22,Phone,Ace M31 Prime,Speakers not working,,Medium,Abhishek,12:00 PM,8:00 AM,5-19-2021,5-20-2021,19-05-2021 00:00,20-05-2021 00:00,24,1
+7783,West,532-6873-75,Phone,Ace Galaxy S9,Low battery life,,Low,Abhishek,2:00 PM,2:00 PM,05-08-2021,05-11-2021,05-08-2021 14:00,05-11-2021 14:00,2208,92
+22675,Hawkins,158-9732-61,Phone,Ace 6,Cannot install apps,,Medium,Abhishek,3:00 PM,1:00 PM,05-03-2021,05-04-2021,05-03-2021 15:00,05-04-2021 13:00,742,31
+65289,Nelson,706-4061-85,Phone,Ace Galaxy S9,RAM not accessible,,High,Abhishek,8:00 PM,10:00 AM,5-24-2021,5-25-2021,24-05-2021 00:00,25-05-2021 00:00,24,1
+37576,Ferguson,807-9992-88,Phone,Ace 6s+,Cannot install updates,,Low,Abhishek,3:00 PM,9:00 AM,5-14-2021,5-16-2021,14-05-2021 00:00,16-05-2021 00:00,48,2
+35696,Hill,053-0195-57,Phone,Ace 5s,Display damaged,,High,Abhishek,5:00 PM,4:00 PM,04-07-2021,04-08-2021,04-07-2021 17:00,04-08-2021 16:00,743,31
+32645,Smith,814-5728-56,Phone,Ace Galaxy S4,Touchscreen unresponsive sometimes,,Low,Abhishek,6:00 PM,12:00 PM,4-23-2021,4-25-2021,23-04-2021 00:00,25-04-2021 00:00,48,2
+7825,Martin,318-5944-90,Phone,Ace 6s+,Keyboard damaged,,Medium,Abhishek,7:00 PM,7:00 PM,04-07-2021,04-08-2021,04-07-2021 19:00,04-08-2021 19:00,744,31
+39492,Gibson,954-4895-82,Phone,Ace Galaxy S9,Touchscreen unresponsive,,Medium,Abhishek,10:00 PM,9:00 AM,4-26-2021,4-27-2021,26-04-2021 00:00,27-04-2021 00:00,24,1
+79999,Andrews,488-6702-09,Phone,Ace X3,Water damage,,High,Abhishek,5:00 PM,11:00 AM,4-24-2021,4-25-2021,24-04-2021 00:00,25-04-2021 00:00,24,1
+15358,Chapman,362-5102-82,Phone,Ace M31 Prime,Processor burning,,High,Surya,7:00 PM,12:00 PM,04-10-2021,04-11-2021,04-10-2021 19:00,04-11-2021 12:00,737,31
+70700,Kelley,589-0430-51,Phone,Ace Galaxy S4,Keyboard unresponsive,,Medium,Surya,8:00 AM,2:00 PM,04-04-2021,04-05-2021,04-04-2021 08:00,04-05-2021 14:00,726,31
+98852,Armstrong,347-2018-48,Phone,Ace 5,Fans not working sometimes,,Medium,Surya,2:00 PM,3:00 PM,05-10-2021,05-11-2021,05-10-2021 14:00,05-11-2021 15:00,745,32
+43567,Evans,963-9079-89,Phone,Ace 6s+,Cannot install updates,,Low,Surya,1:00 PM,8:00 PM,4-26-2021,4-28-2021,26-04-2021 00:00,28-04-2021 00:00,48,2
+59092,Riley,823-7151-89,Phone,Ace Galaxy S9,Cannot install updates,,Low,Surya,10:00 AM,3:00 PM,5-27-2021,5-30-2021,27-05-2021 00:00,30-05-2021 00:00,72,3
+3490,Montgomery,711-7689-91,Phone,Ace Galaxy S10,Screen blackout when turning on,,Medium,Surya,9:00 AM,5:00 PM,5-28-2021,5-28-2021,28-05-2021 00:00,28-05-2021 00:00,0,0
+18828,Murray,290-5831-48,Phone,Ace Galaxy S10,Minor monitor issues,,Medium,Surya,4:00 PM,6:00 PM,5-16-2021,5-17-2021,16-05-2021 00:00,17-05-2021 00:00,24,1
+21524,Parker,853-9015-07,Tablet,Ace Swift F20 Lite,Monitor ghosting,,Medium,Surya,12:00 PM,7:00 PM,04-12-2021,4-13-2021,04-12-2021 12:00,13-04-2021 00:00,5652,236
+98750,Ellis,755-8565-56,Tablet,Ace Tab E750 Pro,Blue Screen,4,High,Surya,7:00 PM,10:00 PM,5-20-2021,5-20-2021,20-05-2021 00:00,20-05-2021 00:00,0,0
+58444,Casey,584-3449-23,Tablet,Ace Swift F20,Failing power supply,,High,Surya,9:00 AM,11:00 AM,04-03-2021,04-03-2021,04-03-2021 09:00,04-03-2021 11:00,2,1
+43911,Hunt,675-7077-74,Tablet,Ace Tablet 500 Mini,Screen frozen,,High,Surya,11:00 AM,5:00 PM,04-12-2021,04-12-2021,04-12-2021 11:00,04-12-2021 17:00,6,1
+54055,Casey,501-2970-79,Tablet,Ace Tablet 500 Mini,Camera is not working,7,Low,Surya,12:00 PM,7:00 PM,04-01-2021,04-03-2021,04-01-2021 12:00,04-03-2021 19:00,1423,60
+27031,Hill,014-6446-99,Tablet,Ace NotePad 2,Battery does not last for long,3,Medium,Surya,7:00 PM,8:00 AM,5-13-2021,5-14-2021,13-05-2021 00:00,14-05-2021 00:00,24,1
+8991,Howard,500-6078-90,Tablet,Ace Tab E750,The device is not turning on,,High,Surya,8:00 AM,2:00 PM,5-31-2021,5-31-2021,31-05-2021 00:00,31-05-2021 00:00,0,0
+69634,Owens,393-4309-61,Tablet,Ace Swift F20,Display is broken,,Medium,Surya,2:00 PM,1:00 PM,05-12-2021,5-13-2021,05-12-2021 14:00,13-05-2021 00:00,4958,207
+68853,Barnes,284-1428-38,Tablet,Ace NotePad 4,Does not get charged,,Medium,Surya,1:00 PM,10:00 AM,05-09-2021,05-10-2021,05-09-2021 13:00,05-10-2021 10:00,717,30
+26989,Kelly,195-4333-96,Tablet,Ace Tablet 500 Mini,Some apps are not working,,Low,Ahmed,10:00 AM,9:00 AM,04-05-2021,04-06-2021,04-05-2021 10:00,04-06-2021 09:00,743,31
+54783,Payne,679-2869-87,Tablet,Ace Swift F20 Lite,Forgotten password,,Medium,Ahmed,9:00 AM,4:00 PM,04-10-2021,04-11-2021,04-10-2021 09:00,04-11-2021 16:00,751,32
+65715,Crawford,758-0419-72,Tablet,Ace Tab E750,The device is not functioning,,High,Ahmed,4:00 PM,12:00 PM,5-17-2021,5-18-2021,17-05-2021 00:00,18-05-2021 00:00,24,1
+26523,Baker,326-6268-07,Tablet,Ace Tab E750 Pro,The screen is completely blank,,High,Ahmed,12:00 PM,7:00 PM,4-14-2021,4-14-2021,14-04-2021 00:00,14-04-2021 00:00,0,0
+76560,Riley,564-3023-77,Tablet,Ace Swift F20 Lite,Camera is blurry,7,Low,Ahmed,11:00 AM,9:00 AM,4-25-2021,4-28-2021,25-04-2021 00:00,28-04-2021 00:00,72,3
+33380,Phillips,313-8036-07,Laptop,Ace SparX,Cannot connect to the app store,,Low,Ahmed,12:00 PM,11:00 AM,4-15-2021,4-19-2021,15-04-2021 00:00,19-04-2021 00:00,96,4
+66103,Payne,104-8180-72,Tablet,Ace Swift F20 Lite,The device heats up occasionally,,Low,Ahmed,7:00 AM,12:00 PM,05-06-2021,05-08-2021,05-06-2021 07:00,05-08-2021 12:00,1469,62
+81127,Robinson,097-3187-32,Laptop,Ace Swift F20 Lite,The device needs a battery change,,Medium,Ahmed,5:00 PM,2:00 PM,4-18-2021,4-18-2021,18-04-2021 00:00,18-04-2021 00:00,0,0
+8593,Ellis,999-7118-75,Laptop,Ace SparX,Device is not receiving updates,,Low,Ahmed,7:00 PM,3:00 PM,5-27-2021,5-29-2021,27-05-2021 00:00,29-05-2021 00:00,48,2
+47412,Cunningham,615-9966-90,Phone,Ace 5s,Speakers are not working,,Medium,Ahmed,8:00 AM,2:00 PM,5-19-2021,5-19-2021,19-05-2021 00:00,19-05-2021 00:00,0,0
+29863,Ferguson,001-1925-33,Phone,Ace X3,Some apps are not opening,,Low,Ahmed,2:00 PM,1:00 PM,04-05-2021,04-07-2021,04-05-2021 14:00,04-07-2021 13:00,1463,61
+44693,Gibson,969-8724-62,Desktop,Ace Pro 2000,Does not connect to the wifi,,Low,Ahmed,1:00 PM,10:00 AM,5-13-2021,5-17-2021,13-05-2021 00:00,17-05-2021 00:00,96,4
+75996,Alexander,839-6308-66,Desktop,Ace A700,MS apps not functioning,,Medium,Ahmed,10:00 AM,9:00 AM,04-01-2021,04-02-2021,04-01-2021 10:00,04-02-2021 09:00,743,31
+11091,Mitchell,566-9572-29,Laptop,Ace Flare S6,Device is not functioning at all,,High,Ahmed,9:00 AM,4:00 PM,5-21-2021,5-22-2021,21-05-2021 00:00,22-05-2021 00:00,24,1
+49528,Turner,638-5217-59,Desktop,Ace Pro 2000,Device does not connect to the network,,Medium,Ahmed,4:00 PM,12:00 PM,5-18-2021,5-19-2021,18-05-2021 00:00,19-05-2021 00:00,24,1
+22287,Edwards,417-8348-39,Desktop,Ace Pro 2000,Word and other ms apps are not opening,,Medium,Raj,12:00 PM,7:00 PM,05-05-2021,05-06-2021,05-05-2021 12:00,05-06-2021 19:00,751,32
+12919,Riley,493-9393-21,Phone,Ace 6,Keyboard is not working,,Medium,Raj,7:00 PM,9:00 AM,04-02-2021,04-03-2021,04-02-2021 19:00,04-03-2021 09:00,662,28
+81711,Belinda,653-7162-36,Tablet,Ace Tablet 500,Does not connect to external devices,,Medium,Raj,9:00 AM,11:00 AM,04-06-2021,04-07-2021,04-06-2021 09:00,04-07-2021 11:00,722,31
+22151,Jacob,811-9239-58,Desktop,Ace Pro 2000,Forgotten password,,Low,Raj,11:00 AM,12:00 PM,4-29-2021,04-03-2021,29-04-2021 00:00,04-03-2021 12:00,1332,56
+17318,Oscar,706-5226-99,Tablet,Ace NotePad 2,Screen Is blank,,High,Raj,12:00 PM,2:00 PM,5-19-2021,5-19-2021,19-05-2021 00:00,19-05-2021 00:00,0,0
+11543,Andrew,148-0104-11,Desktop,Ace Quantum Core 5278,partial screen damage,,Medium,Surya,2:00 PM,10:00 AM,4-14-2021,4-15-2021,14-04-2021 00:00,15-04-2021 00:00,24,1
+63366,Vincent,387-3328-85,Tablet,Ace Tablet 500 Mini,mike is not working,,Low,Abhishek,3:00 PM,9:00 AM,5-29-2021,05-01-2021,29-05-2021 00:00,05-01-2021 09:00,3447,144
+40292,Brooke,146-8957-94,Tablet,Ace Swift F20,Screen frozen,,High,Rohan,8:00 PM,4:00 PM,4-25-2021,4-26-2021,25-04-2021 00:00,26-04-2021 00:00,24,1
+17420,Cherry,692-4413-60,Tablet,Ace NotePad 4,Unresponsive power button,,Medium,Ahmed,3:00 PM,12:00 PM,5-15-2021,5-16-2021,15-05-2021 00:00,16-05-2021 00:00,24,1
+19089,John,891-3787-48,Tablet,Ace Swift F20,Cannot install apps,,Low,Raj,5:00 PM,7:00 PM,4-14-2021,4-16-2021,14-04-2021 00:00,16-04-2021 00:00,48,2
+16970,Lucy,753-6917-24,Tablet,Ace NotePad 2,Wifi connection issues,,Low,Surya,6:00 PM,9:00 AM,4-16-2021,4-18-2021,16-04-2021 00:00,18-04-2021 00:00,48,2
+51030,Lydia,515-7083-81,Tablet,Ace Tablet 500,Speakers damaged,,Medium,Abhishek,7:00 PM,11:00 AM,4-20-2021,4-21-2021,20-04-2021 00:00,21-04-2021 00:00,24,1
+52855,Kate,518-3613-53,Tablet,Ace NotePad 4,Calling feature unresponsive,11,High,Rohan,10:00 PM,4:00 PM,4-25-2021,4-26-2021,25-04-2021 00:00,26-04-2021 00:00,24,1
+276,Evelyn,881-1723-45,Tablet,Ace NotePad 4,Broken Camera,7,Medium,Ahmed,11:00 AM,1:00 PM,5-14-2021,5-15-2021,14-05-2021 00:00,15-05-2021 00:00,24,1
+75565,Carlos,463-8793-97,Tablet,Ace Tab E750,Partially screen damage,,Medium,Rohan,12:00 PM,6:00 PM,4-16-2021,4-17-2021,16-04-2021 00:00,17-04-2021 00:00,24,1
+1967,Amy,455-0279-98,Tablet,Ace Tab E750 Pro,Camera not working,7,Medium,Ahmed,7:00 AM,7:00 PM,5-17-2021,5-18-2021,17-05-2021 00:00,18-05-2021 00:00,24,1
+36436,Eric,569-4152-32,Phone,Ace Galaxy S6,IR blaster unresponsive sometimes,,Low,Raj,5:00 PM,8:00 AM,4-21-2021,4-23-2021,21-04-2021 00:00,23-04-2021 00:00,48,2
+15598,Abigail,419-5621-21,Tablet,Ace NotePad 4,Cannot connect to Playstore,,Low,Rohan,7:00 PM,2:00 PM,04-03-2021,04-05-2021,04-03-2021 19:00,04-05-2021 14:00,1459,61
+41561,Daisy,361-2545-65,Phone,Ace Galaxy S10,Phone crashes occasionally,,Low,Ahmed,8:00 AM,1:00 PM,04-06-2021,04-08-2021,04-06-2021 08:00,04-08-2021 13:00,1469,62
+24433,Derek,965-1461-03,Desktop,Ace AZ Desktop,Low power supply,,Medium,Raj,2:00 PM,10:00 AM,4-14-2021,4-15-2021,14-04-2021 00:00,15-04-2021 00:00,24,1
+40680,James,448-8994-72,Desktop,Ace Pro 1000,Overall performance is sLow,,Medium,Surya,1:00 PM,9:00 AM,04-02-2021,04-03-2021,04-02-2021 13:00,04-03-2021 09:00,668,28
+91177,Thomas,696-4147-43,Desktop,Ace Pro 2000,Webcam unresponsive,,Medium,Abhishek,10:00 AM,4:00 PM,4-15-2021,4-16-2021,15-04-2021 00:00,16-04-2021 00:00,24,1
+58199,Alen,511-9328-79,Laptop,Ace SparX Pro,Touchscreen unresponsive,,High,Raj,9:00 AM,12:00 PM,4-21-2021,4-21-2021,21-04-2021 00:00,21-04-2021 00:00,0,0
+27134,Alan,043-8140-97,Laptop,Ace Notebook 1.0,Cannot connect to wifi,,Low,Surya,4:00 PM,7:00 PM,5-21-2021,5-23-2021,21-05-2021 00:00,23-05-2021 00:00,48,2
+87445,Madaline,498-2775-85,Phone,Ace Galaxy S6,Charging port damaged,,High,Abhishek,12:00 PM,9:00 AM,5-14-2021,5-15-2021,14-05-2021 00:00,15-05-2021 00:00,24,1
+54565,Freddie,476-7331-87,Laptop,Ace Notebook 2.0 Lite,Water damage,,High,Rohan,7:00 PM,11:00 AM,5-18-2021,5-19-2021,18-05-2021 00:00,19-05-2021 00:00,24,1
+90380,Ashton,464-3026-29,Tablet,Ace Tab E750,Display lagging,,Low,Surya,9:00 AM,12:00 PM,4-30-2021,04-02-2021,30-04-2021 00:00,04-02-2021 12:00,2028,85
+51543,Byron,786-7222-85,Desktop,Ace Zeus V01,ms apps are not responding,,Low,Abhishek,11:00 AM,2:00 PM,4-24-2021,4-26-2021,24-04-2021 00:00,26-04-2021 00:00,48,2
+44044,Cadie,003-0837-11,Laptop,Ace SparX,chrome is not responding,,Low,Raj,12:00 PM,3:00 PM,4-19-2021,4-23-2021,19-04-2021 00:00,23-04-2021 00:00,96,4
+54266,Dale,661-0490-25,Desktop,Ace Pro 1000,mouse pointer is not working,,Medium,Surya,2:00 PM,8:00 PM,04-01-2021,04-02-2021,04-01-2021 14:00,04-02-2021 20:00,750,32
+55392,Henry,698-4971-15,Phone,Ace 6,water damage,,High,Rohan,3:00 PM,3:00 PM,05-09-2021,05-10-2021,05-09-2021 15:00,05-10-2021 15:00,720,30
+74613,Daniel,427-1935-57,Tablet,Ace Tab E750 Pro,some apps are not functioning,,Low,Ahmed,8:00 PM,5:00 PM,4-20-2021,4-23-2021,20-04-2021 00:00,23-04-2021 00:00,72,3
+81703,Stuart,864-7051-50,Desktop,Ace Pro 2000,keypad not working,,Medium,Raj,3:00 PM,6:00 PM,5-23-2021,5-24-2021,23-05-2021 00:00,24-05-2021 00:00,24,1
+18869,Martin,663-7482-31,Desktop,Ace Quantum Core 5278,webcam is not turning on,,Low,Ahmed,5:00 PM,7:00 PM,4-14-2021,4-17-2021,14-04-2021 00:00,17-04-2021 00:00,72,3
+44599,Annabella,634-2466-59,Desktop,Ace AZ Desktop,cannot use bluetooth and external devices,,Medium,Raj,6:00 PM,10:00 PM,5-27-2021,5-28-2021,27-05-2021 00:00,28-05-2021 00:00,24,1
+78743,Julia,484-7231-32,Desktop,Ace AZ Desktop,battery drains quickly,3,Medium,Surya,7:00 PM,11:00 AM,04-03-2021,04-04-2021,04-03-2021 19:00,04-04-2021 11:00,736,31
+89626,Walter,362-1880-63,Desktop,Ace Pro 1000,Low battery life,,Low,Abhishek,10:00 PM,12:00 PM,04-09-2021,04-11-2021,04-09-2021 22:00,04-11-2021 12:00,1454,61
+12952,Connie,656-9743-35,Phone,Ace Galaxy S6,Doesnot charge upto 100%,,Medium,Raj,8:00 AM,7:00 AM,5-24-2021,5-25-2021,24-05-2021 00:00,25-05-2021 00:00,24,1
+11041,Carina,511-9776-43,Phone,Ace 6,Can't connect to wifi,,Medium,Surya,2:00 PM,5:00 PM,04-05-2021,04-06-2021,04-05-2021 14:00,04-06-2021 17:00,747,32
+83398,Lydia,622-6393-48,Phone,Ace 6,SLow Phone,,Low,Abhishek,1:00 PM,7:00 PM,05-07-2021,05-09-2021,05-07-2021 13:00,05-09-2021 19:00,1494,63
+40281,Eric,878-3381-98,Phone,Ace Galaxy S6,Speakers not working,,Medium,Rohan,10:00 AM,8:00 AM,4-15-2021,4-16-2021,15-04-2021 00:00,16-04-2021 00:00,24,1
+81776,Carl,033-7658-17,Phone,Ace Galaxy S10,Low battery life,,Low,Rohan,9:00 AM,2:00 PM,4-23-2021,4-26-2021,23-04-2021 00:00,26-04-2021 00:00,72,3
+22901,Paige,604-6307-88,Phone,Ace Galaxy S6,Cannot install apps,,Medium,Ahmed,4:00 PM,1:00 PM,4-26-2021,4-27-2021,26-04-2021 00:00,27-04-2021 00:00,24,1
+70603,Mike,107-2942-62,Phone,Ace Galaxy S10,RAM not accessible,,High,Raj,12:00 PM,10:00 AM,5-28-2021,5-29-2021,28-05-2021 00:00,29-05-2021 00:00,24,1
+89831,Samantha,424-9286-87,Phone,Ace X3,Cannot install updates,,Low,Ahmed,7:00 PM,9:00 AM,4-28-2021,4-30-2021,28-04-2021 00:00,30-04-2021 00:00,48,2
+13761,Ada,019-4133-59,Phone,Ace 5,Display damaged,,High,Raj,9:00 AM,4:00 PM,4-21-2021,4-21-2021,21-04-2021 00:00,21-04-2021 00:00,0,0
+49761,Alberta,347-7762-78,Phone,Ace 6s+,Touchscreen unresponsive sometimes,,Low,Surya,11:00 AM,12:00 PM,04-04-2021,04-06-2021,04-04-2021 11:00,04-06-2021 12:00,1465,62
+34333,Amanda,978-4326-76,Phone,Ace 6,Keyboard damaged,,Medium,Abhishek,12:00 PM,7:00 PM,4-21-2021,4-22-2021,21-04-2021 00:00,22-04-2021 00:00,24,1
+43643,Antony,331-9445-73,Phone,Ace Galaxy S6,Touchscreen unresponsive,,Medium,Raj,2:00 PM,9:00 AM,4-16-2021,4-17-2021,16-04-2021 00:00,17-04-2021 00:00,24,1
+76364,George,767-5666-37,Phone,Ace Galaxy S6,Water damage,,High,Raj,3:00 PM,11:00 AM,05-03-2021,05-04-2021,05-03-2021 15:00,05-04-2021 11:00,740,31
+58232,Haris,253-4449-71,Phone,Ace Galaxy S10,Processor burning,,High,Ahmed,8:00 PM,12:00 PM,04-10-2021,04-11-2021,04-10-2021 20:00,04-11-2021 12:00,736,31
+29292,Aldus,236-4789-48,Phone,Ace Galaxy S6,Keyboard unresponsive,,Medium,Raj,3:00 PM,2:00 PM,5-23-2021,5-24-2021,23-05-2021 00:00,24-05-2021 00:00,24,1
+87574,Carl,412-0832-11,Phone,Ace Galaxy S10,Fans not working sometimes,,Medium,Surya,5:00 PM,3:00 PM,06-01-2021,06-02-2021,06-01-2021 17:00,06-02-2021 15:00,742,31
+52902,Myra,294-1908-40,Phone,Ace M31 Prime,Cannot install updates,,Low,Rohan,6:00 PM,8:00 PM,5-25-2021,5-28-2021,25-05-2021 00:00,28-05-2021 00:00,72,3
+84774,Carlos,923-6157-33,Laptop,Ace Flare S2,Cannot install updates,,Low,Ahmed,7:00 PM,3:00 PM,05-10-2021,5-13-2021,05-10-2021 19:00,13-05-2021 00:00,3499,146
+74568,Chester,800-6355-74,Laptop,Ace Lappy 1126,Screen blackout when turning on,,Medium,Raj,10:00 PM,5:00 PM,5-28-2021,5-29-2021,28-05-2021 00:00,29-05-2021 00:00,24,1
+61220,Michelle,399-9833-52,Laptop,Ace Swift F20 Lite,Minor monitor issues,,Medium,Surya,5:00 PM,6:00 PM,05-11-2021,05-12-2021,05-11-2021 17:00,05-12-2021 18:00,721,31
+16617,Mary,187-9617-95,Laptop,Ace Infinite,Monitor ghosting,,Medium,Abhishek,7:00 PM,7:00 PM,06-03-2021,06-04-2021,06-03-2021 19:00,06-04-2021 19:00,744,31
+3539,Byron,949-2930-90,Laptop,Ace TouchPad 2000,Cannot connect to wifi,,Low,Rohan,8:00 AM,10:00 PM,6-15-2021,6-18-2021,15-06-2021 00:00,18-06-2021 00:00,72,3
+86559,Audrey,688-0609-47,Laptop,Ace Notebook 2.0,Charging port damaged,,High,Rohan,2:00 PM,12:00 PM,5-30-2021,5-31-2021,30-05-2021 00:00,31-05-2021 00:00,24,1
+73144,Vincent,067-3144-91,Laptop,Ace TouchPad 2000,Water damage,,High,Rohan,1:00 PM,2:00 PM,05-12-2021,5-13-2021,05-12-2021 13:00,13-05-2021 00:00,4957,207
+5654,Ellia,784-5507-39,Laptop,Ace Infinite,Display lagging,,Low,Rohan,10:00 AM,3:00 PM,5-23-2021,5-26-2021,23-05-2021 00:00,26-05-2021 00:00,72,3
+92697,Mary,267-9633-47,Laptop,Ace Infinite,ms apps are not responding,,Low,Rohan,9:00 AM,8:00 PM,6-13-2021,6-15-2021,13-06-2021 00:00,15-06-2021 00:00,48,2
+40042,Penelope,380-2573-66,Laptop,Ace Lappy 1126,chrome is not responding,,Low,Rohan,4:00 PM,3:00 PM,05-03-2021,05-05-2021,05-03-2021 16:00,05-05-2021 15:00,1463,61
+11146,Spike,788-1811-28,Laptop,Ace Swift F20 Lite,mouse pointer is not working,,Medium,Rohan,12:00 PM,5:00 PM,5-17-2021,5-18-2021,17-05-2021 00:00,18-05-2021 00:00,24,1
+74692,Miller,125-9813-91,Laptop,Ace Notebook 2.0,water damage,,High,Rohan,7:00 PM,6:00 PM,05-12-2021,5-13-2021,05-12-2021 19:00,13-05-2021 00:00,4963,207
+40369,Ada,874-3810-90,Laptop,Ace Infinite,some apps are not functioning,,Low,Rohan,9:00 AM,7:00 PM,06-01-2021,06-04-2021,06-01-2021 09:00,06-04-2021 19:00,2170,91
+77941,Hailey,401-5682-86,Laptop,Ace Lappy 1126,keypad not working,,High,Rohan,11:00 AM,10:00 PM,05-02-2021,05-02-2021,05-02-2021 11:00,05-02-2021 22:00,11,1
+32402,Sofia,359-5172-15,Laptop,Ace SparX,webcam is not turning on,,Low,Rohan,12:00 PM,7:00 PM,05-01-2021,05-04-2021,05-01-2021 12:00,05-04-2021 19:00,2167,91
+18401,Jasmine,263-2057-21,Laptop,Ace Notebook 2.0 Lite,cannot use bluetooth and external devices,,Medium,Abhishek,7:00 PM,10:00 PM,5-18-2021,5-19-2021,18-05-2021 00:00,19-05-2021 00:00,24,1
+31268,Caroline,733-2730-53,Laptop,Ace SparX Pro,battery drains quickly,3,Medium,Abhishek,8:00 AM,8:00 AM,05-08-2021,05-09-2021,05-08-2021 08:00,05-09-2021 08:00,744,31
+85628,Amber,648-0572-08,Laptop,Ace SparX,Wifi connection issues,,Low,Abhishek,2:00 PM,2:00 PM,05-01-2021,05-04-2021,05-01-2021 14:00,05-04-2021 14:00,2160,90
+8886,Justin,042-3243-04,Laptop,Ace Notebook 2.0,cannot download apps,,Medium,Abhishek,1:00 PM,1:00 PM,6-15-2021,6-16-2021,15-06-2021 00:00,16-06-2021 00:00,24,1
+51793,Arthur,519-7050-30,Laptop,Ace Swift F20 Lite,cannot install windows 10,,Low,Abhishek,10:00 AM,10:00 AM,06-05-2021,06-06-2021,06-05-2021 10:00,06-06-2021 10:00,744,31
+57685,Arthur,187-4935-48,Desktop,Ace Quantum Core 5278,does not open ms word,,Low,Abhishek,9:00 AM,9:00 AM,06-12-2021,6-15-2021,06-12-2021 09:00,15-06-2021 00:00,4185,175
+21555,Byron,471-6186-46,Desktop,Ace Zeus V01,Forgotten password,,High,Abhishek,4:00 PM,4:00 PM,06-02-2021,06-03-2021,06-02-2021 16:00,06-03-2021 16:00,672,28
+34879,Maddie,390-4936-84,Desktop,Ace Pro 1000,Device does not connect to the network,,Medium,Abhishek,12:00 PM,12:00 PM,06-02-2021,06-03-2021,06-02-2021 12:00,06-03-2021 12:00,672,28
+98327,Alissa,293-8948-41,Desktop,Ace AZ Desktop,cannot connect to the network,,Medium,Abhishek,12:00 PM,7:00 PM,5-27-2021,5-28-2021,27-05-2021 00:00,28-05-2021 00:00,24,1
+1401,Patrick,157-2548-93,Desktop,Ace Quantum Core 5278,Camera not working,7,Medium,Abhishek,7:00 AM,9:00 AM,05-02-2021,05-03-2021,05-02-2021 07:00,05-03-2021 09:00,674,29
+74637,Victoria,315-5181-13,Desktop,Ace Quantum Core 5278,IR blaster unresponsive sometimes,,Low,Abhishek,5:00 PM,11:00 AM,06-07-2021,06-10-2021,06-07-2021 17:00,06-10-2021 11:00,2202,92
+47922,Myra,533-2514-41,Desktop,Ace AZ Desktop,Cannot connect to Playstore,,Low,Abhishek,7:00 PM,12:00 PM,06-09-2021,06-12-2021,06-09-2021 19:00,06-12-2021 12:00,2177,91
+81998,Natalie,066-8997-46,Desktop,Ace Quantum Core 5278,Phone crashes occasionally,,Low,Abhishek,8:00 AM,2:00 PM,5-23-2021,5-26-2021,23-05-2021 00:00,26-05-2021 00:00,72,3
+16775,Kellan,149-9420-79,Desktop,Ace Pro 2000,SLow charging battery,,Medium,Abhishek,2:00 PM,3:00 PM,5-16-2021,5-17-2021,16-05-2021 00:00,17-05-2021 00:00,24,1
+19790,Rosie,196-4614-49,Desktop,Ace AZ Desktop,Overall performance is sLow,,Medium,Surya,1:00 PM,8:00 PM,5-18-2021,5-19-2021,18-05-2021 00:00,19-05-2021 00:00,24,1
+94054,Miranda,501-6489-99,Desktop,Ace Pro 1000,Camera broken,7,Medium,Surya,10:00 AM,3:00 PM,05-02-2021,05-03-2021,05-02-2021 10:00,05-03-2021 15:00,677,29
+9024,Alina,986-1201-61,Desktop,Ace AZ Desktop,Touchscreen unresponsive,,High,Surya,9:00 AM,5:00 PM,06-06-2021,06-06-2021,06-06-2021 09:00,06-06-2021 17:00,8,1
+35478,Camila,453-5107-10,Desktop,Ace Pro 2000,Cannot connect to wifi,,Low,Surya,4:00 PM,6:00 PM,05-11-2021,5-13-2021,05-11-2021 16:00,13-05-2021 00:00,4240,177
+38467,Olivia,301-8040-99,Desktop,Ace Zeus V01,Charging port damaged,,High,Surya,12:00 PM,7:00 PM,06-11-2021,06-11-2021,06-11-2021 12:00,06-11-2021 19:00,7,1
+41442,Briony,717-9617-25,Desktop,Ace AZ Desktop,Water damage,,High,Surya,7:00 PM,10:00 PM,5-30-2021,5-30-2021,30-05-2021 00:00,30-05-2021 00:00,0,0
+62151,Edith,650-2769-77,Desktop,Ace Zeus V01,Display lagging,,Low,Surya,9:00 AM,7:00 AM,05-05-2021,05-08-2021,05-05-2021 09:00,05-08-2021 07:00,2206,92
+94245,Henry,789-8105-02,Desktop,Ace PC 3699,Power Button not working,,High,Surya,11:00 AM,5:00 PM,5-26-2021,5-26-2021,26-05-2021 00:00,26-05-2021 00:00,0,0
+79357,Lucy,201-8769-92,Desktop,Ace Quantum Core 5278,Battery does not charge upto 100%,3,Medium,Surya,12:00 PM,7:00 PM,5-25-2021,5-26-2021,25-05-2021 00:00,26-05-2021 00:00,24,1
+73732,Eleanor,670-0269-86,Desktop,Ace PC 3699,Battery replacement,3,Low,Surya,2:00 PM,8:00 AM,5-17-2021,5-20-2021,17-05-2021 00:00,20-05-2021 00:00,72,3
+44257,Lucy,464-2238-32,Desktop,Ace PC 3699,Screen Flickering when connected to charger,,Medium,Surya,3:00 PM,2:00 PM,5-29-2021,5-30-2021,29-05-2021 00:00,30-05-2021 00:00,24,1
+27279,Carl,963-7249-97,Desktop,Ace PC 3699,"Battery not charging, laptop works with charger",3,Low,Surya,8:00 PM,1:00 PM,6-13-2021,6-16-2021,13-06-2021 00:00,16-06-2021 00:00,72,3
+32135,Daisy,955-7115-09,Tablet,Ace Swift F20,Charging port is loose,,High,Surya,3:00 PM,10:00 AM,05-12-2021,5-13-2021,05-12-2021 15:00,13-05-2021 00:00,4959,207
+40422,Frederick,566-1648-60,Tablet,Ace Tab E750,Keyboard not working,,Medium,Surya,5:00 PM,9:00 AM,5-24-2021,5-25-2021,24-05-2021 00:00,25-05-2021 00:00,24,1
+79917,Amy,671-4660-41,Tablet,Ace Tab E750,Touchscreen not working,,Medium,Surya,6:00 PM,4:00 PM,5-20-2021,5-21-2021,20-05-2021 00:00,21-05-2021 00:00,24,1
+13497,Aiden,671-1831-37,Tablet,Ace Swift F20,Display cracked,,High,Surya,7:00 PM,12:00 PM,06-07-2021,06-08-2021,06-07-2021 19:00,06-08-2021 12:00,737,31
+48404,Edgar,925-8335-64,Tablet,Ace Tab E750 Pro,Broken Camera,7,Low,Ahmed,10:00 PM,7:00 PM,05-07-2021,05-11-2021,05-07-2021 22:00,05-11-2021 19:00,2949,123
+43920,Kelvin,698-6230-46,Tablet,Ace Tab E750,cannot use bluetooth,,Low,Ahmed,11:00 AM,9:00 AM,06-06-2021,06-11-2021,06-06-2021 11:00,06-11-2021 09:00,3670,153
+95608,Mike,722-8246-33,Tablet,Ace Tablet 500,Broken screen,6,Medium,Ahmed,12:00 PM,11:00 AM,05-02-2021,05-03-2021,05-02-2021 12:00,05-03-2021 11:00,671,28
+86052,Alissa,645-4955-36,Tablet,Ace Tab E750,Home button not working,,Low,Ahmed,7:00 AM,12:00 PM,05-06-2021,05-07-2021,05-06-2021 07:00,05-07-2021 12:00,725,31
+34767,Edward,511-9601-58,Tablet,Ace NotePad 2,Phone battery damaged,,High,Ahmed,5:00 PM,11:00 PM,05-02-2021,05-02-2021,05-02-2021 17:00,05-02-2021 23:00,6,1
+12731,Sawyer,839-9236-31,Tablet,Ace Tablet 500,Phone heats up quickly,,Low,Ahmed,7:00 PM,3:00 PM,06-04-2021,06-06-2021,06-04-2021 19:00,06-06-2021 15:00,1460,61
+44849,Rosie,815-8795-02,Tablet,Ace Tab E750 Pro,Sounds not loud enough,,Low,Ahmed,8:00 AM,2:00 PM,5-19-2021,5-23-2021,19-05-2021 00:00,23-05-2021 00:00,96,4
+64946,Derek,911-4464-18,Tablet,Ace Tablet 500 Mini,tablet lagging often,,Medium,Ahmed,2:00 PM,1:00 PM,5-20-2021,5-21-2021,20-05-2021 00:00,21-05-2021 00:00,24,1
+46667,Rafael,518-1180-65,Tablet,Ace Swift F20 Lite,Phone senitivity High,,Low,Ahmed,1:00 PM,10:00 AM,05-09-2021,05-11-2021,05-09-2021 13:00,05-11-2021 10:00,1461,61
+30382,Blake,929-7893-83,Tablet,Ace Swift F20 Lite,Phone power off itself,,High,Ahmed,10:00 AM,9:00 AM,06-11-2021,06-11-2021,06-11-2021 10:00,06-11-2021 09:00,1,1
+21140,Jared,302-7150-67,Tablet,Ace NotePad 2,Back button not working sometimes,,Low,Ahmed,9:00 AM,4:00 PM,6-13-2021,6-17-2021,13-06-2021 00:00,17-06-2021 00:00,96,4
+52126,Adele,952-4132-29,Tablet,Ace NotePad 4,Camera Broken,7,Low,Ahmed,4:00 PM,12:00 PM,5-16-2021,5-19-2021,16-05-2021 00:00,19-05-2021 00:00,72,3
+99143,Mary,412-1353-11,Tablet,Ace Swift F20,Pictures quality breaking,,Low,Ahmed,12:00 PM,7:00 PM,05-04-2021,05-08-2021,05-04-2021 12:00,05-08-2021 19:00,2935,123
+18660,Tyler,749-7813-61,Tablet,Ace Swift F20 Lite,Storage gets full often,,Low,Ahmed,7:00 PM,9:00 AM,06-06-2021,06-09-2021,06-06-2021 19:00,06-09-2021 09:00,2198,92
+18605,Sam,114-2931-57,Tablet,Ace Tab E750 Pro,Pop up ads often disturbing,,Low,Ahmed,9:00 AM,11:00 AM,5-20-2021,5-23-2021,20-05-2021 00:00,23-05-2021 00:00,72,3
+80909,Isabella,702-1321-49,Tablet,Ace Tablet 500 Mini,Game glitches,,Low,Raj,11:00 AM,12:00 PM,5-17-2021,5-20-2021,17-05-2021 00:00,20-05-2021 00:00,72,3
+12411,Jasmine,015-9472-37,Laptop,Ace Flare S6,Word and other ms apps are not opening,,Medium,Raj,12:00 PM,2:00 PM,5-22-2021,5-23-2021,22-05-2021 00:00,23-05-2021 00:00,24,1
+53776,Daisy,039-8588-82,Laptop,Ace SparX Pro,Keyboard is not working,,Medium,Raj,7:00 AM,10:00 AM,05-04-2021,05-05-2021,05-04-2021 07:00,05-05-2021 10:00,723,31
+25397,Amy,228-3774-94,Laptop,Ace SparX,Does not connect to external devices,,Medium,Raj,5:00 PM,9:00 AM,06-03-2021,06-04-2021,06-03-2021 17:00,06-04-2021 09:00,736,31
+24528,George,884-3072-73,Laptop,Ace Flare S2,Forgotten password,,Low,Raj,7:00 PM,4:00 PM,6-14-2021,6-17-2021,14-06-2021 00:00,17-06-2021 00:00,72,3
+69454,Stuart,722-6098-44,Laptop,Ace Notebook 2.0 Lite,Screen Is blank,,High,Raj,8:00 AM,12:00 PM,05-04-2021,05-04-2021,05-04-2021 08:00,05-04-2021 12:00,4,1
+14934,Cadie,394-5622-86,Laptop,Ace TouchPad 2000,Screen borken,,High,Raj,2:00 PM,7:00 PM,06-06-2021,06-06-2021,06-06-2021 14:00,06-06-2021 19:00,5,1
+81898,Aiden,689-9749-99,Laptop,Ace Notebook 2.0 Lite,keypad not working,,High,Raj,1:00 PM,9:00 AM,05-12-2021,5-13-2021,05-12-2021 13:00,13-05-2021 00:00,4957,207
+96106,Mary,809-7249-77,Laptop,Ace Notebook 2.0,Not charging,,High,Raj,10:00 AM,11:00 AM,6-15-2021,6-16-2021,15-06-2021 00:00,16-06-2021 00:00,24,1
+3100,Alan,424-8390-07,Laptop,Ace SparX Pro,Overheating very often,,Medium,Raj,9:00 AM,4:00 PM,06-08-2021,06-09-2021,06-08-2021 09:00,06-09-2021 16:00,751,32
+72031,Jacob,000-5411-20,Laptop,Ace Notebook 1.0,Not charging,,High,Raj,4:00 PM,12:00 PM,5-26-2021,5-27-2021,26-05-2021 00:00,27-05-2021 00:00,24,1
+89795,Amber,499-5561-15,Laptop,Ace Swift F20 Lite,Issue connecting to networks,,Low,Raj,12:00 PM,7:00 PM,5-15-2021,5-18-2021,15-05-2021 00:00,18-05-2021 00:00,72,3
+89666,Lucy,878-5955-00,Laptop,Ace Notebook 2.0 Lite,Cannot connect to the app store,,Low,Raj,7:00 PM,9:00 AM,5-23-2021,5-26-2021,23-05-2021 00:00,26-05-2021 00:00,72,3
+80961,Vivian,703-8243-38,Laptop,Ace Flare S6,charging port is broken,,Medium,Raj,9:00 AM,11:00 AM,5-29-2021,5-30-2021,29-05-2021 00:00,30-05-2021 00:00,24,1
+40799,Kate,646-7084-69,Laptop,Ace Flare S6,Power Button not working,,High,Rohan,11:00 AM,12:00 PM,6-13-2021,6-14-2021,13-06-2021 00:00,14-06-2021 00:00,24,1
+23486,Martin,379-4310-30,Laptop,Ace Notebook 2.0 Lite,Battery does not charge upto 100%,3,Medium,Rohan,12:00 PM,2:00 PM,05-05-2021,05-06-2021,05-05-2021 12:00,05-06-2021 14:00,746,32
+52162,Amber,826-8257-86,Laptop,Ace SparX Pro,some keys are not functioning,,Low,Rohan,2:00 PM,3:00 PM,05-03-2021,05-06-2021,05-03-2021 14:00,05-06-2021 15:00,2209,93
+14690,Lyndon,687-5156-84,Laptop,Ace TouchPad 2000,webcam not working,,Low,Rohan,3:00 PM,8:00 PM,05-11-2021,5-13-2021,05-11-2021 15:00,13-05-2021 00:00,4239,177
+46171,Jacob,683-3253-56,Laptop,Ace Flare S2,cannot connect to the wifi,,Medium,Rohan,8:00 PM,3:00 PM,06-06-2021,06-07-2021,06-06-2021 20:00,06-07-2021 15:00,715,30
+47155,Julia,461-7502-40,Laptop,Ace Swift F20 Lite,Microphone not working sometimes,,Low,Surya,3:00 PM,5:00 PM,5-22-2021,5-25-2021,22-05-2021 00:00,25-05-2021 00:00,72,3
+66147,Wilson,531-7507-94,Laptop,Ace Flare S6,Bluetooth disconnects on its own,5,Low,Surya,5:00 PM,6:00 PM,5-18-2021,5-21-2021,18-05-2021 00:00,21-05-2021 00:00,72,3
+93021,Clark,734-2503-50,Phone,Ace 6s+,Updates are not keeping up,,Low,Surya,6:00 PM,7:00 PM,06-12-2021,6-15-2021,06-12-2021 18:00,15-06-2021 00:00,4194,175
+74217,Alina,884-1285-09,Phone,Ace M31 Prime,Lags when Youtube opens,,Low,Surya,7:00 PM,10:00 PM,05-04-2021,05-07-2021,05-04-2021 19:00,05-07-2021 22:00,2187,92
+48743,Wilson,893-8319-92,Phone,Ace 6,Hotspot not connecting to some devices,,Low,Surya,10:00 PM,12:00 PM,5-31-2021,06-03-2021,31-05-2021 00:00,06-03-2021 12:00,2052,86
+57943,Myra,279-4783-63,Phone,Ace Galaxy S9,Keyboard lag,,Low,Surya,11:00 AM,2:00 PM,06-11-2021,6-14-2021,06-11-2021 11:00,14-06-2021 00:00,3491,146
+5117,Cadie,973-8574-06,Phone,Ace 5s,Apps not responding at times,2,Medium,Ahmed,12:00 PM,3:00 PM,05-03-2021,05-04-2021,05-03-2021 12:00,05-04-2021 15:00,747,32
+90606,Brooke,276-6839-88,Phone,Ace 6,Screen freezes when charging,,Medium,Ahmed,7:00 AM,8:00 PM,05-07-2021,05-08-2021,05-07-2021 07:00,05-08-2021 20:00,757,32
+69089,Oliver,142-3713-40,Phone,Ace Galaxy S10,microphone not audible,,Medium,Ahmed,5:00 PM,3:00 PM,06-06-2021,06-07-2021,06-06-2021 17:00,06-07-2021 15:00,718,30
+53502,Paige,982-0548-72,Phone,Ace X3,Sharing certain files is difficult,,Low,Ahmed,7:00 PM,5:00 PM,5-21-2021,5-24-2021,21-05-2021 00:00,24-05-2021 00:00,72,3
+25244,Jared,548-5159-47,Tablet,Ace Swift F20 Lite,Phone calls disconnects itself,,Medium,Ahmed,8:00 AM,8:00 AM,5-19-2021,5-20-2021,19-05-2021 00:00,20-05-2021 00:00,24,1
+62568,Rubie,952-0476-22,Tablet,Ace Tab E750 Pro,Sound buttons broken,,Low,Ahmed,2:00 PM,2:00 PM,05-11-2021,5-14-2021,05-11-2021 14:00,14-05-2021 00:00,4214,176
+26398,Amelia,898-7821-47,Tablet,Ace NotePad 2,Lockscreen blacks out,,Low,Ahmed,1:00 PM,1:00 PM,05-06-2021,05-09-2021,05-06-2021 13:00,05-09-2021 13:00,2208,92
+61750,Briony,400-6666-60,Tablet,Ace Tab E750,Video quality is broken while sharing,,Low,Ahmed,10:00 AM,10:00 AM,06-11-2021,6-14-2021,06-11-2021 10:00,14-06-2021 00:00,3490,146
+9315,Frederick,497-5600-43,Tablet,Ace NotePad 4,Some games not compatible in my phone,,Low,Rohan,9:00 AM,9:00 AM,06-09-2021,06-11-2021,06-09-2021 09:00,06-11-2021 09:00,1464,61
+95299,Dale,419-8397-91,Tablet,Ace Tab E750 Pro,Camera broken,7,Low,Rohan,4:00 PM,4:00 PM,5-29-2021,5-31-2021,29-05-2021 00:00,31-05-2021 00:00,48,2
+1408,Amber,049-8129-77,Tablet,Ace Swift F20 Lite,Display not working,,Medium,Rohan,12:00 PM,12:00 PM,5-15-2021,5-16-2021,15-05-2021 00:00,16-05-2021 00:00,24,1
+70717,Lenny,110-0894-45,Tablet,Ace NotePad 2,Cannot download songs,,Low,Rohan,7:00 PM,7:00 PM,05-05-2021,05-08-2021,05-05-2021 19:00,05-08-2021 19:00,2208,92
+60983,Eddy,997-2316-83,Tablet,Ace Tab E750,Fraud texts and calls often,,Low,Rohan,9:00 AM,9:00 AM,5-27-2021,5-30-2021,27-05-2021 00:00,30-05-2021 00:00,72,3
+67134,Ellia,400-2144-88,Tablet,Ace Swift F20,Security not good enough,,Medium,Rohan,11:00 AM,11:00 AM,5-13-2021,5-14-2021,13-05-2021 00:00,14-05-2021 00:00,24,1
+41066,Ada,128-7628-40,Tablet,Ace NotePad 4,Network connectivity is sLow,,Medium,Rohan,12:00 PM,12:00 PM,05-09-2021,05-10-2021,05-09-2021 12:00,05-10-2021 12:00,720,30
+47604,Dexter,607-7157-44,Tablet,Ace Tab E750 Pro,Brower not stable,9,Low,Abhishek,2:00 PM,2:00 PM,5-24-2021,5-27-2021,24-05-2021 00:00,27-05-2021 00:00,72,3
+40523,Alexia,836-6143-23,Laptop,Ace TouchPad 2000,Brightness is always dim,6,Low,Abhishek,3:00 PM,3:00 PM,05-07-2021,05-10-2021,05-07-2021 15:00,05-10-2021 15:00,2208,92
+27763,Maddie,315-0147-89,Laptop,Ace Swift F20 Lite,Auto lock not working,3,Low,Abhishek,8:00 PM,8:00 PM,06-06-2021,06-09-2021,06-06-2021 20:00,06-09-2021 20:00,2208,92
+60314,Alisa,923-5125-45,Laptop,Ace Notebook 1.0,Word and other ms apps are not opening,,Medium,Abhishek,3:00 PM,3:00 PM,5-15-2021,5-16-2021,15-05-2021 00:00,16-05-2021 00:00,24,1
+9497,Derek,363-9320-29,Laptop,Ace Notebook 2.0 Lite,Keyboard is not working,,Medium,Abhishek,5:00 PM,5:00 PM,5-31-2021,06-01-2021,31-05-2021 00:00,06-01-2021 17:00,3463,145
+10989,Aldus,281-9817-11,Laptop,Ace Lappy 1126,Does not connect to external devices,,Medium,Surya,6:00 PM,6:00 PM,6-14-2021,6-15-2021,14-06-2021 00:00,15-06-2021 00:00,24,1
+52863,Catherine,057-0926-20,Laptop,Ace Flare S2,Forgotten password,,Low,Surya,7:00 PM,7:00 PM,5-28-2021,5-29-2021,28-05-2021 00:00,29-05-2021 00:00,24,1
+44966,Kirsten,517-0905-43,Laptop,Ace SparX Pro,Screen Is blank,,High,Surya,10:00 PM,10:00 PM,05-01-2021,05-02-2021,05-01-2021 22:00,05-02-2021 22:00,744,31
+15694,Alexia,348-4912-64,Laptop,Ace Flare S6,Headphones not connecting to music,,Low,Surya,8:00 AM,12:00 PM,5-14-2021,5-17-2021,14-05-2021 00:00,17-05-2021 00:00,72,3
+92626,Jacob,234-6198-40,Laptop,Ace SparX Pro,Some Apps incompatible with my phone,,Low,Raj,2:00 PM,2:00 PM,06-10-2021,06-12-2021,06-10-2021 14:00,06-12-2021 14:00,1464,61
+38366,Amy,635-2269-12,Laptop,Ace Flare S2,cannot connect to chrome,,Medium,Raj,1:00 PM,3:00 PM,5-15-2021,5-16-2021,15-05-2021 00:00,16-05-2021 00:00,24,1
+61819,Alissa,085-0630-73,Laptop,Ace SparX,Overheating very often,,Medium,Raj,10:00 AM,8:00 PM,5-20-2021,5-21-2021,20-05-2021 00:00,21-05-2021 00:00,24,1
+73501,Wilson,317-3785-75,Laptop,Ace SparX,Not charging,,High,Raj,9:00 AM,3:00 PM,5-25-2021,5-25-2021,25-05-2021 00:00,25-05-2021 00:00,0,0
+29126,April,215-3020-26,Laptop,Ace SparX,Issue connecting to networks,,Low,Raj,4:00 PM,5:00 PM,05-06-2021,05-09-2021,05-06-2021 16:00,05-09-2021 17:00,2209,93
+90700,Amber,674-6654-19,Laptop,Ace Swift F20 Lite,Cannot connect to the app store,,Low,Raj,12:00 PM,6:00 PM,5-27-2021,5-29-2021,27-05-2021 00:00,29-05-2021 00:00,48,2
+61434,Alisa,972-9471-18,Laptop,Ace Infinite,charging port is broken,,Medium,Rohan,7:00 PM,7:00 PM,5-28-2021,5-29-2021,28-05-2021 00:00,29-05-2021 00:00,24,1
+55249,Jenna,083-0045-27,Laptop,Ace Flare S6,Power Button not working,,High,Rohan,9:00 AM,10:00 PM,05-01-2021,05-01-2021,05-01-2021 09:00,05-01-2021 22:00,13,1
+20044,Caroline,283-5215-36,Laptop,Ace Lappy 1126,Battery does not charge upto 100%,3,Medium,Rohan,11:00 AM,7:00 PM,05-12-2021,05-12-2021,05-12-2021 11:00,05-12-2021 19:00,8,1
+20472,Joyce,716-8697-85,Laptop,Ace Flare S6,Forgotten password,,High,Rohan,12:00 PM,10:00 PM,5-25-2021,5-25-2021,25-05-2021 00:00,25-05-2021 00:00,0,0
+85762,Lucy,362-1037-47,Laptop,Ace Notebook 1.0,ms apps are not responding,,Low,Rohan,2:00 PM,8:00 AM,6-15-2021,6-19-2021,15-06-2021 00:00,19-06-2021 00:00,96,4
+22481,Miranda,772-7397-70,Laptop,Ace SparX,Keyboard is not working,,Medium,Abhishek,3:00 PM,2:00 PM,05-07-2021,05-08-2021,05-07-2021 15:00,05-08-2021 14:00,743,31
+50439,Gianna,897-8253-76,Laptop,Ace Lappy 1126,Screen borken,,High,Abhishek,8:00 PM,1:00 PM,5-29-2021,5-30-2021,29-05-2021 00:00,30-05-2021 00:00,24,1
+51157,Ada,637-1426-14,Laptop,Ace Infinite,Forgotten password,,High,Abhishek,3:00 PM,10:00 AM,5-30-2021,5-31-2021,30-05-2021 00:00,31-05-2021 00:00,24,1
+75870,Chester,391-3583-44,Laptop,Ace Flare S6,ms apps are not responding,,Low,Abhishek,5:00 PM,9:00 AM,06-02-2021,06-05-2021,06-02-2021 17:00,06-05-2021 09:00,2128,89
+64968,John,658-0325-11,Laptop,Ace Notebook 2.0,Keyboard is not working,,Medium,Abhishek,6:00 PM,10:00 PM,5-20-2021,5-21-2021,20-05-2021 00:00,21-05-2021 00:00,24,1
+52901,Lydia,857-0048-05,Phone,Ace Galaxy S4,Screen borken,,High,Abhishek,7:00 PM,7:00 PM,05-12-2021,5-13-2021,05-12-2021 19:00,13-05-2021 00:00,4963,207
+52254,Julia,038-0882-06,Phone,Ace X3,Touchpad not working,,Medium,Abhishek,10:00 PM,10:00 PM,05-08-2021,05-09-2021,05-08-2021 22:00,05-09-2021 22:00,744,31
+96978,Olivia,311-3721-58,Phone,Ace Galaxy S9,Not charging,,High,Abhishek,5:00 PM,8:00 AM,5-19-2021,5-20-2021,19-05-2021 00:00,20-05-2021 00:00,24,1
+69522,Adele,675-0883-45,Phone,Ace Galaxy S10,Overheating very often,,Medium,Rohan,7:00 PM,2:00 PM,06-10-2021,06-11-2021,06-10-2021 19:00,06-11-2021 14:00,739,31
+27039,Rebecca,530-4511-55,Phone,Ace M31 Prime,Not charging,,Low,Rohan,8:00 AM,1:00 PM,05-02-2021,05-06-2021,05-02-2021 08:00,05-06-2021 13:00,2885,121
+27855,Vincent,005-2234-29,Phone,Ace M31 Prime,Issue connecting to networks,,Medium,Rohan,2:00 PM,10:00 AM,5-20-2021,5-21-2021,20-05-2021 00:00,21-05-2021 00:00,24,1
+66557,Hailey,707-1211-12,Phone,Ace Galaxy S10,Phone lags and freezes,,High,Rohan,1:00 PM,9:00 AM,5-16-2021,5-17-2021,16-05-2021 00:00,17-05-2021 00:00,24,1
+50565,Marcus,471-7584-26,Phone,Ace M31 Prime,Overheating,,High,Rohan,10:00 AM,12:00 PM,5-30-2021,5-31-2021,30-05-2021 00:00,31-05-2021 00:00,24,1
+59092,Maria,615-1501-62,Phone,Ace 6s+,"Water damage, phone dead",,Medium,Rohan,9:00 AM,2:00 PM,5-30-2021,5-31-2021,30-05-2021 00:00,31-05-2021 00:00,24,1
+38039,James,060-8086-65,Phone,Ace Galaxy S6,Display cracked completely,,High,Rohan,4:00 PM,10:00 AM,05-12-2021,5-13-2021,05-12-2021 16:00,13-05-2021 00:00,4960,207
+59474,Owen,171-6662-66,Phone,Ace Galaxy S10,Ace pen not recognized,1,High,Surya,12:00 PM,9:00 AM,5-14-2021,5-15-2021,14-05-2021 00:00,15-05-2021 00:00,24,1
+91653,Walter,229-7043-74,Phone,Ace 5,Damaged charging port,,High,Surya,7:00 PM,4:00 PM,5-13-2021,5-14-2021,13-05-2021 00:00,14-05-2021 00:00,24,1
+69235,Vanessa,292-0158-12,Phone,Ace 5,Ace pen not recognized,1,High,Surya,9:00 AM,12:00 PM,05-04-2021,05-05-2021,05-04-2021 09:00,05-05-2021 12:00,723,31
+82196,Honey,876-6910-20,Phone,Ace 5s,Phone dead,,Low,Surya,11:00 AM,7:00 PM,6-13-2021,6-16-2021,13-06-2021 00:00,16-06-2021 00:00,72,3
+24049,Paul,329-2213-66,Phone,Ace 6s+,Cannot download apps,,Medium,Surya,12:00 PM,9:00 AM,6-14-2021,6-15-2021,14-06-2021 00:00,15-06-2021 00:00,24,1
+13497,April,887-2266-88,Phone,Ace 6s+,Cannot connect to wifi,,Medium,Surya,7:00 PM,11:00 AM,6-14-2021,6-15-2021,14-06-2021 00:00,15-06-2021 00:00,24,1
+26037,Alford,184-9336-00,Phone,Ace Galaxy S6,Low battery life,,Low,Surya,8:00 AM,4:00 PM,05-05-2021,05-08-2021,05-05-2021 08:00,05-08-2021 16:00,2216,93
+48020,Charlie,307-4055-76,Phone,Ace X3,Phone crashes and reboots often,,High,Surya,2:00 PM,1:00 PM,5-14-2021,5-15-2021,14-05-2021 00:00,15-05-2021 00:00,24,1
+23002,Paul,572-0208-91,Phone,Ace Galaxy S6,Charger port damaged,,Low,Surya,1:00 PM,6:00 PM,06-12-2021,6-16-2021,06-12-2021 13:00,16-06-2021 00:00,4165,174
+13783,Charlie,196-0815-72,Phone,Ace 5,Screen cracked partially,,Medium,Surya,10:00 AM,7:00 PM,5-15-2021,5-16-2021,15-05-2021 00:00,16-05-2021 00:00,24,1
+39654,Mike,852-2531-38,Phone,Ace M31 Prime,Touchpad not working,,Medium,Surya,9:00 AM,8:00 AM,6-13-2021,6-14-2021,13-06-2021 00:00,14-06-2021 00:00,24,1
+88949,Ryan,514-4826-09,Phone,Ace Galaxy S9,Unresponsive power button,,Low,Surya,4:00 PM,2:00 PM,5-31-2021,05-03-2021,31-05-2021 00:00,05-03-2021 14:00,2074,87
+99518,Maria,263-7746-10,Tablet,Ace Swift F20,Low battery life,,Low,Surya,12:00 PM,1:00 PM,5-17-2021,5-21-2021,17-05-2021 00:00,21-05-2021 00:00,96,4
+19771,Jenna,249-8253-06,Tablet,Ace Tab E750,Phone lagging,,Low,Surya,11:00 AM,10:00 AM,5-31-2021,05-02-2021,31-05-2021 00:00,05-02-2021 10:00,2750,115
+35023,Sam,994-5620-26,Tablet,Ace Tablet 500 Mini,Camera is not working,7,Low,Surya,12:00 PM,9:00 AM,5-27-2021,5-30-2021,27-05-2021 00:00,30-05-2021 00:00,72,3
+34576,Gianna,095-5964-23,Tablet,Ace NotePad 2,Battery does not last for long,3,Medium,Surya,7:00 AM,4:00 PM,06-10-2021,06-08-2021,06-10-2021 07:00,06-08-2021 16:00,1455,61
+12002,Marcus,739-0157-94,Tablet,Ace Tab E750 Pro,The device is not turning on,,High,Ahmed,5:00 PM,12:00 PM,06-02-2021,06-02-2021,06-02-2021 17:00,06-02-2021 12:00,5,1
+66148,Arnold,459-8090-57,Tablet,Ace Swift F20,Display is broken,,Medium,Ahmed,7:00 PM,7:00 PM,06-05-2021,06-07-2021,06-05-2021 19:00,06-07-2021 19:00,1464,61
+71984,Edgar,331-9566-34,Tablet,Ace Tablet 500,Does not get charged,,Medium,Ahmed,8:00 AM,9:00 AM,5-26-2021,5-28-2021,26-05-2021 00:00,28-05-2021 00:00,48,2
+27033,Jordan,762-6865-12,Tablet,Ace NotePad 4,Some apps are not working,,Low,Ahmed,2:00 PM,11:00 AM,06-02-2021,06-08-2021,06-02-2021 14:00,06-08-2021 11:00,4341,181
+77741,Adrian,175-5485-47,Tablet,Ace Tablet 500,Forgotten password,,Medium,Ahmed,1:00 PM,12:00 PM,06-08-2021,06-09-2021,06-08-2021 13:00,06-09-2021 12:00,743,31
+69681,Charlotte,722-3967-88,Tablet,Ace NotePad 4,The device is not functioning,,High,Ahmed,10:00 AM,2:00 PM,06-12-2021,06-12-2021,06-12-2021 10:00,06-12-2021 14:00,4,1
+87061,Derek,398-5128-43,Tablet,Ace NotePad 2,The screen is completely blank,,High,Ahmed,9:00 AM,3:00 PM,5-20-2021,5-20-2021,20-05-2021 00:00,20-05-2021 00:00,0,0
+24728,Ryan,497-7627-25,Tablet,Ace Swift F20,Camera is blurry,7,Low,Ahmed,4:00 PM,8:00 PM,6-15-2021,6-18-2021,15-06-2021 00:00,18-06-2021 00:00,72,3
+65184,Penelope,559-7568-82,Tablet,Ace Tab E750,Cannot connect to the app store,,Low,Ahmed,12:00 PM,3:00 PM,05-08-2021,05-11-2021,05-08-2021 12:00,05-11-2021 15:00,2211,93
+69323,Sam,829-8525-41,Tablet,Ace Tab E750,The device heats up occasionally,,Low,Ahmed,7:00 PM,8:00 PM,5-27-2021,5-30-2021,27-05-2021 00:00,30-05-2021 00:00,72,3
+98409,Tony,059-5916-43,Tablet,Ace Tablet 500 Mini,The device needs a battery change,,Medium,Ahmed,9:00 AM,3:00 PM,5-22-2021,5-24-2021,22-05-2021 00:00,24-05-2021 00:00,48,2
+23940,Mary,004-0510-24,Tablet,Ace Swift F20,Device is not receiving updates,,Low,Ahmed,11:00 AM,5:00 PM,5-29-2021,05-02-2021,29-05-2021 00:00,05-02-2021 17:00,2695,113
+15728,Isabella,584-3827-19,Tablet,Ace Tablet 500,Speakers are not working,,Medium,Rohan,12:00 PM,6:00 PM,06-02-2021,06-04-2021,06-02-2021 12:00,06-04-2021 18:00,1422,60
+6061,Aston,928-1452-88,Tablet,Ace Tab E750,Some apps are not opening,,Low,Rohan,2:00 PM,7:00 PM,5-18-2021,5-21-2021,18-05-2021 00:00,21-05-2021 00:00,72,3
+56846,Tiana,052-3208-43,Tablet,Ace Swift F20,Does not connect to the wifi,,Low,Rohan,3:00 PM,10:00 PM,5-20-2021,5-24-2021,20-05-2021 00:00,24-05-2021 00:00,96,4
+6410,Rosie,523-0437-83,Tablet,Ace NotePad 4,The device is not charging,,Medium,Rohan,8:00 PM,12:00 PM,06-01-2021,06-03-2021,06-01-2021 20:00,06-03-2021 12:00,1408,59
+4458,Sawyer,405-4417-34,Tablet,Ace Tablet 500 Mini,Device is not functioning at all,,High,Rohan,3:00 PM,2:00 PM,5-22-2021,5-22-2021,22-05-2021 00:00,22-05-2021 00:00,0,0
+97135,Alford,838-9396-10,Tablet,Ace NotePad 2,Device does not connect to the network,,Medium,Rohan,5:00 PM,3:00 PM,06-05-2021,06-07-2021,06-05-2021 17:00,06-07-2021 15:00,1462,61
+61025,Tara,096-4988-86,Desktop,Ace A700,Word and other ms apps are not opening,,Medium,Rohan,6:00 PM,8:00 PM,5-26-2021,5-28-2021,26-05-2021 00:00,28-05-2021 00:00,48,2
+74579,Freddie,917-3279-71,Desktop,Ace Pro 1000,Keyboard is not working,,Medium,Rohan,7:00 PM,3:00 PM,5-31-2021,05-02-2021,31-05-2021 00:00,05-02-2021 15:00,2745,115
+38209,Max,334-3874-30,Desktop,Ace AZ Desktop,Does not connect to external devices,,Medium,Rohan,10:00 PM,5:00 PM,06-01-2021,06-03-2021,06-01-2021 22:00,06-03-2021 17:00,1411,59
+23296,Chloe,767-3919-35,Desktop,Ace Pro 2000,Forgotten password,,Low,Rohan,11:00 AM,6:00 PM,5-24-2021,5-28-2021,24-05-2021 00:00,28-05-2021 00:00,96,4
+96902,Vivian,008-9765-74,Desktop,Ace Pro 2000,Screen Is blank,,High,Rohan,12:00 PM,7:00 PM,05-12-2021,05-12-2021,05-12-2021 12:00,05-12-2021 19:00,7,1
+62501,Alen,207-9053-88,Laptop,Ace SparX,Screen borken,,High,Rohan,7:00 AM,10:00 PM,6-13-2021,6-13-2021,13-06-2021 00:00,13-06-2021 00:00,0,0
+62663,James,092-9574-20,Laptop,Ace Lappy 1126,keypad not working,,High,Abhishek,5:00 PM,7:00 PM,5-19-2021,5-19-2021,19-05-2021 00:00,19-05-2021 00:00,0,0
+81235,Garry,525-4805-25,Laptop,Ace Infinite,Not charging,,High,Abhishek,7:00 PM,10:00 PM,06-04-2021,06-04-2021,06-04-2021 19:00,06-04-2021 22:00,3,1
+91891,Catherine,355-8855-69,Laptop,Ace SparX,Overheating very often,,Medium,Abhishek,8:00 AM,8:00 AM,01-10-2021,01-12-2021,01-10-2021 08:00,01-12-2021 08:00,1464,61
+87212,Dainton,699-7237-63,Laptop,Ace SparX Pro,Not charging,,High,Abhishek,2:00 PM,2:00 PM,12-23-2020,12-23-2021,23-12-2020 00:00,23-12-2021 00:00,8760,365
+6500,Adrianna,804-8204-13,Laptop,Ace Notebook 1.0,Issue connecting to networks,,Low,Abhishek,1:00 PM,1:00 PM,03-04-2021,03-07-2021,03-04-2021 13:00,03-07-2021 13:00,2184,91
+53857,Evelyn,667-7376-45,Laptop,Ace Notebook 2.0,Cannot connect to the app store,,Low,Ahmed,10:00 AM,10:00 AM,03-11-2021,3-15-2021,03-11-2021 10:00,15-03-2021 00:00,5602,234
+90646,Edith,382-0719-84,Laptop,Ace Notebook 2.0 Lite,charging port is broken,,Medium,Ahmed,9:00 AM,9:00 AM,01-12-2021,1-13-2021,01-12-2021 09:00,13-01-2021 00:00,7737,323
+32038,Kelsey,689-8389-23,Laptop,Ace Lappy 1126,Power Button not working,,High,Ahmed,4:00 PM,10:00 PM,03-08-2021,03-08-2021,03-08-2021 16:00,03-08-2021 22:00,6,1
+92985,Amy,047-8478-21,Laptop,Ace Infinite,Battery does not charge upto 100%,3,Medium,Ahmed,12:00 PM,7:00 PM,02-01-2021,02-02-2021,02-01-2021 12:00,02-02-2021 19:00,751,32
+73879,Connie,787-0550-11,Tablet,Ace Tab E750 Pro,Battery replacement,3,Low,Ahmed,7:00 PM,8:00 AM,2-17-2021,2-20-2021,17-02-2021 00:00,20-02-2021 00:00,72,3
+89641,Robert,673-1473-07,Tablet,Ace Swift F20 Lite,Screen Flickering when connected to charger,,Medium,Ahmed,9:00 AM,2:00 PM,03-05-2021,03-07-2021,03-05-2021 09:00,03-07-2021 14:00,1469,62
+629,Alford,880-6730-55,Tablet,Ace Swift F20 Lite,"Battery not charging, laptop works with charger",3,Low,Ahmed,11:00 AM,1:00 PM,1-20-2021,1-24-2021,20-01-2021 00:00,24-01-2021 00:00,96,4
+39112,Grace,130-0289-44,Tablet,Ace Swift F20 Lite,Charging port is loose,,High,Ahmed,12:00 PM,10:00 AM,12-22-2020,12-23-2020,22-12-2020 00:00,23-12-2020 00:00,24,1
+98483,Preston,823-7279-16,Tablet,Ace Swift F20 Lite,Keyboard not working,,Medium,Ahmed,2:00 PM,9:00 AM,11-04-2020,12-05-2021,11-04-2020 14:00,12-05-2021 09:00,9499,396
+43981,Alfred,454-5327-98,Tablet,Ace NotePad 2,Touchscreen not working,,Medium,Ahmed,3:00 PM,4:00 PM,02-09-2021,02-11-2021,02-09-2021 15:00,02-11-2021 16:00,1465,62
+33491,Connie,585-2002-72,Tablet,Ace Swift F20,Display cracked,,High,Surya,8:00 PM,12:00 PM,1-14-2021,1-15-2021,14-01-2021 00:00,15-01-2021 00:00,24,1
+95224,Amelia,044-5829-79,Tablet,Ace NotePad 4,Screen borken,,High,Surya,3:00 PM,7:00 PM,12-08-2020,12-08-2020,12-08-2020 15:00,12-08-2020 19:00,4,1
+93034,Mike,890-2724-63,Tablet,Ace NotePad 4,Touchpad not working,,High,Surya,5:00 PM,9:00 AM,12-25-2020,12-26-2020,25-12-2020 00:00,26-12-2020 00:00,24,1
+84681,Alexia,128-3198-48,Tablet,Ace NotePad 4,Not charging,,High,Surya,6:00 PM,11:00 AM,2-19-2021,2-20-2021,19-02-2021 00:00,20-02-2021 00:00,24,1
+77532,Antony,342-1077-53,Tablet,Ace NotePad 2,Overheating very often,,Medium,Raj,7:00 PM,12:00 PM,03-03-2021,03-05-2021,03-03-2021 19:00,03-05-2021 12:00,1457,61
+40221,Edward,462-7814-68,Tablet,Ace Tab E750,Not charging,,High,Raj,10:00 PM,5:00 PM,11-21-2020,11-22-2020,21-11-2020 00:00,22-11-2020 00:00,24,1
+27936,Annabella,539-6618-35,Tablet,Ace Tab E750 Pro,Issue connecting to networks,,Low,Raj,8:00 AM,6:00 PM,2-25-2021,2-28-2021,25-02-2021 00:00,28-02-2021 00:00,72,3
+48101,Fiona,097-7927-38,Tablet,Ace Swift F20 Lite,Phone lags and freezes,,Medium,Raj,2:00 PM,7:00 PM,03-07-2021,03-08-2021,03-07-2021 14:00,03-08-2021 19:00,749,32
+24579,Owen,540-6157-11,Tablet,Ace Tablet 500,Overheating,,Low,Raj,1:00 PM,10:00 PM,11-29-2020,11-02-2020,29-11-2020 00:00,11-02-2020 22:00,6986,292
+76746,Lana,708-0706-64,Phone,Ace 6,"Water damage, phone dead",,High,Raj,10:00 AM,12:00 PM,12-11-2020,12-11-0202,12-11-2020 10:00,11-12-2102 00:00,719462,29978
+40391,Carl,695-6560-84,Phone,Ace 5s,Display cracked completely,,High,Raj,9:00 AM,2:00 PM,01-03-2021,01-03-2021,01-03-2021 09:00,01-03-2021 14:00,5,1
+70872,Alisa,421-7000-43,Phone,Ace M31 Prime,Touchpad unresponsive,,High,Raj,4:00 PM,3:00 PM,12-29-2020,12-30-2020,29-12-2020 00:00,30-12-2020 00:00,24,1
+70477,Maddie,218-5901-70,Phone,Ace 6s+,Water damage,,High,Abhishek,12:00 PM,8:00 PM,01-07-2021,01-07-2021,01-07-2021 12:00,01-07-2021 20:00,8,1
+13883,Fenton,854-7181-02,Phone,Ace Galaxy S10,Low battery life,,Low,Abhishek,7:00 PM,3:00 PM,3-27-2021,3-28-2021,27-03-2021 00:00,28-03-2021 00:00,24,1
+59667,Lilianna,338-0606-13,Phone,Ace Galaxy S9,Doesnot charge upto 100%,,Medium,Abhishek,9:00 AM,5:00 PM,11-25-2020,11-27-2020,25-11-2020 00:00,27-11-2020 00:00,48,2
+82580,Alfred,877-5230-91,Phone,Ace Galaxy S6,Can't connect to wifi,,Medium,Abhishek,11:00 AM,6:00 PM,12-17-2020,12-18-2020,17-12-2020 00:00,18-12-2020 00:00,24,1
+28874,Haris,564-0627-57,Phone,Ace X3,SLow Phone,,Low,Abhishek,12:00 PM,7:00 PM,2-23-2021,2-26-2021,23-02-2021 00:00,26-02-2021 00:00,72,3
+77982,Darcy,923-1603-36,Phone,Ace X3,Speakers not working,,Medium,Abhishek,2:00 PM,10:00 PM,12-28-2020,12-30-2020,28-12-2020 00:00,30-12-2020 00:00,48,2
+67659,Adelaide,312-7012-98,Phone,Ace Galaxy S4,Low battery life,,Low,Abhishek,3:00 PM,7:00 PM,02-05-2021,02-08-2021,02-05-2021 15:00,02-08-2021 19:00,2212,93
+29008,Haris,428-4093-05,Phone,Ace Galaxy S4,Cannot install apps,,Medium,Abhishek,8:00 PM,10:00 PM,02-02-2021,02-06-2021,02-02-2021 20:00,02-06-2021 22:00,2882,121
+49930,Edward,077-1050-71,Phone,Ace Galaxy S4,RAM not accessible,,High,Surya,3:00 PM,8:00 AM,12-30-2020,12-31-2020,30-12-2020 00:00,31-12-2020 00:00,24,1
+59759,Adam,927-5261-41,Phone,Ace M31 Prime,Cannot install updates,,Low,Surya,5:00 PM,2:00 PM,02-12-2021,2-16-2021,02-12-2021 17:00,16-02-2021 00:00,6953,290
+96467,Ned,360-7444-00,Phone,Ace Galaxy S10,Display damaged,,High,Surya,6:00 PM,9:00 AM,03-09-2021,03-10-2021,03-09-2021 18:00,03-10-2021 09:00,711,30
+11323,Blake,064-5989-71,Phone,Ace X3,Touchscreen unresponsive sometimes,,Low,Surya,7:00 PM,4:00 PM,11-13-2020,11-17-2020,13-11-2020 00:00,17-11-2020 00:00,96,4
+62024,Eric,089-9375-78,Phone,Ace Galaxy S9,Keyboard damaged,,Medium,Surya,10:00 PM,12:00 PM,11-25-2020,11-27-2020,25-11-2020 00:00,27-11-2020 00:00,48,2
+36790,Emma,222-8152-30,Phone,Ace Galaxy S4,Touchscreen unresponsive,,Medium,Surya,5:00 PM,7:00 PM,11-27-2020,11-28-2020,27-11-2020 00:00,28-11-2020 00:00,24,1
+36491,Lucy,136-3795-36,Phone,Ace M31 Prime,Water damage,,High,Rohan,7:00 PM,9:00 AM,11-22-2020,11-23-2020,22-11-2020 00:00,23-11-2020 00:00,24,1
+60466,Oscar,711-3032-52,Phone,Ace Galaxy S10,Processor burning,,High,Rohan,8:00 AM,11:00 AM,02-04-2021,02-04-2021,02-04-2021 08:00,02-04-2021 11:00,3,1
+95329,Kimberly,080-6154-22,Tablet,Ace Swift F20 Lite,Keyboard unresponsive,,Medium,Rohan,2:00 PM,12:00 PM,11-20-2020,11-21-2020,20-11-2020 00:00,21-11-2020 00:00,24,1
+80651,Wilson,064-0441-63,Tablet,Ace Tablet 500 Mini,Fans not working sometimes,,Medium,Rohan,1:00 PM,5:00 PM,3-15-2021,3-17-2021,15-03-2021 00:00,17-03-2021 00:00,48,2
+24854,Melanie,119-1221-74,Tablet,Ace NotePad 2,Cannot install updates,,Low,Rohan,10:00 AM,6:00 PM,12-12-2020,12-16-2020,12-12-2020 10:00,16-12-2020 00:00,86,4
+55523,Amy,830-0497-26,Tablet,Ace Tablet 500,Cannot install updates,,Low,Rohan,9:00 AM,7:00 PM,2-23-2021,2-27-2021,23-02-2021 00:00,27-02-2021 00:00,96,4
+17548,Penelope,241-4097-01,Tablet,Ace Tablet 500,Screen blackout when turning on,,Medium,Rohan,4:00 PM,10:00 PM,03-04-2021,03-05-2021,03-04-2021 16:00,03-05-2021 22:00,726,31
+39768,Ellia,242-4747-61,Tablet,Ace Tab E750,Minor monitor issues,,Medium,Rohan,12:00 PM,12:00 PM,2-25-2021,2-27-2021,25-02-2021 00:00,27-02-2021 00:00,48,2
+8047,Lenny,962-5644-54,Tablet,Ace Tablet 500 Mini,Monitor ghosting,,Medium,Rohan,7:00 PM,2:00 PM,12-13-2020,12-14-2020,13-12-2020 00:00,14-12-2020 00:00,24,1
+59124,Lenny,742-7866-36,Tablet,Ace Swift F20 Lite,Blue Screen,4,High,Rohan,9:00 AM,3:00 PM,12-31-2020,12-31-2020,31-12-2020 00:00,31-12-2020 00:00,0,0
+2930,Adrian,045-9227-74,Tablet,Ace Tablet 500,Failing power supply,,High,Rohan,11:00 AM,8:00 PM,12-03-2020,12-03-2020,12-03-2020 11:00,12-03-2020 20:00,9,1
+8836,Kirsten,411-6346-04,Tablet,Ace Swift F20 Lite,Screen frozen,,High,Rohan,12:00 PM,3:00 PM,3-22-2021,3-22-2021,22-03-2021 00:00,22-03-2021 00:00,0,0
+16048,Andrew,937-7150-66,Tablet,Ace Tablet 500 Mini,Camera is not working,7,Low,Rohan,7:00 PM,5:00 PM,1-25-2021,1-25-2021,25-01-2021 00:00,25-01-2021 00:00,0,0
+34201,Rebecca,165-7798-70,Tablet,Ace Tablet 500 Mini,Battery does not last for long,3,Medium,Rohan,8:00 AM,6:00 PM,11-12-2020,11-14-2020,11-12-2020 08:00,14-11-2020 00:00,656,28
+25801,Hailey,802-8995-82,Tablet,Ace Tab E750 Pro,The device is not turning on,,High,Rohan,2:00 PM,7:00 PM,11-07-2020,11-07-2020,11-07-2020 14:00,11-07-2020 19:00,5,1
+24310,Natalie,544-7302-87,Tablet,Ace Tablet 500,Display is broken,,Medium,Rohan,1:00 PM,10:00 PM,12-27-2020,12-28-2020,27-12-2020 00:00,28-12-2020 00:00,24,1
+9018,Adison,812-9720-28,Tablet,Ace Tablet 500,Does not get charged,,Medium,Rohan,10:00 AM,7:00 PM,1-26-2021,1-28-2021,26-01-2021 00:00,28-01-2021 00:00,48,2
+20320,Chester,824-2149-76,Tablet,Ace NotePad 2,Some apps are not working,,Low,Raj,9:00 AM,10:00 PM,12-27-2020,12-31-2020,27-12-2020 00:00,31-12-2020 00:00,96,4
+1900,Maddie,436-1773-32,Tablet,Ace Swift F20 Lite,Forgotten password,,Medium,Raj,4:00 PM,8:00 AM,11-03-2020,11-05-2020,11-03-2020 16:00,11-05-2020 08:00,1456,61
+53136,Alan,985-9197-11,Tablet,Ace Tab E750 Pro,The device is not functioning,,High,Raj,12:00 PM,2:00 PM,11-22-2020,11-22-2020,22-11-2020 00:00,22-11-2020 00:00,0,0
+51740,Stella,349-9653-03,Tablet,Ace Swift F20 Lite,The screen is completely blank,,High,Raj,12:00 PM,3:00 PM,11-02-2020,11-02-2020,11-02-2020 12:00,11-02-2020 15:00,3,1
+43977,Frederick,093-3768-67,Tablet,Ace Swift F20,Camera is blurry,7,Low,Raj,7:00 AM,8:00 PM,12-25-2020,12-28-2020,25-12-2020 00:00,28-12-2020 00:00,72,3
+50114,Abraham,140-3145-38,Tablet,Ace NotePad 4,Cannot connect to the app store,,Low,Raj,5:00 PM,3:00 PM,2-20-2021,2-25-2021,20-02-2021 00:00,25-02-2021 00:00,120,5
+70250,Aston,803-4798-16,Tablet,Ace Swift F20 Lite,The device heats up occasionally,,Low,Raj,7:00 PM,5:00 PM,12-11-2020,12-15-2020,12-11-2020 19:00,15-12-2020 00:00,773,33
+80875,Myra,509-2820-06,Phone,Ace Galaxy S4,The device needs a battery change,,Medium,Raj,8:00 AM,6:00 PM,11-27-2020,11-28-2020,27-11-2020 00:00,28-11-2020 00:00,24,1
+92173,Thomas,338-8262-79,Phone,Ace X3,Device is not receiving updates,,Low,Raj,2:00 PM,7:00 PM,1-24-2021,1-28-2021,24-01-2021 00:00,28-01-2021 00:00,96,4
+67396,Olivia,217-6385-76,Phone,Ace 6,Speakers are not working,,Medium,Raj,1:00 PM,10:00 PM,2-24-2021,2-25-2021,24-02-2021 00:00,25-02-2021 00:00,24,1
+94194,Emma,505-4633-98,Phone,Ace Galaxy S4,Some apps are not opening,,Low,Raj,10:00 AM,7:00 PM,1-30-2021,01-03-2021,30-01-2021 00:00,01-03-2021 19:00,739,31
+63891,Roland,268-8996-16,Phone,Ace 6s+,Does not connect to the wifi,,Low,Raj,9:00 AM,10:00 PM,12-28-2020,12-01-2020,28-12-2020 00:00,12-01-2020 22:00,8402,351
+23172,Arianna,596-8850-08,Phone,Ace Galaxy S4,The device is not charging,,Medium,Surya,4:00 PM,8:00 AM,01-07-2021,01-08-2021,01-07-2021 16:00,01-08-2021 08:00,736,31
+3092,Camila,710-2346-04,Phone,Ace 6,Device is not functioning at all,,High,Surya,12:00 PM,2:00 PM,11-04-2020,12-04-2020,11-04-2020 12:00,12-04-2020 14:00,26,2
+40567,Amber,747-3280-42,Phone,Ace 6s+,Device does not connect to the network,,Medium,Surya,7:00 PM,1:00 PM,12-16-2020,12-17-2020,16-12-2020 00:00,17-12-2020 00:00,24,1
+56117,Dominik,419-4685-73,Phone,Ace X3,Word and other ms apps are not opening,,Medium,Surya,9:00 AM,10:00 AM,11-03-2020,11-04-2020,11-03-2020 09:00,11-04-2020 10:00,745,32
+67393,Anna,806-2716-21,Phone,Ace M31 Prime,Keyboard is not working,,Medium,Surya,11:00 AM,9:00 AM,11-11-2020,11-12-2020,11-11-2020 11:00,11-12-2020 09:00,718,30
+18577,Alberta,972-7813-49,Phone,Ace 5s,Does not connect to external devices,,Medium,Surya,12:00 PM,10:00 PM,11-08-2020,11-09-2020,11-08-2020 12:00,11-09-2020 22:00,754,32
+6186,Jordan,038-1199-32,Phone,Ace 5s,Forgotten password,,Low,Surya,2:00 PM,7:00 PM,11-11-2020,11-14-2020,11-11-2020 14:00,14-11-2020 00:00,58,3
+14281,Paul,834-3372-96,Phone,Ace 5s,Screen Is blank,,High,Surya,3:00 PM,8:00 AM,03-09-2021,03-10-2021,03-09-2021 15:00,03-10-2021 08:00,713,30
+61069,Eric,603-8428-42,Phone,Ace 6s+,partial screen damage,,Medium,Surya,8:00 PM,2:00 PM,11-01-2020,11-02-2020,11-01-2020 20:00,11-02-2020 14:00,738,31
+71977,Brad,586-1116-32,Phone,Ace M31 Prime,mike is not working,,Low,Rohan,3:00 PM,3:00 PM,2-14-2021,2-20-2021,14-02-2021 00:00,20-02-2021 00:00,144,6
+41119,Sawyer,747-7081-21,Phone,Ace M31 Prime,Screen frozen,,High,Rohan,5:00 PM,8:00 PM,03-12-2021,3-13-2021,03-12-2021 17:00,13-03-2021 00:00,6377,266
+55240,Stuart,827-4188-44,Phone,Ace Galaxy S10,Unresponsive power button,,Medium,Rohan,6:00 PM,3:00 PM,02-10-2021,02-11-2021,02-10-2021 18:00,02-11-2021 15:00,741,31
+38818,Kelsey,873-1665-77,Phone,Ace Galaxy S9,Cannot install apps,,Low,Rohan,7:00 PM,5:00 PM,02-10-2021,2-13-2021,02-10-2021 19:00,13-02-2021 00:00,5563,232
+49697,Ashton,296-5858-24,Tablet,Ace Swift F20,Wifi connection issues,,Low,Rohan,10:00 PM,6:00 PM,01-01-2021,01-04-2021,01-01-2021 22:00,01-04-2021 18:00,2156,90
+90637,Chloe,033-3919-51,Tablet,Ace NotePad 4,Speakers damaged,,Medium,Rohan,11:00 AM,7:00 PM,2-14-2021,2-15-2021,14-02-2021 00:00,15-02-2021 00:00,24,1
+81149,Alina,250-3644-29,Tablet,Ace NotePad 4,Calling feature unresponsive,11,High,Rohan,12:00 PM,10:00 PM,11-27-2020,11-27-2020,27-11-2020 00:00,27-11-2020 00:00,0,0
+76410,Samantha,749-4031-41,Tablet,Ace NotePad 2,Broken Camera,7,Medium,Rohan,7:00 AM,7:00 PM,12-03-2020,12-04-2020,12-03-2020 07:00,12-04-2020 19:00,756,32
+63195,Clark,074-2381-75,Tablet,Ace Tab E750,Partially screen damage,,Medium,Rohan,5:00 PM,10:00 PM,3-18-2021,3-19-2021,18-03-2021 00:00,19-03-2021 00:00,24,1
+32746,Brooke,038-8414-59,Tablet,Ace NotePad 4,Camera not working,7,Medium,Rohan,7:00 PM,8:00 AM,3-16-2021,3-17-2021,16-03-2021 00:00,17-03-2021 00:00,24,1
+56327,Martin,465-4279-70,Tablet,Ace Tablet 500 Mini,IR blaster unresponsive sometimes,,Low,Rohan,8:00 AM,2:00 PM,12-26-2020,12-30-2020,26-12-2020 00:00,30-12-2020 00:00,96,4
+74819,Edith,792-1752-41,Tablet,Ace Tab E750,Cannot connect to Playstore,,Low,Rohan,2:00 PM,1:00 PM,3-28-2021,3-31-2021,28-03-2021 00:00,31-03-2021 00:00,72,3
+23669,Tiana,003-0028-83,Tablet,Ace NotePad 4,Phone crashes occasionally,,Low,Rohan,1:00 PM,10:00 AM,1-15-2021,1-17-2021,15-01-2021 00:00,17-01-2021 00:00,48,2
+21921,Paige,450-8763-00,Tablet,Ace Tab E750,SLow charging battery,,Medium,Rohan,10:00 AM,9:00 AM,02-01-2021,02-02-2021,02-01-2021 10:00,02-02-2021 09:00,743,31
+54531,April,224-1723-58,Tablet,Ace NotePad 4,Overall performance is sLow,,Medium,Ahmed,9:00 AM,10:00 PM,12-08-2020,12-09-2020,12-08-2020 09:00,12-09-2020 22:00,757,32
+26606,Dexter,468-2054-97,Tablet,Ace Tablet 500,Camera broken,7,Medium,Ahmed,4:00 PM,7:00 PM,12-12-2020,12-13-2020,12-12-2020 16:00,13-12-2020 00:00,8,1
+39308,Haris,982-4555-34,Tablet,Ace Tab E750 Pro,Touchscreen unresponsive,,High,Ahmed,12:00 PM,8:00 AM,3-14-2021,3-15-2021,14-03-2021 00:00,15-03-2021 00:00,24,1
+47385,Charlotte,278-2047-74,Laptop,Ace Infinite,Cannot connect to wifi,,Low,Ahmed,7:00 PM,2:00 PM,12-19-2020,12-23-2020,19-12-2020 00:00,23-12-2020 00:00,96,4
+42728,Brianna,695-2790-98,Laptop,Ace SparX Pro,Charging port damaged,,High,Ahmed,9:00 AM,1:00 PM,3-18-2021,3-18-2021,18-03-2021 00:00,18-03-2021 00:00,0,0
+60705,Owen,448-3171-82,Laptop,Ace Notebook 1.0,Water damage,,High,Ahmed,11:00 AM,2:00 PM,12-21-2020,12-21-2020,21-12-2020 00:00,21-12-2020 00:00,0,0
+81329,Edith,044-7824-25,Laptop,Ace Flare S2,Display lagging,,Low,Ahmed,12:00 PM,3:00 PM,11-30-2020,12-03-2020,30-11-2020 00:00,12-03-2020 15:00,6297,263
+80839,Haris,752-5745-42,Laptop,Ace Infinite,ms apps are not responding,,Low,Ahmed,7:00 AM,8:00 PM,02-02-2021,02-03-2021,02-02-2021 07:00,02-03-2021 20:00,685,29
+47194,Andrew,168-5783-43,Laptop,Ace Notebook 2.0,chrome is not responding,,Low,Ahmed,5:00 PM,3:00 PM,12-20-2020,12-22-2020,20-12-2020 00:00,22-12-2020 00:00,48,2
+76079,Aston,003-0287-30,Laptop,Ace Notebook 2.0 Lite,mouse pointer is not working,,Medium,Ahmed,7:00 PM,5:00 PM,11-23-2020,11-24-2020,23-11-2020 00:00,24-11-2020 00:00,24,1
+49119,Alexander,004-2536-48,Laptop,Ace Notebook 1.0,water damage,,High,Ahmed,8:00 AM,6:00 PM,03-04-2021,03-04-2021,03-04-2021 08:00,03-04-2021 18:00,10,1
+45812,Lydia,591-7216-68,Laptop,Ace Notebook 2.0 Lite,some apps are not functioning,,Low,Ahmed,2:00 PM,7:00 PM,11-30-2020,12-03-2020,30-11-2020 00:00,12-03-2020 19:00,6293,263
+8829,Evelyn,571-7044-14,Laptop,Ace Notebook 2.0 Lite,keypad not working,,Medium,Ahmed,1:00 PM,10:00 PM,12-24-2020,12-25-2020,24-12-2020 00:00,25-12-2020 00:00,24,1
+8978,Sophia,914-9834-34,Laptop,Ace Swift F20 Lite,webcam is not turning on,,Low,Ahmed,10:00 AM,12:00 PM,1-15-2021,1-19-2021,15-01-2021 00:00,19-01-2021 00:00,96,4
+40112,Naomi,661-6784-62,Laptop,Ace Notebook 2.0 Lite,cannot use bluetooth and external devices,,Medium,Ahmed,9:00 AM,2:00 PM,12-30-2020,12-31-2020,30-12-2020 00:00,31-12-2020 00:00,24,1
+93971,Vivian,646-1268-94,Laptop,Ace Notebook 2.0,battery drains quickly,3,Medium,Ahmed,4:00 PM,3:00 PM,02-02-2021,02-03-2021,02-02-2021 16:00,02-03-2021 15:00,671,28
+18803,Deanna,472-1714-72,Laptop,Ace Notebook 1.0,Low battery life,,Low,Ahmed,12:00 PM,8:00 PM,01-08-2021,01-11-2021,01-08-2021 12:00,01-11-2021 20:00,2216,93
+2514,Clark,727-9239-30,Laptop,Ace Infinite,Doesnot charge upto 100%,,Medium,Ahmed,7:00 PM,3:00 PM,1-28-2021,1-29-2021,28-01-2021 00:00,29-01-2021 00:00,24,1
+9743,Eric,156-0925-87,Laptop,Ace Infinite,Can't connect to wifi,,Medium,Ahmed,9:00 AM,5:00 PM,1-25-2021,1-26-2021,25-01-2021 00:00,26-01-2021 00:00,24,1
+20311,Jordan,589-0959-90,Laptop,Ace Flare S6,SLow Phone,,Low,Abhishek,11:00 AM,8:00 AM,12-18-2020,12-21-2020,18-12-2020 00:00,21-12-2020 00:00,72,3
+40739,Kristian,897-1007-16,Laptop,Ace SparX Pro,Speakers not working,,Medium,Abhishek,12:00 PM,2:00 PM,02-03-2021,02-04-2021,02-03-2021 12:00,02-04-2021 14:00,746,32
+24013,Jordan,378-6927-88,Desktop,Ace AZ Desktop,Low battery life,,Low,Abhishek,2:00 PM,1:00 PM,02-07-2021,02-10-2021,02-07-2021 14:00,02-10-2021 13:00,2207,92
+57160,Chelsea,065-2638-58,Desktop,Ace Pro 1000,Cannot install apps,,Medium,Abhishek,3:00 PM,10:00 AM,1-19-2021,1-20-2021,19-01-2021 00:00,20-01-2021 00:00,24,1
+3786,Andrew,207-1785-57,Desktop,Ace Pro 1000,RAM not accessible,,High,Abhishek,8:00 PM,9:00 AM,12-29-2020,12-30-2020,29-12-2020 00:00,30-12-2020 00:00,24,1
+7392,Oliver,554-8400-24,Desktop,Ace AZ Desktop,Cannot install updates,,Low,Abhishek,3:00 PM,4:00 PM,3-18-2021,3-21-2021,18-03-2021 00:00,21-03-2021 00:00,72,3
+26072,Lily,179-4864-37,Desktop,Ace PC 3699,Display damaged,,High,Abhishek,5:00 PM,12:00 PM,12-13-2020,12-14-2020,13-12-2020 00:00,14-12-2020 00:00,24,1
+75561,Deanna,123-9592-54,Desktop,Ace Pro 2000,Touchscreen unresponsive sometimes,,Low,Abhishek,6:00 PM,7:00 PM,12-09-2020,12-12-2020,12-09-2020 18:00,12-12-2020 19:00,2185,92
+90148,Violet,848-6863-47,Desktop,Ace PC 3699,Keyboard damaged,,Medium,Abhishek,7:00 PM,9:00 AM,3-19-2021,3-20-2021,19-03-2021 00:00,20-03-2021 00:00,24,1
+6927,Sam,148-8429-56,Desktop,Ace A700,Touchscreen unresponsive,,Medium,Abhishek,10:00 PM,2:00 PM,1-24-2021,1-25-2021,24-01-2021 00:00,25-01-2021 00:00,24,1
+46644,Alen,026-4319-65,Desktop,Ace Pro 2000,Water damage,,High,Abhishek,11:00 AM,3:00 PM,12-30-2020,12-30-2020,30-12-2020 00:00,30-12-2020 00:00,0,0
+91905,Owen,934-3296-76,Desktop,Ace Pro 1000,Processor burning,,High,Abhishek,12:00 PM,8:00 PM,11-02-2020,11-02-2020,11-02-2020 12:00,11-02-2020 20:00,8,1
+88688,Miller,094-7083-45,Desktop,Ace AZ Desktop,Keyboard unresponsive,,Medium,Abhishek,7:00 AM,3:00 PM,03-06-2021,03-07-2021,03-06-2021 07:00,03-07-2021 15:00,728,31
+21589,Justin,977-7736-71,Desktop,Ace PC 3699,Fans not working sometimes,,Medium,Abhishek,5:00 PM,5:00 PM,2-18-2021,2-19-2021,18-02-2021 00:00,19-02-2021 00:00,24,1
+74652,Jessica,564-9809-89,Tablet,Ace Swift F20 Lite,Cannot install updates,,Low,Abhishek,7:00 PM,6:00 PM,2-14-2021,2-17-2021,14-02-2021 00:00,17-02-2021 00:00,72,3
+18204,Lucia,134-5350-73,Tablet,Ace Swift F20,Cannot install updates,,Low,Surya,8:00 AM,7:00 PM,3-18-2021,3-21-2021,18-03-2021 00:00,21-03-2021 00:00,72,3
+48510,Albert,383-7150-22,Tablet,Ace Tab E750 Pro,Screen blackout when turning on,,Medium,Surya,2:00 PM,10:00 PM,11-07-2020,11-08-2020,11-07-2020 14:00,11-08-2020 22:00,752,32
+63844,Kimberly,759-8381-18,Tablet,Ace Tab E750,Minor monitor issues,,Medium,Surya,1:00 PM,7:00 PM,3-26-2021,3-27-2021,26-03-2021 00:00,27-03-2021 00:00,24,1
+32353,Oscar,306-6866-86,Tablet,Ace NotePad 2,Monitor ghosting,,Medium,Surya,10:00 AM,10:00 PM,2-22-2021,2-23-2021,22-02-2021 00:00,23-02-2021 00:00,24,1
+56994,Alberta,777-8352-71,Tablet,Ace Swift F20,Cannot connect to wifi,,Low,Surya,9:00 AM,8:00 AM,11-18-2020,11-21-2020,18-11-2020 00:00,21-11-2020 00:00,72,3
+60953,Charlotte,340-8622-14,Phone,Ace Galaxy S10,Charging port damaged,,High,Surya,4:00 PM,2:00 PM,3-23-2021,3-24-2021,23-03-2021 00:00,24-03-2021 00:00,24,1
+88075,Sydney,999-7963-47,Phone,Ace X3,Water damage,,High,Raj,12:00 PM,1:00 PM,1-23-2021,1-24-2021,23-01-2021 00:00,24-01-2021 00:00,24,1
+75900,Amanda,760-8911-18,Phone,Ace Galaxy S10,Display lagging,,Low,Raj,7:00 PM,10:00 AM,11-08-2020,11-10-2020,11-08-2020 19:00,11-10-2020 10:00,1455,61
+19759,Kimberly,212-8684-95,Phone,Ace Galaxy S10,ms apps are not responding,,Low,Raj,9:00 AM,9:00 AM,12-07-2020,12-10-2020,12-07-2020 09:00,12-10-2020 09:00,2208,92
+74001,Kevin,929-4326-93,Tablet,Ace Swift F20,chrome is not responding,,Low,Raj,11:00 AM,10:00 PM,1-15-2021,1-18-2021,15-01-2021 00:00,18-01-2021 00:00,72,3
+61863,Luke,824-5672-46,Tablet,Ace Tab E750 Pro,mouse pointer is not working,,Medium,Raj,12:00 PM,7:00 PM,2-14-2021,2-15-2021,14-02-2021 00:00,15-02-2021 00:00,24,1
+76904,Adrian,560-9506-18,Laptop,Ace Lappy 1126,water damage,,High,Raj,2:00 PM,8:00 AM,12-12-2020,12-13-2020,12-12-2020 14:00,13-12-2020 00:00,10,1
+36997,Heather,781-7097-02,Laptop,Ace Notebook 2.0,some apps are not functioning,,Low,Raj,3:00 PM,10:00 PM,3-28-2021,3-30-2021,28-03-2021 00:00,30-03-2021 00:00,48,2
+17514,Connie,962-0158-70,Laptop,Ace Notebook 1.0,keypad not working,,Medium,Raj,8:00 PM,7:00 PM,3-28-2021,3-29-2021,28-03-2021 00:00,29-03-2021 00:00,24,1
+44837,Audrey,830-7928-54,Laptop,Ace Swift F20 Lite,webcam is not turning on,,Low,Raj,3:00 PM,10:00 PM,01-08-2021,1-13-2021,01-08-2021 15:00,13-01-2021 00:00,4815,201
+43082,Byron,540-1334-40,Tablet,Ace Tab E750 Pro,cannot use bluetooth and external devices,,Medium,Raj,5:00 PM,8:00 AM,11-29-2020,11-30-2020,29-11-2020 00:00,30-11-2020 00:00,24,1
+58013,Lucia,682-1334-20,Tablet,Ace Tablet 500,battery drains quickly,3,Medium,Raj,6:00 PM,2:00 PM,3-21-2021,3-22-2021,21-03-2021 00:00,22-03-2021 00:00,24,1
+10712,Kellan,154-8935-09,Tablet,Ace NotePad 2,Wifi connection issues,,Low,Raj,7:00 PM,3:00 PM,01-07-2021,01-10-2021,01-07-2021 19:00,01-10-2021 15:00,2204,92
+28013,Madaline,334-1065-96,Tablet,Ace Swift F20,cannot download apps,,Medium,Ahmed,10:00 PM,8:00 AM,03-12-2021,3-13-2021,03-12-2021 22:00,13-03-2021 00:00,6382,266
+57054,Aida,287-0361-39,Tablet,Ace Tablet 500 Mini,cannot install windows 10,,Low,Ahmed,8:00 AM,2:00 PM,03-11-2021,3-14-2021,03-11-2021 08:00,14-03-2021 00:00,5624,235
+58873,Briony,222-8610-96,Tablet,Ace Tablet 500 Mini,does not open ms word,,Low,Ahmed,2:00 PM,1:00 PM,03-03-2021,03-04-2021,03-03-2021 14:00,03-04-2021 13:00,743,31
+60950,Edith,692-4211-91,Phone,Ace 6s+,Forgotten password,,High,Ahmed,1:00 PM,10:00 AM,02-09-2021,02-10-2021,02-09-2021 13:00,02-10-2021 10:00,717,30
+24541,Brooke,877-2030-62,Phone,Ace Galaxy S9,Device does not connect to the network,,Medium,Ahmed,10:00 AM,9:00 AM,01-05-2021,01-06-2021,01-05-2021 10:00,01-06-2021 09:00,743,31
+95561,Frederick,900-1659-63,Phone,Ace Galaxy S10,Broken screen,6,Medium,Ahmed,9:00 AM,10:00 PM,2-14-2021,2-15-2021,14-02-2021 00:00,15-02-2021 00:00,24,1
+46255,Melanie,609-9960-43,Phone,Ace M31 Prime,Home button not working,,Low,Ahmed,4:00 PM,7:00 PM,11-03-2020,11-06-2020,11-03-2020 16:00,11-06-2020 19:00,2211,93
+38627,Adrianna,154-5364-56,Phone,Ace Galaxy S10,Phone battery damaged,,High,Ahmed,12:00 PM,8:00 AM,11-30-2020,12-01-2020,30-11-2020 00:00,12-01-2020 08:00,7744,323
+50507,Ryan,561-2188-69,Phone,Ace Galaxy S4,Phone heats up quickly,,Low,Ahmed,7:00 PM,2:00 PM,02-09-2021,2-13-2021,02-09-2021 19:00,13-02-2021 00:00,4843,202
+72547,Kate,765-3729-59,Phone,Ace Galaxy S10,Sounds not loud enough,,Low,Ahmed,9:00 AM,1:00 PM,03-12-2021,3-15-2021,03-12-2021 09:00,15-03-2021 00:00,6321,264
+97456,Sabrina,859-7072-69,Phone,Ace Galaxy S6,tablet lagging often,,Medium,Ahmed,11:00 AM,10:00 AM,01-06-2021,01-07-2021,01-06-2021 11:00,01-07-2021 10:00,719,30
+8299,Jacob,822-9951-73,Phone,Ace Galaxy S6,Phone senitivity High,,Low,Ahmed,12:00 PM,9:00 AM,01-03-2021,01-07-2021,01-03-2021 12:00,01-07-2021 09:00,2925,122
+456,Carina,218-2177-59,Phone,Ace 5s,Phone power off itself,,High,Ahmed,7:00 AM,4:00 PM,02-12-2021,02-12-2021,02-12-2021 07:00,02-12-2021 16:00,9,1
+22448,Natalie,181-9101-01,Phone,Ace 6,Back button not working sometimes,,Low,Ahmed,5:00 PM,12:00 PM,12-16-2020,12-19-2020,16-12-2020 00:00,19-12-2020 00:00,72,3
+7706,Heather,095-7872-22,Phone,Ace Galaxy S10,Camera Broken,7,Low,Ahmed,7:00 PM,7:00 PM,12-07-2020,12-10-2020,12-07-2020 19:00,12-10-2020 19:00,2208,92
+10281,Adele,718-6874-38,Phone,Ace Galaxy S4,Pictures quality breaking,,Low,Ahmed,8:00 AM,9:00 AM,02-11-2021,2-13-2021,02-11-2021 08:00,13-02-2021 00:00,6296,263
+90915,Eric,357-2971-38,Phone,Ace Galaxy S9,Storage gets full often,,Low,Surya,2:00 PM,11:00 AM,01-04-2021,01-07-2021,01-04-2021 14:00,01-07-2021 11:00,2181,91
+929,Sam,789-4518-91,Desktop,Ace AZ Desktop,Pop up ads often disturbing,,Low,Surya,1:00 PM,12:00 PM,1-13-2021,1-15-2021,13-01-2021 00:00,15-01-2021 00:00,48,2
+87225,Catherine,355-0136-13,Desktop,Ace AZ Desktop,Game glitches,,Low,Surya,10:00 AM,5:00 PM,2-24-2021,2-27-2021,24-02-2021 00:00,27-02-2021 00:00,72,3
+5912,Sabrina,053-7788-51,Desktop,Ace AZ Desktop,cannot connect to the wifi,,Low,Surya,9:00 AM,6:00 PM,03-08-2021,03-12-2021,03-08-2021 09:00,03-12-2021 18:00,2937,123
+88669,Adrian,646-6386-21,Desktop,Ace A700,Microphone not working sometimes,,Low,Surya,4:00 PM,7:00 PM,3-25-2021,3-28-2021,25-03-2021 00:00,28-03-2021 00:00,72,3
+72401,Alan,345-4614-21,Desktop,Ace AZ Desktop,Bluetooth disconnects on its own,5,Low,Surya,8:00 AM,7:00 PM,12-16-2020,12-19-2020,16-12-2020 00:00,19-12-2020 00:00,72,3
+7922,Evelyn,080-6799-43,Desktop,Ace Quantum Core 5278,Updates are not keeping up,,Low,Surya,2:00 PM,8:00 AM,1-22-2021,1-25-2021,22-01-2021 00:00,25-01-2021 00:00,72,3
+37935,Jacob,676-8613-34,Desktop,Ace Zeus V01,Lags when Youtube opens,,Low,Rohan,1:00 PM,10:00 PM,1-31-2021,02-04-2021,31-01-2021 00:00,02-04-2021 22:00,1486,62
+38844,Brad,694-9564-12,Laptop,Ace Infinite,Hotspot not connecting to some devices,,Low,Rohan,1:00 PM,7:00 PM,3-13-2021,3-16-2021,13-03-2021 00:00,16-03-2021 00:00,72,3
+16297,Mary,914-6748-81,Laptop,Ace SparX Pro,Keyboard lag,,Medium,Rohan,10:00 AM,10:00 PM,02-10-2021,02-11-2021,02-10-2021 10:00,02-11-2021 22:00,756,32
+75765,Martin,301-0324-11,Laptop,Ace Flare S6,Apps not responding at times,2,Medium,Rohan,4:00 PM,8:00 AM,03-01-2021,03-02-2021,03-01-2021 16:00,03-02-2021 08:00,736,31
+86112,Haris,683-8219-56,Laptop,Ace Flare S2,Screen freezes when charging,,Medium,Rohan,12:00 PM,2:00 PM,11-05-2020,11-06-2020,11-05-2020 12:00,11-06-2020 14:00,746,32
+11234,chanyeol,701-5463-56,Phone,Ace Galaxy S10,Music glitches,,Low,Rohan,10:00 AM,3:00 PM,1-16-2021,1-19-2021,16-01-2021 00:00,19-01-2021 00:00,72,3
+112,sehun,568-1485-11,Phone,Ace Galaxy S4,Data Low mode is disabled,,Low,Rohan,4:00 PM,8:00 AM,03-03-2021,03-06-2021,03-03-2021 16:00,03-06-2021 08:00,2200,92
