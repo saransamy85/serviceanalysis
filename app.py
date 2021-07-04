@@ -2,6 +2,7 @@
 from datetime import date
 import datetime
 from logging import exception
+from os import close
 from flask import Flask, redirect,url_for,request,render_template,session,flash
 from pyasn1_modules.rfc2459 import Time
 import pyrebase
@@ -51,14 +52,14 @@ for i in rmcount.each():
 
 
 # Pie chart, where the slices will be ordered and plotted counter-clockwise:
-labels = 'Medium', 'Low', 'High'
+labels = ['Medium', 'Low', 'High']
 sizes = [medi, loww, urgg]
-explode = (0, 0.1, 0)  # only "explode" the 2nd slice (i.e. 'Hogs')
-fig1, ax1 = plt.subplots()
-ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
-        shadow=True, startangle=90)
-ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-plt.savefig("static/images/chart.png")
+# explode = (0, 0.1, 0)  # only "explode" the 2nd slice (i.e. 'Hogs')
+# fig1, ax1 = plt.subplots()
+# ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
+#         shadow=True, startangle=90)
+# ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+# plt.savefig("static/images/chart.png")
 plt.close()
 
 
@@ -146,19 +147,23 @@ def manager():
     else:
         if flagg !=None:
             #bar chartc
-            x = np.array(["Opened", "Closed"])
-            y = np.array([opencount, closecount])
-            plt.bar(x,y)
-            plt.savefig("static/images/ucount.png")
-            plt.close()
+            # x = np.array(["Opened", "Closed"])
+            x=["opened","Closed"]
+            y=[opencount,closecount]
+            # y = np.array([opencount, closecount])
+            # plt.bar(x,y)
+            # plt.savefig("static/images/ucount.png")
+            # plt.close()
             newtickets=db.child("Tickets").order_by_child("STATUS").equal_to("Opened").get()
             for i in newtickets.each():
                 li.append(list([i.val()["CUSTOMER ID"],i.val()["PRODUCT NAME"],i.val()["ISSUES"],i.val()["CREATED BY"],i.val()["OPENED"],i.val()["SEVERITY"],i.val()["STATUS"]]))
             print(li)
             model.data1.head()
+            print(model.dummy.head(1))
+            print(model.dummy.tail(1))
             model.data1.describe()
             # print(type(data.head()))
-            return render_template("manager.html",flagg_=flagg,datta=li,datta1=model.data1.describe())
+            return render_template("manager.html",flagg_=flagg,datta=li,dum=model.dum1,dd1=model.dum2,labels=labels,sizes=sizes,x=x,y=y)
         else:
             flash("Please sign in","success")
             return redirect(url_for('home'))
@@ -221,7 +226,7 @@ def agent():
         iss=db.child("Tickets").order_by_child("CREATED BY").equal_to(signas).get()
         for i in iss.each():
             # print(i.val())
-            if i.val()["CREATED BY"]==signas:
+            if i.val()["CREATED BY"]==signas and i.val()["STATUS"]=="Opened":
                 check.append(list([i.val()["CUSTOMER ID"],i.val()["PRODUCT NAME"],i.val()["PRODUCT CATEGORY"],i.val()["ISSUES"],i.val()["SEVERITY"],i.val()["STATUS"]]))
                 with open("chem.csv","w")as file:
                     writer=csv.DictWriter(file,fieldnames=['CUSTOMER ID','CUSTOMER NAME','PHONE NO','PRODUCT NAME','PRODUCT CATEGORY','ISSUES','CREATED BY','SEVERITY','OPENED','CLOSED','DATE-OPENED','DATECLOSED','Hours','Days','STATUS'])
@@ -239,4 +244,5 @@ def agent():
         return render_template("agent.html",check=check,signas=signas,usermedium=usermedium,userlow=userlow,userhigh=userhigh)
 
 if __name__=='__main__':
+
     app.run(debug=True)
